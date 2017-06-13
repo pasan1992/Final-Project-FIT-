@@ -1,0 +1,827 @@
+DESC:def:What is anthrax?
+
+DESC:def:Is anthrax contagious?
+
+DESC:reason:What causes anthrax?
+
+DESC:manner:How is anthrax contracted?
+
+DESC:manner:How common is anthrax?
+
+DESC:def:What are risk factors for anthrax infection?
+
+NUM:period:How long is the incubation period with anthrax?
+
+DESC:def:What specialists treat anthrax?
+
+DESC:manner:How is the diagnosis made of anthrax?
+
+DESC:def:What is the treatment for anthrax?
+
+DESC:def:What is the prognosis for anthrax infections?
+
+DESC:def:What is a bladder infection?
+
+DESC:reason:What causes bladder infections?
+
+DESC:def:What are some risk factors for bladder infection?
+
+DESC:desc:What are the signs and symptoms of a bladder infection in men?
+
+DESC:desc:What are the signs and symptoms of a bladder infection in children?
+
+DESC:manner:How is a bladder infection diagnosed?
+
+HUM:ind:Are home remedies effective for a bladder infection?
+
+DESC:manner:How is a bladder infection during pregnancy treated?
+
+DESC:def:What are potential complications of a bladder infection?
+
+LOC:other:Can bladder infections be prevented?
+
+DESC:def:What is the prognosis for a bladder infection?
+
+DESC:def:What is bone cancer?
+
+DESC:def:What is metastatic bone cancer?
+
+DESC:def:What are risk factors for bone cancer?
+
+DESC:def:What are bone cancer symptoms and signs?
+
+HUM:ind:What kinds of bone cancer occur in children?
+
+ENTY:other:What tests are used to diagnose bone cancer?
+
+DESC:def:What is the treatment for bone cancer?
+
+HUM:ind:What specialists treat bone cancer?
+
+HUM:ind:Are there any treatments or medications that relieve bone cancer pain?
+
+HUM:ind:Is it possible to prevent bone cancer?
+
+DESC:def:What is cancer?
+
+HUM:ind:What specialists treat cancer?
+
+DESC:manner:How do health-care professionals diagnose cancer?
+
+DESC:manner:How do physicians determine cancer staging?
+
+DESC:def:What is the treatment for cancer?
+
+HUM:ind:Are there home remedies or alternative treatments for cancer?
+
+DESC:def:What is the prognosis for cancer?
+
+HUM:ind:Is it possible to prevent cancer?
+
+LOC:other:Where can people find more information about cancer?
+
+DESC:def:What are serious but rare complications of cat scratch disease?
+
+HUM:ind:Is it possible to prevent cat scratch disease?
+
+LOC:other:Where can people find more information about cat scratch disease?
+
+DESC:def:What is chickenpox? What causes chickenpox?
+
+DESC:def:What are risk factors for chickenpox?
+
+DESC:manner:How does chickenpox spread? What is the contagious period for chickenpox?
+
+DESC:def:What does chickenpox look like?
+
+HUM:ind:What types of specialists treat chickenpox?
+
+NUM:count:Are there home remedies for chickenpox?
+
+DESC:def:What are the possible complications of chickenpox?
+
+DESC:def:What is the prognosis of chickenpox?
+
+DESC:def:What is a connective tissue disease?
+
+DESC:reason:What causes connective tissue disease?
+
+DESC:def:What are genetic risk factors for developing connective tissue disease?
+
+HUM:ind:What autoimmune diseases are associated with connective tissue disease?
+
+DESC:def:What is a coxsackievirus?
+
+DESC:desc:What are the types of coxsackieviruses, and what can they cause?
+
+LOC:other:Is the coxsackievirus contagious?
+
+NUM:period:How long are coxsackieviruses contagious?
+
+DESC:def:What are coxsackievirus infection symptoms and signs?
+
+DESC:manner:How do people get infected with coxsackievirus?
+
+DESC:def:What are the risk factors for coxsackievirus infection?
+
+DESC:def:What specialists treat coxsackievirus infections?
+
+DESC:manner:How do physicians diagnose coxsackievirus infections?
+
+HUM:ind:Is it possible to prevent coxsackievirus infections?
+
+DESC:def:What is the prognosis of coxsackievirus infections?
+
+DESC:def:What is endocarditis?
+
+DESC:reason:What causes endocarditis?
+
+DESC:def:What are the symptoms of endocarditis?
+
+HUM:ind:Who is at risk for endocarditis?
+
+DESC:manner:How is endocarditis diagnosed?
+
+DESC:manner:How is endocarditis treated?
+
+DESC:def:What is fifth disease? What causes fifth disease?
+
+LOC:other:Are there other symptoms that can occur with fifth disease?
+
+DESC:manner:How is fifth disease spread?
+
+NUM:date:When is the contagious stage, and should I be isolated
+
+HUM:ind:if I have fifth disease?
+
+HUM:ind:Is it possible to prevent the spread of fifth disease?
+
+DESC:def:What is flu (influenza)?
+
+NUM:date:When does flu season begin and end?
+
+HUM:ind:Does a child's first flu infection help to determine the patient's lifelong risk to other viruses?
+
+DESC:def:What is the incubation period for the flu?
+
+NUM:period:How long is the flu contagious, and how long does the flu last?
+
+DESC:manner:How do health-care professionals diagnose the flu (influenza)?
+
+DESC:manner:How does flu spread?
+
+DESC:def:What is the key to flu (influenza) prevention?
+
+HUM:ind:Are there any flu shot or nasal spray vaccine side effects in adults or in children?
+
+DESC:manner:How effective is the flu vaccine?
+
+DESC:reason:Why should the flu (influenza) vaccine be taken every year?
+
+HUM:ind:What types of doctors treat the flu?
+
+HUM:ind:What medications treat the flu?
+
+NUM:date:What can people eat when they have the flu?
+
+HUM:ind:When should a person go to the emergency department for the flu?
+
+HUM:ind:Who should receive the flu vaccine, and who has the highest risk factors? When should someone get the flu shot?
+
+DESC:def:What is the prognosis for patients who get the flu? What are possible complications of the flu?
+
+HUM:ind:Can the flu be deadly?
+
+DESC:def:What is the bird (avian) flu?
+
+HUM:ind:Do antiviral agents protect people from the flu?
+
+HUM:ind:Is it safe to get a flu shot that contains thimerosal?
+
+LOC:other:Where can people find additional information about the flu?
+
+DESC:def:What is rubella (German measles)?
+
+DESC:def:What are the complications of rubella?
+
+DESC:manner:How is rubella spread from person to person?
+
+HUM:ind:Does my child need the rubella vaccine (MMR)?
+
+DESC:manner:As an adult, do I need the rubella vaccine (MMR)?
+
+DESC:def:What is group B strep?
+
+DESC:manner:How is group B strep transmitted?
+
+DESC:manner:How is group B strep infection diagnosed?
+
+HUM:ind:What types of doctors treat group B strep infections?
+
+DESC:def:What are the complications of group B strep infection?
+
+DESC:def:What is the prognosis of a group B strep infection?
+
+HUM:ind:Is it possible to prevent group B strep infection?
+
+DESC:def:What is hantavirus? What is hantavirus pulmonary syndrome (HPS)?
+
+DESC:reason:What causes hantavirus pulmonary syndrome?
+
+DESC:def:What are risk factors for hantavirus pulmonary syndrome?
+
+DESC:def:Is hantavirus contagious?
+
+NUM:period:How long is hantavirus contagious?
+
+DESC:def:What is the incubation period for hantavirus?
+
+DESC:manner:How is hantavirus pulmonary syndrome diagnosed?
+
+HUM:ind:What specialties of doctors treat hantavirus?
+
+DESC:def:What are complications of hantavirus pulmonary syndrome?
+
+DESC:def:What is the prognosis of hantavirus pulmonary syndrome?
+
+HUM:ind:Is it possible to prevent hantavirus pulmonary syndrome?
+
+LOC:other:Where can people get more information on hantavirus pulmonary syndrome?
+
+DESC:def:What is the lymph system?
+
+DESC:def:What is Hodgkin's lymphoma?
+
+DESC:desc:What are the types of Hodgkin's lymphoma?
+
+DESC:manner:How is the staging determined for Hodgkin's lymphoma?
+
+HUM:ind:Who are the doctor's who treat Hodgkin's lymphoma?
+
+DESC:manner:How do people get a second opinion for Hodgkin's lymphoma?
+
+DESC:def:What is the follow-up care after treatment for Hodgkin's lymphoma?
+
+HUM:ind:What other support is available for cancer patients?
+
+NUM:period:How long is a cold or flu contagious?
+
+DESC:manner:How will I know if I have a cold or the flu?
+
+DESC:manner:How do cold and flu viruses spread?
+
+DESC:manner:How will I know if I am cured of the flu or a cold?
+
+HUM:ind:When should someone seek medical care for a cold or the flu?
+
+NUM:date:What is the history of HIV, and when was HIV discovered? HIV vs. AIDS
+
+DESC:manner:How is HIV spread (transmitted)?
+
+HUM:ind:What are symptoms and signs of HIV infection and AIDS in men, women, and children?
+
+HUM:ind:What happens after an exposure to the blood or genital secretions of an HIV-infected person?
+
+ENTY:other:What laboratory tests are used to monitor HIV-infected people?
+
+NUM:date:When should antiviral therapy be started?
+
+DESC:def:What is the initial therapy for HIV?
+
+DESC:def:What are nucleoside and nucleotide analogue reverse transcriptase inhibitors (NRTIs)?
+
+DESC:def:What are nonnucleoside analogue reverse transcriptase inhibitors (NNRTIs)?
+
+DESC:def:What are protease inhibitors?
+
+DESC:def:What are fusion inhibitors?
+
+DESC:def:What is a CCR5 antagonist?
+
+DESC:def:What is an integrase strand transfer inhibitor?
+
+DESC:def:What
+
+HUM:ind:HIV drugs are in development?
+
+DESC:desc:What are side effects of HIV therapy?
+
+HUM:ind:What happens if the patient's viral load increases while on HIV therapy?
+
+DESC:def:What are the risks of missing doses or stopping antiviral therapy?
+
+HUM:ind:Should patients with the flu- or mono-like illness of primary HIV infection be treated?
+
+HUM:ind:What about treatment for HIV during pregnancy?
+
+HUM:ind:What can be done for people who have severe immunosuppression?
+
+HUM:ind:What is the future for HIV-infected individuals with regards to treatment simplification and cure research?
+
+DESC:def:What is in the future for preventing HIV transmission?
+
+DESC:def:What is hypothermia?
+
+DESC:def:What are the risk factors for hypothermia?
+
+HUM:ind:What body parts are more susceptible to hypothermia?
+
+DESC:reason:What causes hypothermia?
+
+DESC:desc:What are the symptoms of hypothermia in infants and children?
+
+HUM:ind:Can a person experience hypothermia indoors?
+
+HUM:ind:When should I call my doctor for hypothermia?
+
+DESC:manner:How is hypothermia diagnosed?
+
+HUM:ind:What items should I have to be prepared to prevent hypothermia?
+
+DESC:def:What is the prognosis for hypothermia?
+
+DESC:def:What is infectious mononucleosis?
+
+DESC:def:What is the cause of mono?
+
+DESC:def:What are the risk factors for mono?
+
+DESC:def:How is mono transmitted or spread? What is the incubation period for mono? What is the contagious period for mono?
+
+DESC:def:What are the signs of mono?
+
+HUM:ind:What specialists treat infectious mono?
+
+DESC:def:What are the complications of mono?
+
+DESC:def:What is the prognosis of mono?
+
+HUM:ind:Is it possible to prevent mono?
+
+DESC:def:What is malaria?
+
+DESC:def:Is malaria contagious?
+
+DESC:def:What is the incubation period for malaria?
+
+DESC:manner:How is malaria transmitted?
+
+NUM:period:How long does malaria last, and how long will it take to be cured of malaria?
+
+NUM:date:When should people seek medical care for a suspected malaria infection?
+
+DESC:def:What is pneumonia?
+
+HUM:ind:Is pneumonia contagious?
+
+NUM:date:When is pneumonia contagious?
+
+DESC:def:What is the incubation period for pneumonia?
+
+LOC:other:Can pneumonia spread?
+
+NUM:period:How long is pneumonia contagious?
+
+NUM:date:When should someone seek medical care for pneumonia?
+
+DESC:def:What is sepsis?
+
+DESC:def:Is sepsis contagious?
+
+DESC:manner:How will I know if someone has sepsis?
+
+DESC:manner:How is sepsis transmitted?
+
+HUM:ind:When will I know I am cured of sepsis?
+
+HUM:ind:When should I contact a health-care provider about sepsis?
+
+DESC:def:What is swine flu?
+
+HUM:ind:Is swine flu (H1N1) contagious?
+
+DESC:def:What is the contagious period for swine flu (H1N1)?
+
+DESC:manner:How will I know if I have swine flu?
+
+DESC:manner:How is swine flu transmitted?
+
+DESC:manner:How will I know if I am cured of swine flu?
+
+NUM:date:When should I contact a medical caregiver about swine flu (H1N1)?
+
+DESC:def:What is tuberculosis (TB)?
+
+DESC:def:Is tuberculosis (TB) contagious?
+
+DESC:manner:How will I know if I have tuberculosis?
+
+DESC:manner:How do people transmit tuberculosis?
+
+DESC:def:What is the incubation period for tuberculosis?
+
+DESC:manner:How will I know if I am cured of tuberculosis? What is the contagious period for TB?
+
+NUM:date:When should I contact a medical caregiver about tuberculosis?
+
+DESC:manner:How common is Legionnaires' disease?
+
+DESC:manner:How is the diagnosis of Legionnaires' disease made?
+
+HUM:ind:Who develops Legionnaires' disease?
+
+DESC:manner:How is Legionnaires' disease spread?
+
+DESC:manner:How can Legionnaires' disease be prevented?
+
+DESC:def:What is leptospirosis?
+
+DESC:reason:What causes leptospirosis?
+
+DESC:def:Is leptospirosis contagious? What is the contagious period for leptospirosis?
+
+DESC:def:What is the incubation period for leptospirosis?
+
+DESC:def:What are risk factors for leptospirosis?
+
+DESC:def:What specialists treat leptospirosis?
+
+DESC:manner:How do physicians diagnose leptospirosis?
+
+DESC:def:What is the prognosis of leptospirosis?
+
+DESC:def:What is malaria?
+
+DESC:def:Is malaria contagious?
+
+DESC:def:What is the incubation period for malaria?
+
+DESC:reason:What causes malaria?
+
+DESC:def:What specialists treat malaria?
+
+DESC:manner:How do physicians diagnose malaria?
+
+HUM:ind:Can malaria reoccur after treatment?
+
+DESC:def:What is the prognosis of malaria?
+
+HUM:ind:Is there a malaria vaccine?
+
+DESC:def:What is Marburg virus disease?
+
+DESC:reason:What causes Marburg disease?
+
+DESC:def:What are risk factors for getting Marburg infections?
+
+DESC:manner:How do health-care professionals diagnose Marburg viral infections?
+
+DESC:def:What specialists treat Marburg infections?
+
+HUM:ind:Is it possible to prevent Marburg virus infections?
+
+DESC:def:What is the prognosis for a Marburg virus infection? What complications may
+
+HUM:ind:occur with Marburg infections?
+
+DESC:def:What research is ongoing about Marburg virus infections?
+
+DESC:reason:Why is Africa now seeing so many cases of what were relatively rare viral
+
+HUM:ind:diseases like Ebola and Marburg virus infections?
+
+DESC:def:What is encephalitis?
+
+DESC:reason:What causes encephalitis?
+
+DESC:def:What are encephalitis symptoms and signs?
+
+DESC:def:Is encephalitis contagious?
+
+HUM:ind:Is it possible to prevent encephalitis? Is there an encephalitis vaccine?
+
+DESC:def:What is meningitis?
+
+DESC:reason:What causes meningitis?
+
+DESC:def:What is encephalomyelitis?
+
+DESC:desc:What are the risk factors for encephalitis and meningitis?
+
+HUM:ind:What specialties of doctors treat encephalitis and meningitis?
+
+DESC:manner:How do health-care professionals diagnose encephalitis and meningitis?
+
+DESC:def:What is the prognosis (outlook), and what are the complications for patients with encephalitis or meningitis?
+
+DESC:def:Is meningitis contagious?
+
+DESC:def:What is meningococcemia?
+
+DESC:reason:What causes meningococcemia?
+
+DESC:def:What are risk factors for meningococcemia?
+
+DESC:def:What are symptoms and signs of meningococcemia?
+
+DESC:manner:How is meningococcemia diagnosed?
+
+DESC:def:What is the treatment for meningococcemia?
+
+DESC:def:What is the prognosis of meningococcemia?
+
+HUM:ind:Is it possible to prevent meningococcemia?
+
+LOC:other:Where can people find more information on meningococcemia?
+
+DESC:def:What is necrotizing fasciitis?
+
+NUM:count:Are there different types of necrotizing fasciitis?
+
+DESC:reason:What causes necrotizing fasciitis?
+
+HUM:ind:Who is at risk to get necrotizing fasciitis?
+
+HUM:ind:What types of doctors treat necrotizing fasciitis?
+
+DESC:def:Is it possible to prevent necrotizing fasciitis? Is necrotizing fasciitis contagious?
+
+DESC:def:What is the prognosis (outcome) for patients with necrotizing fasciitis? What are complications of necrotizing fasciitis?
+
+LOC:other:What are some additional sources of information on necrotizing fasciitis?
+
+DESC:def:What is non-Hodgkin's lymphoma?
+
+DESC:desc:What is the difference between non-Hodgkin's lymphoma and Hodgkin's disease (or Hodgkin's lymphoma)?
+
+DESC:def:What are non-Hodgkin's lymphoma risk factors?
+
+ENTY:animal:What kind of doctors treat non-Hodgkin's lymphoma?
+
+DESC:manner:How do physicians diagnose non-Hodgkin's lymphoma?
+
+DESC:manner:What are the types of non-Hodgkin's lymphoma, and how is non-Hodgkin's lymphoma staging determined?
+
+DESC:def:What is the treatment for non-Hodgkin's lymphoma?
+
+HUM:ind:Is it possible to prevent non-Hodgkin's lymphoma?
+
+DESC:def:What is the latest research on non-Hodgkin's lymphoma?
+
+LOC:other:Where can people find more information about non-Hodgkin's lymphoma?
+
+DESC:def:What is pericarditis?
+
+DESC:reason:What causes pericarditis?
+
+DESC:manner:How is pericarditis diagnosed?
+
+DESC:def:What are the complications of pericarditis?
+
+DESC:reason:What causes plague?
+
+DESC:def:What are risk factors for plague?
+
+DESC:def:What is the incubation period for plague?
+
+DESC:manner:Is plague contagious? How is plague transmitted?
+
+DESC:def:What is the contagious period for pneumonic plague?
+
+DESC:manner:How do physicians diagnose plague?
+
+DESC:def:What is the treatment for plague?
+
+DESC:def:What is the prognosis of plague?
+
+HUM:ind:Is it possible to prevent plague? Is there a plague vaccine?
+
+HUM:ind:Could plague be used as a biological weapon?
+
+DESC:def:What is the respiratory syncytial virus (RSV)?
+
+HUM:ind:When does RSV infection occur, and who gets it?
+
+HUM:ind:Who is at risk for severe disease?
+
+DESC:manner:Is RSV infection contagious, and how is RSV infection transmitted?
+
+DESC:manner:How is RSV infection diagnosed?
+
+DESC:manner:How can RSV infection be prevented?
+
+DESC:def:What is the prognosis of an RSV infection?
+
+DESC:def:What is roseola? Is roseola contagious?
+
+DESC:reason:What virus causes roseola?
+
+DESC:def:How is roseola spread? What is the incubation period for roseola?
+
+HUM:ind:What specialties of doctors treat roseola?
+
+DESC:manner:How do health-care professionals diagnose roseola?
+
+DESC:manner:How high can the fever go with roseola?
+
+DESC:def:What are home remedies for roseola?
+
+HUM:ind:What should
+
+HUM:ind:one do if his or her child with roseola has a seizure?
+
+HUM:ind:Can the fever cause a seizure?
+
+DESC:def:Is a seizure due to fever dangerous?
+
+HUM:ind:Is there a rash with roseola?
+
+DESC:def:What is most remarkable characteristic of roseola?
+
+NUM:period:How long does roseola last?
+
+NUM:count:Are there any complications of roseola?
+
+HUM:ind:Should
+
+HUM:ind:a child with roseola see a doctor?
+
+HUM:ind:When can the child return to child care?
+
+HUM:ind:Is it possible to prevent roseola?
+
+DESC:def:What is the prognosis for a child with roseola?
+
+NUM:count:Are there other names for roseola?
+
+DESC:def:What is blood poisoning?
+
+DESC:def:What is sepsis?
+
+DESC:def:What are the stages of sepsis?
+
+DESC:reason:Why are there so many diseases with "sepsis," "septic," "septicemia," or "blood poisoning" in their name?
+
+DESC:def:What are the risk factors for sepsis?
+
+DESC:def:What are sepsis (blood poisoning) symptoms and signs?
+
+DESC:manner:How do health care professionals diagnose sepsis?
+
+HUM:ind:What types of health care professionals specialize in the treatment of sepsis?
+
+DESC:def:What is the prognosis with sepsis?
+
+DESC:def:What are the complications of sepsis?
+
+HUM:ind:Is it possible to prevent sepsis (blood poisoning)?
+
+LOC:other:What are some additional sources for information on sepsis (blood poisoning)?
+
+DESC:desc:What is the difference between sore throat and strep throat?
+
+HUM:ind:When should I see a doctor for a sore throat?
+
+DESC:manner:How is strep throat diagnosed?
+
+HUM:ind:What over-the-counter (OTC) medications will soothe a sore throat?
+
+HUM:ind:Are antibiotics necessary for a sore throat?
+
+HUM:ind:What if I have multiple recurrent episodes of strep throat?
+
+DESC:manner:How can I prevent a sore throat?
+
+DESC:def:What is the stomach flu (gastroenteritis)?
+
+HUM:ind:Are the stomach flu (gastroenteritis) and food poisoning the same condition?
+
+HUM:ind:Are the stomach flu (gastroenteritis) and the flu (influenza) the same infection?
+
+DESC:desc:What are the signs and symptoms of stomach flu (gastroenteritis) in children?
+
+DESC:manner:How is the stomach flu (gastroenteritis) spread?
+
+HUM:ind:Who gets the stomach flu (gastroenteritis)?
+
+NUM:period:How long does the stomach flu (gastroenteritis) last?
+
+HUM:ind:What are the most common causes of the stomach flu (gastroenteritis)?
+
+DESC:manner:How do I know I have the stomach flu (gastroenteritis)?
+
+HUM:ind:What natural and home remedies help soothe stomach flu (gastroenteritis)
+
+HUM:ind:symptoms?
+
+DESC:desc:What should foods are recommended to eat (diet ) when you have the stomach flu (gastroenteritis)?
+
+DESC:def:What is the treatment for the stomach flu (gastroenteritis)?
+
+HUM:ind:Which specialties of doctors treat the stomach flu (gastroenteritis)?
+
+HUM:ind:When should I call my doctor for stomach flu (gastroenteritis)?
+
+DESC:def:What are complications of stomach flu (gastroenteritis)?
+
+HUM:ind:Can you prevent from getting the stomach flu (gastroenteritis)?
+
+HUM:ind:What is the prognosis for a person who gets the stomach flu (gastroenteritis)?
+
+DESC:def:What is the swine flu?
+
+DESC:manner:How is swine flu transmitted? Is swine flu contagious?
+
+DESC:def:What is the incubation period for swine flu?
+
+DESC:def:What is the contagious period for swine flu?
+
+NUM:period:How long does the swine flu last?
+
+DESC:reason:What causes swine flu?
+
+DESC:reason:Why is swine flu now infecting humans?
+
+HUM:ind:What tests do health-care professionals use to diagnose swine flu?
+
+HUM:ind:What types of doctors treat swine flu?
+
+DESC:desc:What is the history of swine flu in humans?
+
+DESC:def:What
+
+HUM:ind:are the risk factors for swine flu?
+
+HUM:ind:Can swine flu be prevented if the swine flu vaccine (or other flu strain vaccines) is not readily available?
+
+NUM:count:Are there home remedies for swine flu?
+
+HUM:ind:Was swine flu (H1N1) a cause of an epidemic or pandemic in the 2009-2010 flu season?
+
+HUM:ind:What is the prognosis (outlook) and complications for patients who get swine flu?
+
+LOC:other:Where can I find more information about swine flu (H1N1 and H3N2v)?
+
+DESC:def:What is tuberculosis?
+
+NUM:count:Are there different types of tuberculosis (TB)?
+
+DESC:def:What are risk factors for tuberculosis?
+
+DESC:def:What are tuberculosis symptoms and signs?
+
+NUM:period:Is TB contagious, and how long is the incubation period and contagious period?
+
+DESC:manner:How do physicians diagnose tuberculosis?
+
+HUM:ind:What types of doctors treat TB?
+
+DESC:def:What are complications of tuberculosis?
+
+DESC:def:What is the prognosis of tuberculosis?
+
+DESC:manner:How can people prevent tuberculosis?
+
+DESC:def:What is typhoid fever? What is the history of typhoid fever?
+
+DESC:manner:How do patients get typhoid fever?
+
+DESC:manner:How do the bacteria cause disease, and how is it diagnosed?
+
+DESC:def:What are the symptoms of typhoid fever?
+
+DESC:def:What is the treatment for typhoid fever, and what is the prognosis?
+
+HUM:ind:Can typhoid fever be prevented?
+
+DESC:def:What is yellow fever? What is the history of yellow fever?
+
+DESC:reason:What causes yellow fever?
+
+DESC:manner:How is yellow fever transmitted?
+
+HUM:ind:What areas are high risk for contracting yellow fever?
+
+DESC:def:What is the incubation period for yellow fever?
+
+NUM:period:Is yellow fever contagious? How long is the contagious period for yellow
+
+HUM:ind:fever?
+
+HUM:ind:What types of specialists treat yellow fever?
+
+DESC:manner:How do health-care professionals diagnose yellow fever?
+
+DESC:def:What is the treatment for yellow fever?
+
+NUM:period:How long does yellow fever last?
+
+DESC:def:What is the prognosis for people with yellow fever?
+
+HUM:ind:Is it possible to prevent yellow fever?
+
+LOC:other:Where can people get more information on yellow fever?
+
+HUM:ind:Is Strep Throat Contagious?
+
+HUM:ind:Is It Wise to Take a Steroid for a Sore Throat?

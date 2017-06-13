@@ -1,0 +1,407 @@
+ABT_symptom:What are protease inhibitors?
+other:How long is the contagious period for yellow fever?
+Unclassified:How common is anthrax?
+ABT_treatment:How will I know if I am cured of tuberculosis?
+ABT_diseases:Where can people get more information on yellow fever?
+Other:What is the lymph system?
+ABT_risk:What are risk factors for meningococcemia?
+IS_prev_dis:Is it possible to prevent group B strep infection?
+ABT_causes:What is the prognosis for a person who gets the stomach flu (gastroenteritis)?
+ABT_symptom:How is the staging determined for Hodgkin's lymphoma?
+ABT_diseases:What is group B strep?
+ABT_diseases:What is the bird (avian) flu?
+ABT_symptom:What are possible complications of the flu?
+ABT_risk:What are the risk factors for coxsackievirus infection?
+ABT_causes:How is yellow fever transmitted?
+ABT_causes:What causes malaria?
+ABT_causes:What is the prognosis of meningococcemia?
+ABT_risk:What are risk factors for chickenpox?
+ABT_diseases:Where can people find more information about cat scratch disease?
+ABT_risk:What are the risk factors for encephalitis and meningitis?
+ABT_symptom:What are the complications of mono?
+IS_contagious:Is the coxsackievirus contagious?
+IS_contagious:Is meningitis contagious?
+ABT_causes:How is swine flu transmitted?
+IS_contagious:What is the contagious period for mono?
+ABT_treatment:What specialists treat bone cancer?
+IS_contagious:Is malaria contagious?
+ABT_diseases:Where can people find additional information about the flu?
+ABT_treatment:Should patients with the flu- or mono-like illness of primary HIV infection be treated?
+ABT_diseases:What is blood poisoning?
+ABT_treatment:What specialists treat Marburg infections?
+ABT_diseases:What is sepsis?
+ABT_symptom:What are the types of coxsackieviruses, and what can they cause?
+ABT_diseases:What is swine flu?
+ABT_symptom:When should a person go to the emergency department for the flu?
+ABT_symptom:How do health-care professionals diagnose roseola?
+ABT_symptom:How do I know I have the stomach flu (gastroenteritis)?
+ABT_diseases:What is an integrase strand transfer inhibitor?
+ABT_diseases:What is the history of typhoid fever?
+ABT_causes:How do patients get typhoid fever?
+ABT_symptom:What are the complications of sepsis?
+ABT_treatment:What is the treatment for anthrax?
+ABT_diseases:What is malaria?
+ABT_causes:What causes meningococcemia?
+other:When is the contagious stage, and should I be isolated
+ABT_symptom:How do health-care professionals diagnose Marburg viral infections?
+IS_cau_dis:Can the fever cause a seizure?
+ABT_causes:What causes hantavirus pulmonary syndrome?
+IS_contagious:When is pneumonia contagious?
+IS_contagious:Is sepsis contagious?
+ABT_treatment:What types of specialists treat yellow fever?
+ABT_symptom:How do physicians diagnose malaria?
+ABT_causes:How is the stomach flu (gastroenteritis) spread?
+ABT_treatment:What is the treatment for the stomach flu (gastroenteritis)?
+ABT_diseases:What is metastatic bone cancer?
+ABT_symptom:How will I know if someone has sepsis?
+ABT_diseases:Where can people find more information about cancer?
+ABT_causes:How is malaria transmitted?
+ABT_causes:How do people transmit tuberculosis?
+IS_contagious:Is TB contagious, and how long is the incubation period and contagious period?
+ABT_causes:Who develops Legionnaires' disease?
+ABT_risk:What are risk factors for plague?
+ABT_causes:Who develops Legionnaires' disease?
+IS_prev_dis:Is it possible to prevent meningococcemia?
+ABT_symptom:What are tuberculosis symptoms and signs?
+ABT_diseases:What is infectious mononucleosis?
+ABT_symptom:What is the prognosis of plague?
+IS_contagious:Is Strep Throat Contagious?
+ABT_symptom:How will I know if I have a cold or the flu?
+ABT_causes:What is the prognosis of a group B strep infection?
+Other:What is the incubation period for pneumonia?
+ABT_symptom:What if I have multiple recurrent episodes of strep throat?
+ABT_diseases:What is necrotizing fasciitis?
+ABT_symptom:What are sepsis (blood poisoning) symptoms and signs?
+ABT_treatment:Do antiviral agents protect people from the flu?
+ABT_diseases:What are complications of stomach flu (gastroenteritis)?
+ABT_symptom:How is RSV infection diagnosed?
+IS_contagious:Is swine flu (H1N1) contagious?
+ABT_symptom:When should I call my doctor for hypothermia?
+other:What is the contagious period for TB?
+ABT_symptom:What if I have multiple recurrent episodes of strep throat?
+ABT_diseases:What is hypothermia?
+ABT_causes:What is the prognosis for cancer?
+ABT_diseases:What is endocarditis?
+ABT_symptom:What does chickenpox look like?
+ABT_causes:What causes swine flu?
+ABT_risk:Is a seizure due to fever dangerous?
+ABT_diseases:What is rubella (German measles)?
+ABT_causes:What is the prognosis of mono?
+ABT_prev:How can Legionnaires' disease be prevented?
+IS_contagious:Is the coxsackievirus contagious?
+ABT_symptom:When should I call my doctor for stomach flu (gastroenteritis)?
+ABT_treatment:Are there home remedies for swine flu?
+IS_contagious:Is tuberculosis (TB) contagious?
+ABT_symptom:How do health care professionals diagnose sepsis?
+ABT_risk:What are risk factors for leptospirosis?
+ABT_treatment:What specialties of doctors treat roseola?
+IS_contagious:is roseola contagious?
+ABT_treatment:What is the treatment for cancer?
+ABT_symptom:What are the types of non-Hodgkin's lymphoma, and how is non-Hodgkin's lymphoma staging determined?
+ABT_diseases:What is malaria?
+ABT_causes:Can pneumonia spread?
+ABT_symptom:How do health-care professionals diagnose the flu (influenza)?
+ABT_symptom:How will I know if someone has sepsis?
+IS_prev_dis:Is It Wise to Take a Steroid for a Sore Throat?
+ABT_treatment:Does my child need the rubella vaccine (MMR)?
+ABT_causes:What causes encephalitis?
+IS_prev_dis:Is it possible to prevent roseola?
+ABT_symptom:What are the complications of pericarditis?
+ABT_causes:What is the prognosis of malaria?
+ABT_treatment:Why should the flu (influenza) vaccine be taken every year?
+ABT_treatment:How effective is the flu vaccine?
+IS_prev_dis:Is it possible to prevent Marburg virus infections?
+ABT_risk:What are some risk factors for bladder infection?
+ABT_diseases:What is Marburg virus disease?
+ABT_diseases:What is Hodgkin's lymphoma?
+ABT_treatment:What is the treatment for meningococcemia?
+IS_contagious:Is leptospirosis contagious?
+IS_prev_dis:Is it possible to prevent the spread of fifth disease?
+ABT_diseases:What is the swine flu?
+ABT_symptom:What are the most common causes of the stomach flu (gastroenteritis)?
+ABT_causes:What causes bladder infections?
+ABT_risk:Who is at risk for endocarditis?
+ABT_diseases:What is leptospirosis?
+IS_contagious:Is hantavirus contagious?
+ABT_prev:Is it possible to prevent bone cancer?
+other:What is the contagious period for swine flu?
+ABT_symptom:When should someone seek medical care for a cold or the flu?
+ABT_causes:How is HIV spread (transmitted)?
+ABT_symptom:What laboratory tests are used to monitor HIV-infected people?
+Other:How common is anthrax?
+other:What is the contagious period for swine flu (H1N1)?
+ABT_diseases:What is sepsis?
+ABT_diseases:What is the swine flu?
+ABT_prev:How can people prevent tuberculosis?
+ABT_risk:What are non-Hodgkin's lymphoma risk factors?
+ABT_risk:Who should receive the flu vaccine, and who has the highest risk factors?
+ABT_treatment:What HIV drugs are in development?
+IS_contagious:Is hantavirus contagious?
+ABT_symptom:Are home remedies effective for a bladder infection?
+ABT_causes:How is group B strep transmitted?
+Other:What are some additional sources of information on necrotizing fasciitis?ABT_diseases:What is cancer?
+ABT_diseases:What is pericarditis?
+ABT_causes:What causes leptospirosis?
+IS_contagious:Is yellow fever contagious?
+ABT_risk:Who is at risk for severe disease?
+ABT_treatment:How is endocarditis treated?
+ABT_causes:How is HIV spread (transmitted)?
+ABT_symptom:How will I know if I am cured of swine flu?
+ABT_diseases:What is meningitis?
+ABT_diseases:What is a bladder infection?
+ABT_diseases:What is fifth disease?
+ABT_causes:How is sepsis transmitted?
+ABT_symptom:How do physicians diagnose tuberculosis?
+IS_contagious:Is malaria contagious?
+ABT_symptoms:Are there any complications of roseola?
+ABT_treatment:What medications treat the flu?
+ABT_symptom:What are the signs and symptoms of stomach flu (gastroenteritis) in children?
+IS_contagious:is roseola contagious?
+ABT_risk:What are the risk factors for mono?
+ABT_symptom:What are bone cancer symptoms and signs?
+ABT_causes:How do people get infected with coxsackievirus?
+ABT_prev:How can I prevent a sore throat?
+other:How long is pneumonia contagious?
+ABT_causes:How is swine flu transmitted?
+ABT_causes:How do patients get typhoid fever?
+ABT_prev:What is the key to flu (influenza) prevention?
+ABT_symptom:When should someone seek medical care for pneumonia?
+ABT_causes:How do people transmit tuberculosis?
+IS_contagious:Is malaria contagious?
+ABT_symptom:What are symptoms and signs of HIV infection and AIDS in men, women, and children?
+ABT_treatment:Are there home remedies for chickenpox?
+IS_prev_dis:Is it possible to prevent sepsis (blood poisoning)?
+ABT_causes:How is sepsis transmitted?
+IS_contagious:Is tuberculosis (TB) contagious?
+ABT_symptom:How do health-care professionals diagnose cancer?
+ABT_causes:What causes yellow fever?
+ABT_diseases:What is bone cancer?
+ABT_treatment:What is the treatment for yellow fever?
+IS_contagious:Is swine flu (H1N1) contagious?
+ABT_prev:What items should I have to be prepared to prevent hypothermia?
+ABT_risk:What are risk factors for getting Marburg infections?
+ABT_causes:What causes necrotizing fasciitis?
+ABT_causes:What causes yellow fever?
+IS_contagious:Is leptospirosis contagious?
+ABT_treatment:What specialists treat coxsackievirus infections?
+ABT_causes:What is roseola?
+IS_prev_dis:Is it possible to prevent coxsackievirus infections?
+IS_contagious:Is Strep Throat Contagious?
+IS_contagious:Is TB contagious, and how long is the incubation period and contagious period?
+ABT_causes:How does flu spread?
+IS_prev_dis:Is it possible to prevent Marburg virus infections?
+ABT_symptoms:When should I see a doctor for a sore throat?
+ABT_diseases:What is tuberculosis (TB)?
+ABT_diseases:What are serious but rare complications of cat scratch disease?
+IS_prev_dis:Is it possible to prevent the spread of fifth disease?
+ABT_symptom:How do health-care professionals diagnose encephalitis and meningitis?
+IS_prev_dis:Is it possible to prevent meningococcemia?
+ABT_risk:Is a seizure due to fever dangerous?
+ABT_symptom:How is the diagnosis made of anthrax?
+ABT_diseases:What is anthrax?
+ABT_treatment:What specialties of doctors treat encephalitis and meningitis?
+IS_prev_dis:Is it possible to prevent hantavirus pulmonary syndrome?
+ABT_risk:Can the flu be deadly?
+ABT_diseases:What is tuberculosis?
+IS_prev_dis:Is it possible to prevent necrotizing fasciitis?
+ABT_treatment:What specialists treat malaria?
+IS_prev_dis:Is it possible to prevent hantavirus pulmonary syndrome?
+ABT_symptom:What are the complications of rubella?
+other:What is the contagious period for chickenpox?
+ABT_causes:What causes Marburg disease?
+IS_contagious:Is pneumonia contagious?
+ABT_symptom:How is hypothermia diagnosed?
+ABT_causes:What is the prognosis for anthrax infections?
+other:How long is hantavirus contagious?
+IS_contagious:Is sepsis contagious?
+IS_prev_dis:Is it possible to prevent mono?
+ABT_diseases:What is a connective tissue disease?
+ABT_symptom:How is endocarditis diagnosed?
+IS_contagious:Is necrotizing fasciitis contagious?
+IS_contagious:Is necrotizing fasciitis contagious?
+ABT_prev:Is it possible to prevent cancer?
+ABT_risk:What are risk factors for tuberculosis?
+IS_prev_dis:Is it possible to prevent plague?
+ABT_symptom:How will I know if I have tuberculosis?
+IS_contagious:Is pneumonia contagious?
+ABT_symptom:How is anthrax contracted?
+IS_contagious:Is swine flu contagious?
+IS_prev_dis:Is it possible to prevent encephalitis?
+ABT_causes:What is the prognosis of coxsackievirus infections?
+ABT_symptoms:When should I contact a health-care provider about sepsis?
+ABT_diseases:Where can I find more information about swine flu (H1N1 and H3N2v)?
+Other:What is the incubation period for tuberculosis?
+ABT_symptom:What is the prognosis of plague?
+ABT_causes:How is fifth disease spread?
+IS_prev_dis:Is it possible to prevent sepsis (blood poisoning)?
+ABT_symptom:How is hantavirus pulmonary syndrome diagnosed?
+ABT_causes:What causes leptospirosis?
+ABT_treatment:What is the initial therapy for HIV?
+ABT_symptom:What are the types of Hodgkin's lymphoma?
+IS_prev_dis:Can typhoid fever be prevented?
+ABT_causes:What is the prognosis of an RSV infection?
+ABT_diseases:Where can people find more information on meningococcemia?
+ABT_causes:How is Legionnaires' disease spread?
+IS_prev_dis:Can typhoid fever be prevented?
+ABT_causes:What causes pericarditis?
+ABT_symptom:What tests are used to diagnose bone cancer?
+ABT_symptom:What are the possible complications of chickenpox?
+ABT_symptom:How is pericarditis diagnosed?
+IS_contagious:Is yellow fever contagious?
+ABT_treatment:What specialists treat infectious mono?
+ABT_causes:How do cold and flu viruses spread?
+ABT_causes:What causes anthrax?
+ABT_causes:What is the cause of mono?
+ABT_treatment:Are there different types of necrotizing fasciitis?
+other:How long are coxsackieviruses contagious?
+ABT_diseases:Where can people find more information about non-Hodgkin's lymphoma?
+ABT_diseases:What is meningococcemia?
+ABT_diseases:What is the history of HIV, and when was HIV discovered? HIV vs. AIDS
+ABT_diseases:What is the difference between non-Hodgkin's lymphoma and Hodgkin's disease (or Hodgkin's lymphoma)?
+other:How long is a cold or flu contagious?
+ABT_prev:How can RSV infection be prevented?
+IS_prev_dis:Is it possible to prevent yellow fever?
+ABT_risk:What are the risks of missing doses or stopping antiviral therapy?
+ABT_risk:What areas are high risk for contracting yellow fever?
+IS_prev_dis:Is it possible to prevent encephalitis?
+IS_cau_dis:Should a child with roseola see a doctor?
+ABT_causes:How is roseola spread?
+ABT_causes:How is Legionnaires' disease spread?
+ABT_symptom:What is the prognosis for patients who get the flu?
+Other:What is the future for HIV-infected individuals with regards to treatment simplification and cure research?
+IS_contagious:Is meningitis contagious?
+ABT_prev:How can RSV infection be prevented?
+ABT_diseases:What is a coxsackievirus?
+ABT_treatment:What other support is available for cancer patients?
+ABT_symptom:How is strep throat diagnosed?
+ABT_symptom:How will I know if I have swine flu?
+other:What is the contagious period for leptospirosis?
+ABT_causes:How is malaria transmitted?
+ABT_prev:How do physicians determine cancer staging?
+ABT_treatment:What specialists treat leptospirosis?
+ABT_causes:How is plague transmitted?
+ABT_diseases:What is non-Hodgkin's lymphoma?
+ABT_symptom:How is meningococcemia diagnosed?
+IS_prev_dis:Is it possible to prevent necrotizing fasciitis?
+ABT_symptom:What are the symptoms of endocarditis?
+ABT_symptom:What is the prognosis (outlook), and what are the complications for patients with encephalitis or meningitis?
+IS_contagious:When is pneumonia contagious?
+ABT_symptom:How will I know if I am cured of swine flu?
+ABT_treatment:How is a bladder infection during pregnancy treated?
+ABT_treatment:Are there other names for roseola?
+ABT_treatment:What is the treatment for bone cancer?
+ABT_symptoms:What are potential complications of a bladder infection?
+ABT_risk:What are risk factors for bone cancer?
+ABT_symptom:What are encephalitis symptoms and signs?
+ABT_risk:What are the risk factors for hypothermia?
+Other:Why is Africa now seeing so many cases of what were relatively rare viral
+Other:Who is at risk to get necrotizing fasciitis?
+ABT_causes:Is RSV infection contagious, and how is RSV infection transmitted?
+IS_contagious:What is the contagious period for mono?
+other:How long is the flu contagious, and how long does the flu last?
+ABT_causes:What is the prognosis of chickenpox?
+Other:What is the incubation period for malaria?
+ABT_treatment:Is there an encephalitis vaccine?
+ABT_diseases:What is the history of HIV, and when was HIV discovered? HIV vs. AIDS
+ABT_symptom:How is the diagnosis of Legionnaires' disease made?
+ABT_diseases:What is typhoid fever?
+IS_prev_dis:Is it possible to prevent plague?
+ABT_treatment:What kind of doctors treat non-Hodgkin's lymphoma?
+Other:What is the incubation period for leptospirosis?
+ABT_symptom:What are the symptoms of hypothermia in infants and children?
+Other:What happens if the patient's viral load increases while on HIV therapy?
+ABT_diseases:What is encephalomyelitis?
+ABT_causes:What causes plague?
+ABT_symptom:if I have fifth disease?
+IS_prev_dis:Is it possible to prevent group B strep infection?
+ABT_symptom:What tests do health-care professionals use to diagnose swine flu?
+ABT_symptom:What is the prognosis for people with yellow fever?
+ABT_treatment:Is there a malaria vaccine?
+ABT_symptom:What is the prognosis for patients who get the flu?
+ABT_causes:What virus causes roseola?
+ABT_causes:What is the prognosis for a child with roseola?
+ABT_risk:What are the risk factors for swine flu?
+ABT_prev:Is it possible to prevent cat scratch disease?
+ABT_symptom:What are coxsackievirus infection symptoms and signs?
+IS_contagious:Is malaria contagious?
+ABT_treatment:Are there any treatments or medications that relieve bone cancer pain?
+ABT_causes:What is the prognosis (outlook) and complications for patients who get swine flu?
+ABT_diseases:What is flu (influenza)?
+ABT_causes:Is anthrax contagious?
+ABT_symptom:How is a bladder infection diagnosed?
+ABT_causes:How is swine flu transmitted?
+ABT_symptom:How do physicians diagnose coxsackievirus infections?
+ABT_diseases:What is yellow fever?
+IS_prev_dis:Is it possible to prevent mono?
+ABT_causes:What causes fifth disease?
+ABT_causes:What is the prognosis for hypothermia?
+ABT_causes:Is plague contagious?
+ABT_diseases:What is encephalitis?
+Other:Who are the doctor's who treat Hodgkin's lymphoma?
+IS_prev_dis:Is it possible to prevent coxsackievirus infections?
+ABT_symptom:How do physicians diagnose leptospirosis?
+ABT_treatment:What is the follow-up care after treatment for Hodgkin's lymphoma?
+ABT_treatment:Are there home remedies or alternative treatments for cancer?
+ABT_causes:What is the prognosis for a bladder infection?
+ABT_causes:What causes endocarditis?
+ABT_diseases:What is the prognosis (outcome) for patients with necrotizing fasciitis? What are complications of necrotizing fasciitis?
+IS_prev_dis:Can swine flu be prevented if the swine flu vaccine (or other flu strain vaccines) is not readily available?
+ABT_causes:What causes hypothermia?
+ABT_treatment:What is the treatment for plague?
+ABT_symptom:How do people get a second opinion for Hodgkin's lymphoma?
+ABT_symptom:What are the signs and symptoms of a bladder infection in men?
+ABT_symptom:What are the signs and symptoms of a bladder infection in children?
+ABT_causes:When does RSV infection occur, and who gets it?
+ABT_causes:How is mono transmitted or spread?
+ABT_diseases:Is encephalitis contagious?
+ABT_causes:What is the prognosis of hantavirus pulmonary syndrome?
+ABT_symptom:How do physicians diagnose non-Hodgkin's lymphoma?
+ABT_treatment:What specialists treat anthrax?
+ABT_treatment:What types of specialists treat chickenpox?
+ABT_diseases:What is pneumonia?
+ABT_symptom:What are the complications of group B strep infection?
+IS_prev_dis:Can swine flu be prevented if the swine flu vaccine (or other flu strain vaccines) is not readily available?
+ABT_diseases:What is a CCR5 antagonist?
+Other:What happens after an exposure to the blood or genital secretions of an HIV-infected person
+ABT_prev:How can I prevent a sore throat?
+ABT_causes:What causes connective tissue disease?
+ABT_diseases:Where can people get more information on hantavirus pulmonary syndrome?
+ABT_causes:What causes meningitis?
+ABT_treatment:When should someone get the flu shot?
+IS_prev_dis:Is it possible to prevent non-Hodgkin's lymphoma?
+ABT_symptom:What are protease inhibitors?
+ABT_causes:How is swine flu transmitted?
+ABT_symptom:Are there other symptoms that can occur with fifth disease?
+ABT_treatment:What specialties of doctors treat hantavirus?
+ABT_risk:What are risk factors for hantavirus pulmonary syndrome?
+ABT_diseases:What is fifth disease?
+ABT_symptom:What are the symptoms of typhoid fever?
+ABT_causes:How does chickenpox spread?
+ABT_treatment:What about treatment for HIV during pregnancy?
+ABT_risk:What are the risk factors for sepsis?
+ABT_symptom:How is group B strep infection diagnosed?
+Other:What is the incubation period for malaria?
+IS_prev_dis:Is it possible to prevent roseola?
+ABT_treatment:Is there a plague vaccine?
+IS_prev_dis:Is it possible to prevent yellow fever?
+other:What is the contagious period for pneumonic plague?
+ABT_causes:What causes chickenpox?
+ABT_prev:Can bladder infections be prevented?
+Other:When can the child return to child care?
+IS_contagious:Is swine flu contagious?
+ABT_causes:What is the prognosis of tuberculosis?
+ABT_treatment:As an adult, do I need the rubella vaccine (MMR)?
+ABT_diseases:What autoimmune diseases are associated with connective tissue disease?
+ABT_treatment:What specialists treat cancer?
+ABT_symptom:How do physicians diagnose plague?
+ABT_risk:What are genetic risk factors for developing connective tissue disease?
+ABT_symptom:What are the signs of mono?
+ABT_causes:What is the prognosis with sepsis?
+ABT_symptom:What are symptoms and signs of meningococcemia?
+IS_cau_dis:Should a child with roseola see a doctor?
+ABT_risk:What are risk factors for anthrax infection?
+Other:What is the incubation period for pneumonia?
+ABT_symptom:How do health-care professionals diagnose yellow fever?
+ABT_diseases:What is chickenpox?
+IS_prev_dis:Is it possible to prevent non-Hodgkin's lymphoma?
+ABT_diseases:What is hantavirus?

@@ -1,0 +1,908 @@
+ABT_diseases:what is  diseases
+ABT_diseases:what is  illness
+ABT_diseases:what is  sickness
+ABT_diseases:what is  syndrome
+ABT_diseases:what is
+ABT_diseases:diseases
+ABT_diseases:illness
+ABT_diseases:sickness
+ABT_diseases:is this illness dangrous
+ABT_diseases:is this diseases a problem
+ABT_diseases:is this sickness a problem
+ABT_diseases:is this  a problem
+ABT_diseases:more detail on illness
+ABT_diseases:more detail on diseases
+ABT_diseases:more detail on sickness
+ABT_diseases:more detail on
+ABT_diseases:what are sickness
+ABT_diseases:what is this disorder
+ABT_diseases:what is this illness
+ABT_diseases:what is this contamination
+ABT_diseases:what is this
+ABT_diseases:what is disorder
+ABT_diseases:what is illness
+ABT_diseases:what is contamination
+ABT_diseases:what is
+ABT_diseases:what is disorder
+ABT_diseases:what is illness
+ABT_diseases:what is contamination
+ABT_diseases:what is
+ABT_diseases:what is disorder
+ABT_diseases:what is illness
+ABT_diseases:what is contamination
+ABT_diseases:what is
+ABT_diseases:what is disorder
+ABT_diseases:what is illness
+ABT_diseases:what is contamination
+ABT_diseases:what is
+ABT_diseases:disorder
+ABT_diseases:defect
+ABT_diseases:contamination
+ABT_diseases:syndrome
+ABT_diseases:is this disorder dangrous
+ABT_diseases:is this  dangrous
+ABT_diseases:is this defect a problem
+ABT_diseases:is this contamination a problem
+ABT_diseases:more detail on disorder
+ABT_diseases:more detail on defect
+ABT_diseases:more detail on contamination
+ABT_diseases:more detail on syndrome
+ABT_diseases:more detail on illness
+ABT_diseases:more detail on
+ABT_diseases:what are contamination
+ABT_diseases:what are defect
+ABT_diseases:what are disorder
+ABT_diseases:what are syndrome
+ABT_diseases:what are illness
+ABT_diseases:what are sickness
+ABT_diseases:what are
+ABT_diseases:is this syndrome dangrous
+ABT_diseases:is this disorder dangrous
+ABT_diseases:is this defect dangrous
+ABT_diseases:is this contamination dangrous
+ABT_diseases:is this illness dangrous
+ABT_diseases:is this sickness dangrous
+ABT_diseases:is this dangrous
+ABT_diseases:i want to know more about
+ABT_diseases:i want to know more about syndrome
+ABT_diseases:i want to know more about disorder
+ABT_diseases:i want to know more about illness
+ABT_diseases:i want to know more about sickness
+ABT_diseases:i want to know more about contamination
+ABT_diseases:explain syndrome
+ABT_diseases:explain disorder
+ABT_diseases:explain illness
+ABT_diseases:explain sickness
+ABT_diseases:explain diseases
+ABT_diseases:explain contamination
+ABT_diseases:explain
+ABT_diseases:whats syndrome
+ABT_diseases:whats disorder
+ABT_diseases:whats illness
+ABT_diseases:whats sickness
+ABT_diseases:whats diseases
+ABT_diseases:whats contamination
+ABT_symptom:what are the symptoms of sickness
+ABT_symptom:what are the symptoms of diseases
+ABT_symptom:what are the symptoms of illness
+ABT_symptom:what are the symptoms of syndrome
+ABT_symptom:what are the symptoms of contamination
+ABT_symptom:what are the symptoms of defect
+ABT_symptom:what are the signs of sickness
+ABT_symptom:what are the signs of diseases
+ABT_symptom:what are the signs of illness
+ABT_symptom:what are the signs of syndrome
+ABT_symptom:what are the signs of contamination
+ABT_symptom:what are the signs of defect
+ABT_symptom:what issues comes from defect
+ABT_symptom:what issues comes from illness
+ABT_symptom:what issues comes from syndrome
+ABT_symptom:what issues comes from contamination
+ABT_symptom:what issues comes from sickness
+ABT_symptom:what are the complications arise from defect
+ABT_symptom:what are the complications arise from illness
+ABT_symptom:what are the complications arise from syndrome
+ABT_symptom:what are the complications arise fromcontamination
+ABT_symptom:what are the complications arise from sickness
+ABT_symptom:what are the complications arise from
+ABT_symptom:what are the complications of defect
+ABT_symptom:what are the complications of illness
+ABT_symptom:what are the complications of syndrome
+ABT_symptom:what are the complications of contamination
+ABT_symptom:what are the complications of sickness
+ABT_symptom:what are the complications of
+ABT_symptom:what are the evidence of sickness
+ABT_symptom:what are the evidence of diseases
+ABT_symptom:what are the evidence of illness
+ABT_symptom:what are the evidence of syndrome
+ABT_symptom:what are the evidence of contamination
+ABT_symptom:what are the evidence of defect
+ABT_symptom:what are the warning of sickness
+ABT_symptom:what are the warning of diseases
+ABT_symptom:what are the warning of illness
+ABT_symptom:what are the warning of syndrome
+ABT_symptom:what are the warning of contamination
+ABT_symptom:what are the warning of defect
+ABT_symptom:what are the indications of sickness
+ABT_symptom:what are the indications of diseases
+ABT_symptom:what are the indications of illness
+ABT_symptom:what are the indications of syndrome
+ABT_symptom:what are the indications of contamination
+ABT_symptom:what are the indications of defect
+ABT_symptom:how do i know if i have sickness
+ABT_symptom:how do i know if i have diseases
+ABT_symptom:how do i know if i have illness
+ABT_symptom:how do i know if i have syndrome
+ABT_symptom:how do i know if i have contamination
+ABT_symptom:how do i know if i have defect
+ABT_symptom:how do i know i have sickness
+ABT_symptom:how do i know i have diseases
+ABT_symptom:how do i know i have illness
+ABT_symptom:how do i know i have syndrome
+ABT_symptom:how do i know i have contamination
+ABT_symptom:how do i know i have defect
+ABT_symptom:symptoms for sickness
+ABT_symptom:symptoms for diseases
+ABT_symptom:symptoms for illness
+ABT_symptom:symptoms for syndrome
+ABT_symptom:symptoms for contamination
+ABT_symptom:symptoms for defect
+ABT_symptom:how to check for defect
+ABT_symptom:how to check for syndrome
+ABT_symptom:how to check for illness
+ABT_symptom:how to check for diseases
+ABT_symptom:how to check for sickness
+ABT_symptom:how to check for
+ABT_symptom:are * a sign that I have defect
+ABT_symptom:are * a sign that I have sickness
+ABT_symptom:are * a sign that I have diseases
+ABT_symptom:are * a sign that I have syndrome
+ABT_symptom:are * a sign that I have contamination
+ABT_symptom:are * a sign that I have illness
+ABT_symptom:How is defect diagnosed
+ABT_symptom:How is sickness diagnosed
+ABT_symptom:How is diseases diagnosed
+ABT_symptom:How is syndrome diagnosed
+ABT_symptom:How is contamination diagnosed
+ABT_symptom:How is defect diagnosed
+ABT_symptom:How is defect recognized
+ABT_symptom:How is sickness recognized
+ABT_symptom:How is diseases recognized
+ABT_symptom:How is syndrome recognized
+ABT_symptom:How is contamination recognized
+ABT_symptom:How is defect found
+ABT_symptom:How is sickness found
+ABT_symptom:How is diseases found
+ABT_symptom:How is syndrome found
+ABT_symptom:How is contamination found
+ABT_symptom:How to recognize defect
+ABT_symptom:How to recognize sickness
+ABT_symptom:How to recognize diseases
+ABT_symptom:How to recognize syndrome
+ABT_symptom:How to recognize contamination
+ABT_symptom:How to find defect
+ABT_symptom:How to find sickness
+ABT_symptom:How to find diseases
+ABT_symptom:How to find syndrome
+ABT_symptom:How to find contamination
+ABT_symptom:How to identify defect
+ABT_symptom:How to identify sickness
+ABT_symptom:How to identify diseases
+ABT_symptom:How to identify syndrome
+ABT_symptom:How to identify contamination
+ABT_symptom:How to diagnose defect
+ABT_symptom:How to diagnose sickness
+ABT_symptom:How to diagnose diseases
+ABT_symptom:How to diagnose syndrome
+ABT_symptom:How to diagnose contamination
+ABT_symptom:How to diagnose
+ABT_symptom:Test for defect
+ABT_symptom:Test for syndrome
+ABT_symptom:Test for sickness
+ABT_symptom:Test for diseases
+ABT_symptom:Test for contamination
+ABT_symptom:How to check for contamination
+ABT_symptom:How to check for defect
+ABT_symptom:How to check for sickness
+ABT_symptom:How to check for diseases
+ABT_symptom:How to check for syndrome
+ABT_symptom:How defect can be checked
+ABT_symptom:How contamination can be checked
+ABT_symptom:How sickness can be checked
+ABT_symptom:How diseases can be checked
+ABT_symptom:How syndrome can be checked
+ABT_causes:what are the causes of contamination
+ABT_causes:what are the causes of defect
+ABT_causes:what are the causes of sickness
+ABT_causes:what are the causes of diseases
+ABT_causes:what are the causes of syndrome
+ABT_causes:what is the cause of contamination
+ABT_causes:what is the cause of defect
+ABT_causes:what is the cause of sickness
+ABT_causes:what is the cause of diseases
+ABT_causes:what is the cause of syndrome
+ABT_causes:what is the cause of
+ABT_causes:what causes contamination
+ABT_causes:what causes defect
+ABT_causes:what causes sickness
+ABT_causes:what causes diseases
+ABT_causes:what causes syndrome
+ABT_causes:what causes illness
+ABT_causes:what causes
+ABT_causes:how does syndrome develop
+ABT_causes:how does contamination develop
+ABT_causes:how does sickness develop
+ABT_causes:how does diseases develop
+ABT_causes:how does defect develop
+ABT_causes:how does  develop
+ABT_causes:what causes syndrome
+ABT_causes:what causes contamination
+ABT_causes:what causes sickness
+ABT_causes:what causes diseases
+ABT_causes:what causes defect
+ABT_causes:what causes
+ABT_causes:What leads to sickness
+ABT_causes:What leads to contamination
+ABT_causes:What leads to diseases
+ABT_causes:What leads to defect
+ABT_causes:What leads to syndrome
+ABT_causes:What leads to
+ABT_causes:What is the source of sickness
+ABT_causes:What is the source of contamination
+ABT_causes:What is the source of diseases
+ABT_causes:What is the source of defect
+ABT_causes:What is the source of syndrome
+ABT_causes:What is the source of
+ABT_causes:What is the root of sickness
+ABT_causes:What is the root of contamination
+ABT_causes:What is the root of diseases
+ABT_causes:What is the root of defect
+ABT_causes:What is the root of syndrome
+ABT_causes:What is the root of
+ABT_causes:How to get syndrome
+ABT_causes:How to get defect
+ABT_causes:How to get diseases
+ABT_causes:How to get contamination
+ABT_causes:How to get sickness
+ABT_causes:How to get
+ABT_causes:How this syndrome spread
+ABT_causes:How this disease spread
+ABT_causes:How this defect spread
+ABT_causes:How this contamination spread
+ABT_causes:How this sickness spread
+ABT_causes:How this  spread
+ABT_causes:How to get infected with syndrome
+ABT_causes:How to get infected with disease
+ABT_causes:How to get infected with defect
+ABT_causes:How to get infected with contamination
+ABT_causes:How to get infected with sickness
+ABT_causes:How to get infected with
+ABT_causes:How to get infected by syndrome
+ABT_causes:How to get infected by disease
+ABT_causes:How to get infected by defect
+ABT_causes:How to get infected by contamination
+ABT_causes:How to get infected by sickness
+ABT_causes:How to get infected by
+ABT_causes:How someone get sickness
+ABT_causes:How someone get syndrome
+ABT_causes:How someone get defect
+ABT_causes:How someone get contamination
+ABT_causes:How someone get disease
+ABT_causes:What infectes syndrome
+ABT_causes:What infectes disease
+ABT_causes:What infectes defect
+ABT_causes:What infectes contamination
+ABT_causes:What infectes sickness
+ABT_causes:Vectors of syndrome
+ABT_causes:Vectors of disease
+ABT_causes:Vectors of defect
+ABT_causes:Vectors of contamination
+ABT_causes:Vectors of sickness
+ABT_causes:Vectors of syndrome
+ABT_causes:Vectors of disease
+ABT_causes:Vectors of defect
+ABT_causes:Vectors of contamination
+ABT_causes:Vectors of sickness
+ABT_causes:Who spreads
+ABT_causes:Who spreads defect
+ABT_causes:Who spreads contamination
+ABT_causes:Who spreads sickness
+ABT_causes:Who spreads disease
+ABT_causes:Who spreads syndrome
+ABT_causes:what spreads
+ABT_causes:what spreads defect
+ABT_causes:what spreads contamination
+ABT_causes:what spreads sickness
+ABT_causes:what spreads disease
+ABT_causes:what spreads syndrome
+ABT_causes:what affects
+ABT_causes:what affects defect
+ABT_causes:what affects contamination
+ABT_causes:what affects sickness
+ABT_causes:what affects disease
+ABT_causes:what affects syndrome
+ABT_causes:why i get
+ABT_causes:why i get defect
+ABT_causes:why i get contamination
+ABT_causes:why i get sickness
+ABT_causes:why i get disease
+ABT_causes:why i get syndrome
+ABT_causes:why i got
+ABT_causes:why i got syndrome
+ABT_causes:why i got disease
+ABT_causes:why i got sickness
+ABT_causes:why i got contamination
+ABT_causes:why i got defect
+ABT_causes:what are the ways to get
+ABT_causes:what are the ways to get syndrome
+ABT_causes:what are the ways to get disease
+ABT_causes:what are the ways to get sickness
+ABT_causes:what are the ways to get contamination
+ABT_causes:what are the ways to get defect
+ABT_causes:what is the reason for
+ABT_causes:what is the reason for syndrome
+ABT_causes:what is the reason for sickness
+ABT_causes:what is the reason for contamination
+ABT_causes:what is the reason for defect
+ABT_causes:what is the reason for disease
+ABT_causes:how do i know if i have
+ABT_causes:how do i know if i have syndrome
+ABT_causes:how do i know if i have sickness
+ABT_causes:how do i know if i have contamination
+ABT_causes:how do i know if i have defect
+ABT_causes:how do i know if i have disease
+ABT_prev:how do i prevent from
+ABT_prev:how do i prevent from syndrome
+ABT_prev:how do i prevent from sickness
+ABT_prev:how do i prevent from contamination
+ABT_prev:how do i prevent from defect
+ABT_prev:how do i prevent from disease
+ABT_prev:how do i stop from infection
+ABT_prev:how do i stop syndrome infection
+ABT_prev:how do i stop sickness infection
+ABT_prev:how do i stop contamination infection
+ABT_prev:how do i stop defect infection
+ABT_prev:how do i stop disease infection
+ABT_prev:how to stop
+ABT_prev:how to stop infecting syndrome
+ABT_prev:how to stop infecting sickness
+ABT_prev:how to stop infecting contamination
+ABT_prev:how to stop infecting defect
+ABT_prev:how to stop infecting disease
+ABT_prev:how to stop
+ABT_prev:how to stop getting syndrome
+ABT_prev:how to stop getting sickness
+ABT_prev:how to stop getting contamination
+ABT_prev:how to stop getting defect
+ABT_prev:how to stop getting disease
+ABT_prev:how to prevent from
+ABT_prev:how to prevent from syndrome
+ABT_prev:how to prevent from sickness
+ABT_prev:how to prevent from contamination
+ABT_prev:how to prevent from defect
+ABT_prev:how to prevent from disease
+ABT_prev:how to prevent from
+ABT_prev:how to prevent from syndrome
+ABT_prev:how to prevent from sickness
+ABT_prev:how to prevent from contamination
+ABT_prev:how to prevent from defect
+ABT_prev:how to prevent from disease
+ABT_prev:how to be immune from
+ABT_prev:how to immune from syndrome
+ABT_prev:how to immune from sickness
+ABT_prev:how to immune from contamination
+ABT_prev:how to immune from defect
+ABT_prev:how to immune from disease
+ABT_prev:how to avoid from
+ABT_prev:how to avoid from syndrome
+ABT_prev:how to avoid from sickness
+ABT_prev:how to avoid from contamination
+ABT_prev:how to avoid from defect
+ABT_prev:how to avoid from disease
+ABT_prev:how to avoid
+ABT_prev:how to avoid  syndrome
+ABT_prev:how to avoid  sickness
+ABT_prev:how to avoid  contamination
+ABT_prev:how to avoid  defect
+ABT_prev:how to avoid  disease
+ABT_prev:how to counter syndrome
+ABT_prev:how to counter sickness
+ABT_prev:how to counter contamination
+ABT_prev:how to counter defect
+ABT_prev:how to counter disease
+ABT_prev:how to counter
+ABT_prev:how to stop syndrome
+ABT_prev:how to stop sickness
+ABT_prev:how to stop contamination
+ABT_prev:how to stop defect
+ABT_prev:how to stop disease
+ABT_prev:how to stop
+ABT_prev:how not to get syndrome
+ABT_prev:how not to get sickness
+ABT_prev:how not to get contamination
+ABT_prev:how not to get defect
+ABT_prev:how not to get disease
+ABT_prev:how not to get
+ABT_prev:can disease be prevented
+ABT_prev:can sickness be prevented
+ABT_prev:can defect be prevented
+ABT_prev:can contamination be prevented
+ABT_prev:can syndrome be prevented
+ABT_prev:what are the ways not to get syndrome
+ABT_prev:what are the ways not to get sickness
+ABT_prev:what are the ways not to get contamination
+ABT_prev:what are the ways not to get defect
+ABT_prev:what are the ways not to get disease
+ABT_prev:what are the ways not to get
+ABT_prev:what are the ways to prevent syndrome
+ABT_prev:what are the ways to prevent sickness
+ABT_prev:what are the ways to prevent contamination
+ABT_prev:what are the ways to prevent defect
+ABT_prev:what are the ways to prevent disease
+ABT_prev:what are the ways to prevent
+ABT_prev:what are the preventions of
+ABT_prev:what are the preventions of sickness
+ABT_prev:what are the preventions of contamination
+ABT_prev:what are the preventions of defect
+ABT_prev:what are the preventions of disease
+ABT_prev:what are the preventions of syndrome
+ABT_prev:how can one prevent from
+ABT_prev:how can one prevent from syndrome
+ABT_prev:how can one prevent from disease
+ABT_prev:how can one prevent from defect
+ABT_prev:how can one prevent from contamination
+ABT_prev:how can one prevent from sickness
+IS_sym_dis:is  a symptom of
+IS_sym_dis:is  a symptom of syndrome
+IS_sym_dis:is  a symptom of disease
+IS_sym_dis:is  a symptom of defect
+IS_sym_dis:is  a symptom of contamination
+IS_sym_dis:is  a symptom of sickness
+IS_sym_dis:is  a complications of
+IS_sym_dis:is  a complications of syndrome
+IS_sym_dis:is  a complications of disease
+IS_sym_dis:is  a complications of defect
+IS_sym_dis:is  a complications of contamination
+IS_sym_dis:is  a complications of sickness
+IS_sym_dis:is  a result of
+IS_sym_dis:is  a result of syndrome
+IS_sym_dis:is  a result of disease
+IS_sym_dis:is  a result of defect
+IS_sym_dis:is  a result of contamination
+IS_sym_dis:is  a result of sickness
+IS_sym_dis:is  a indications of
+IS_sym_dis:is  a indications of syndrome
+IS_sym_dis:is  a indications of disease
+IS_sym_dis:is  a indications of defect
+IS_sym_dis:is  a indications of contamination
+IS_sym_dis:is  a indications of sickness
+IS_sym_dis:is  a warning of syndrome
+IS_sym_dis:is  a warning of disease
+IS_sym_dis:is  a warning of defect
+IS_sym_dis:is  a warning of contamination
+IS_sym_dis:is  a warning of sickness
+IS_sym_dis:is  a warning of
+IS_sym_dis:warning of disease
+IS_sym_dis:warning of defect
+IS_sym_dis:warning of contamination
+IS_sym_dis:warning of sickness
+IS_sym_dis:warning of syndrome
+IS_sym_dis:warning of
+IS_sym_dis:indications of disease
+IS_sym_dis:indications of syndrome
+IS_sym_dis:indications of sickness
+IS_sym_dis:indications of contamination
+IS_sym_dis:indications of defect
+IS_sym_dis:indications of
+IS_sym_dis:result of disease
+IS_sym_dis:result of contamination
+IS_sym_dis:result of syndrome
+IS_sym_dis:result of sickness
+IS_sym_dis:result of defect
+IS_sym_dis:result of
+IS_sym_dis:complications of disease
+IS_sym_dis:complications of contamination
+IS_sym_dis:complications of syndrome
+IS_sym_dis:complications of sickness
+IS_sym_dis:complications of defect
+IS_sym_dis:complications of
+IS_sym_dis:can  be a symptom of
+IS_sym_dis:can  be a indications of
+IS_sym_dis:can  be a result of
+IS_sym_dis:can  be a symptom of disease
+IS_sym_dis:can  be a indications of disease
+IS_sym_dis:can  be a result of disease
+IS_sym_dis:can  be a indications of disease
+IS_sym_dis:is  mean i have
+IS_sym_dis:is  mean i have syndrome
+IS_sym_dis:is  mean i have disease
+IS_sym_dis:is  mean i have defect
+IS_sym_dis:is  mean i have contamination
+IS_sym_dis:is  mean i have sickness
+IS_sym_dis:do i have
+IS_sym_dis:do i have syndrome
+IS_sym_dis:do i have disease
+IS_sym_dis:do i have defect
+IS_sym_dis:do i have contamination
+IS_sym_dis:do i have sickness
+IS_sym_dis:am i infected with
+IS_sym_dis:am i infected with sickness
+IS_sym_dis:am i infected with sickness
+IS_sym_dis:am i infected with sickness
+IS_sym_dis:am i infected with sickness
+IS_sym_dis:does  mean i have
+IS_sym_dis:does  mean i have syndrome
+IS_sym_dis:does  mean i have disease
+IS_sym_dis:does  mean i have defect
+IS_sym_dis:does  mean i have contamination
+IS_sym_dis:does  mean i have sickness
+IS_cau_dis:is  a cause of
+IS_cau_dis:is  a cause of disease
+IS_cau_dis:is  a cause of defect
+IS_cau_dis:is  a cause of syndrome
+IS_cau_dis:is  a cause of contamination
+IS_cau_dis:is  a cause of sickness
+IS_cau_dis:can cause sickness
+IS_cau_dis:can cause defect
+IS_cau_dis:can cause syndrome
+IS_cau_dis:can cause contamination
+IS_cau_dis:can cause disease
+IS_cau_dis:can cause
+IS_cau_dis:can be a cause of sickness
+IS_cau_dis:can be a cause of defect
+IS_cau_dis:can be a cause of syndrome
+IS_cau_dis:can be a cause of contamination
+IS_cau_dis:can be a cause of disease
+IS_cau_dis:can be a cause of
+IS_cau_dis:can be a way of getting of sickness
+IS_cau_dis:can be a way of getting of defect
+IS_cau_dis:can be a way of getting of syndrome
+IS_cau_dis:can be a way of getting of contamination
+IS_cau_dis:can be a way of getting of disease
+IS_cau_dis:can be a way of getting of
+IS_cau_dis:can infect sickness
+IS_cau_dis:can infect defect
+IS_cau_dis:can infect syndrome
+IS_cau_dis:can infect contamination
+IS_cau_dis:can infect disease
+IS_cau_dis:can infect
+IS_cau_dis:can infect me with defect
+IS_cau_dis:can infect me with disease
+IS_cau_dis:can infect me with contamination
+IS_cau_dis:can infect me with syndrome
+IS_cau_dis:can infect me with defect
+IS_cau_dis:can infect me with sickness
+IS_cau_dis:can make me with defect
+IS_cau_dis:can make me with disease
+IS_cau_dis:can make me with contamination
+IS_cau_dis:can make me with syndrome
+IS_cau_dis:can make me with sickness
+IS_cau_dis:can make me with defect
+IS_cau_dis:can lead to defect
+IS_cau_dis:can lead to disease
+IS_cau_dis:can lead to contamination
+IS_cau_dis:can lead to syndrome
+IS_cau_dis:can lead to sickness
+IS_cau_dis:can lead to defect
+IS_cau_dis:will infect disease
+IS_cau_dis:will infect syndrome
+IS_cau_dis:will infect contamination
+IS_cau_dis:will infect defect
+IS_cau_dis:will infect sickness
+IS_cau_dis:will infect
+IS_cau_dis:will infect me with sickness
+IS_cau_dis:will infect me with defect
+IS_cau_dis:will infect me with disease
+IS_cau_dis:will infect me with contamination
+IS_cau_dis:will infect me with syndrome
+IS_cau_dis:will infect me with disease
+IS_cau_dis:will infect me with
+IS_cau_dis:will make me with sickness
+IS_cau_dis:will make me with contamination
+IS_cau_dis:will make me with syndrome
+IS_cau_dis:will make me with defect
+IS_cau_dis:will make me with sickness
+IS_cau_dis:will make me with
+IS_cau_dis:will lead to sickness
+IS_cau_dis:will lead to contamination
+IS_cau_dis:will lead to syndrome
+IS_cau_dis:will lead to defect
+IS_cau_dis:will lead to sickness
+IS_cau_dis:will lead to
+IS_cau_dis:will lead to disease
+IS_cau_dis:will lead to sickness
+IS_cau_dis:will lead to contamination
+IS_cau_dis:will lead to syndrome
+IS_cau_dis:will lead to sickness
+IS_cau_dis:will i get disease
+IS_cau_dis:will i get syndrome
+IS_cau_dis:will i get sickness
+IS_cau_dis:will i get contamination
+IS_cau_dis:will i get
+IS_cau_dis:will i get contamination from
+IS_cau_dis:will i get sickness from
+IS_cau_dis:will i get disease from
+IS_cau_dis:will i get syndrome from
+IS_cau_dis:will i get disease from
+IS_cau_dis:will i get  from
+IS_cau_dis:can i be contamination from
+IS_cau_dis:can i be sickness from
+IS_cau_dis:can i be syndrome from
+IS_cau_dis:can i be disease from
+IS_cau_dis:can i be  from
+IS_cau_dis:can i be contamination
+IS_cau_dis:can i be sickness
+IS_cau_dis:can i be syndrome
+IS_cau_dis:can i be disease
+IS_cau_dis:can i be
+IS_cau_dis:does infect contamination
+IS_cau_dis:does infect sickness
+IS_cau_dis:does infect syndrome
+IS_cau_dis:does infect disease
+IS_cau_dis:does infect
+IS_cau_dis:does infect me with defect
+IS_cau_dis:does infect me with contamination
+IS_cau_dis:does infect me with syndrome
+IS_cau_dis:does infect me with sickness
+IS_cau_dis:does infect me with defect
+IS_cau_dis:does infect me with
+IS_cau_dis:does make me with contamination
+IS_cau_dis:does make me with syndrome
+IS_cau_dis:does make me with sickness
+IS_cau_dis:does make me with defect
+IS_cau_dis:does make me with
+IS_cau_dis:does lead to contamination
+IS_cau_dis:does lead to syndrome
+IS_cau_dis:does lead to sickness
+IS_cau_dis:does lead to syndrome
+IS_cau_dis:does lead to
+IS_cau_dis:does lead to contamination
+IS_cau_dis:does lead to syndrome
+IS_cau_dis:does lead to sickness
+IS_cau_dis:does lead to syndrome
+IS_cau_dis:does lead to defect
+IS_cau_dis:does lead to
+IS_cau_dis:can lead to sickness
+IS_cau_dis:can lead to defect
+IS_cau_dis:can lead to syndrome
+IS_cau_dis:can lead to disease
+IS_cau_dis:can lead to contamination
+IS_cau_dis:can lead to
+IS_prev_dis:can i prevent from sickness by
+IS_prev_dis:can i prevent from defect by
+IS_prev_dis:can i prevent from syndrome by
+IS_prev_dis:can i prevent from disease by
+IS_prev_dis:can i prevent from contamination by
+IS_prev_dis:can i prevent from  by
+IS_prev_dis:can i reduce the risk of getting contamination by
+IS_prev_dis:can i reduce the risk of getting disease by
+IS_prev_dis:can i reduce the risk of getting syndrome by
+IS_prev_dis:can i reduce the risk of getting defect by
+IS_prev_dis:can i reduce the risk of getting sickness by
+IS_prev_dis:can i reduce the risk of getting  by
+IS_prev_dis:can i reduce the risk of getting contamination from by
+IS_prev_dis:can i reduce the risk of getting disease from by
+IS_prev_dis:can i reduce the risk of getting syndrome from by
+IS_prev_dis:can i reduce the risk of getting defect from by
+IS_prev_dis:can i reduce the risk of getting sickness from by
+IS_prev_dis:can i reduce the risk of getting from by
+IS_prev_dis:can i be safe from defect by
+IS_prev_dis:can i be safe from syndrome by
+IS_prev_dis:can i be safe from disease by
+IS_prev_dis:can i be safe from contamination by
+IS_prev_dis:can i be safe from sickness by
+IS_prev_dis:can i be safe from  by
+IS_prev_dis:Is a way to prevent from defect
+IS_prev_dis:Is a way to prevent from sickness
+IS_prev_dis:Is a way to prevent from disease
+IS_prev_dis:Is a way to prevent from contamination
+IS_prev_dis:Is a way to prevent from syndrome
+IS_prev_dis:Is a way to prevent from
+IS_prev_dis:can i prevent from contamination by
+IS_prev_dis:can i prevent from disease by
+IS_prev_dis:can i prevent from sickness by
+IS_prev_dis:can i prevent from defect by
+IS_prev_dis:can i prevent from syndrome by
+IS_prev_dis:can i prevent from  by
+IS_prev_dis:can i prevent from sickness
+IS_prev_dis:can i prevent from contamination
+IS_prev_dis:can i prevent from defect
+IS_prev_dis:can i prevent from disease
+IS_prev_dis:can i prevent from syndrome
+IS_prev_dis:can i prevent from
+IS_prev_dis:can i be safe from contamination
+IS_prev_dis:can i be safe from sickness
+IS_prev_dis:can i be safe from defect
+IS_prev_dis:can i be safe from disease
+IS_prev_dis:can i be safe from syndrome
+IS_prev_dis:can i be safe from
+IS_prev_dis:can save me from syndrome
+IS_prev_dis:can save me from disease
+IS_prev_dis:can save me from sickness
+IS_prev_dis:can save me from defect
+IS_prev_dis:can save me from sickness
+IS_prev_dis:can save me from contamination
+IS_prev_dis:can save me from
+IS_prev_dis:can avoid me from syndrome
+IS_prev_dis:can avoid me from disease
+IS_prev_dis:can avoid me from sickness
+IS_prev_dis:can avoid me from defect
+IS_prev_dis:can avoid me from sickness
+IS_prev_dis:can avoid me from contamination
+IS_prev_dis:can avoid me from
+IS_prev_dis:does reduce the risk of getting contamination
+IS_prev_dis:does reduce the risk of getting sickness
+IS_prev_dis:does reduce the risk of getting defect
+IS_prev_dis:does reduce the risk of getting sickness
+IS_prev_dis:does reduce the risk of getting disease
+IS_prev_dis:does reduce the risk of getting syndrome
+IS_prev_dis:is minimize sickness
+IS_prev_dis:is minimize contamination
+IS_prev_dis:is minimize defect
+IS_prev_dis:is minimize sickness
+IS_prev_dis:is minimize disease
+IS_prev_dis:is minimize syndrome
+IS_prev_dis:is minimize
+IS_prev_dis:can minimize disease
+IS_prev_dis:can minimize sickness
+IS_prev_dis:can minimize defect
+IS_prev_dis:can minimize sickness
+IS_prev_dis:can minimize contamination
+IS_prev_dis:can minimize
+IS_prev_dis:does minimize syndrome
+IS_prev_dis:does minimize contamination
+IS_prev_dis:does minimize defect
+IS_prev_dis:does minimize disease
+IS_prev_dis:does minimize sickness
+IS_prev_dis:does minimize
+IS_prev_dis:can minimize sickness
+IS_prev_dis:can minimize disease
+IS_prev_dis:can minimize defect
+IS_prev_dis:can minimize contamination
+IS_prev_dis:can minimize syndrome
+IS_prev_dis:can minimize
+IS_prev_dis:can be a preventions from sickness
+IS_prev_dis:can be a preventions from disease
+IS_prev_dis:can be a preventions from defect
+IS_prev_dis:can be a preventions from contamination
+IS_prev_dis:can be a preventions from syndrome
+IS_prev_dis:can be a preventions from
+IS_prev_dis:is a prevention of sickness
+IS_prev_dis:is a prevention of disease
+IS_prev_dis:is a prevention of defect
+IS_prev_dis:is a prevention of contamination
+IS_prev_dis:is a prevention of syndrome
+IS_prev_dis:is a prevention of
+IS_prev_dis:are preventions of sickness
+IS_prev_dis:are preventions of disease
+IS_prev_dis:are preventions of defect
+IS_prev_dis:are preventions of contamination
+IS_prev_dis:are preventions of syndrome
+IS_prev_dis:are preventions of
+IS_prev_dis:are preventions for sickness
+IS_prev_dis:are preventions for disease
+IS_prev_dis:are preventions for defect
+IS_prev_dis:are preventions for contamination
+IS_prev_dis:are preventions for syndrome
+IS_prev_dis:are preventions for
+IS_prev_dis:can i reduce the risk of infecting from sickness by
+IS_prev_dis:can i reduce the risk of infecting from disease by
+IS_prev_dis:can i reduce the risk of infecting from defect by
+IS_prev_dis:can i reduce the risk of infecting from contamination by
+IS_prev_dis:can i reduce the risk of infecting from syndrome by
+IS_prev_dis:can i reduce the risk of infecting from  by
+IS_prev_dis:can i prevent from sickness by
+IS_prev_dis:can i prevent from disease by
+IS_prev_dis:can i prevent from defect by
+IS_prev_dis:can i prevent from contamination by
+IS_prev_dis:can i prevent from syndrome by
+IS_prev_dis:can i prevent from  by
+ABT_risk:what are risk factors for disease
+ABT_risk:what are risk factors for sickness
+ABT_risk:what are risk factors for defect
+ABT_risk:what are risk factors for contamination
+ABT_risk:what are risk factors for syndrome
+ABT_risk:what are risk factors for
+ABT_risk:What are some risk factors for disease
+ABT_risk:What are some risk factors for disease
+ABT_risk:What are some risk factors for disease
+ABT_risk:What are some risk factors for disease
+ABT_risk:What are some risk factors for disease
+ABT_risk:What are genetic risk factors disease
+ABT_risk:What are genetic risk factors disease
+ABT_risk:What are genetic risk factors disease
+ABT_risk:What are genetic risk factors disease
+ABT_risk:What are genetic risk factors disease
+ABT_risk:What is the  risk of disease
+ABT_risk:What is the  risk of disease
+ABT_risk:What is the  risk of disease
+ABT_risk:What is the  risk of disease
+ABT_risk:What is the  risk of disease
+ABT_risk:Is is riskey to has disease
+ABT_risk:Is is riskey to has disease
+ABT_risk:Is is riskey to has disease
+ABT_risk:Is is riskey to has disease
+ABT_risk:Is disease containgious
+ABT_risk:Is disease containgious
+ABT_risk:Is disease containgious
+ABT_risk:Is disease containgious
+ABT_risk:Is disease containgious
+ABT_risk:risks of disease
+ABT_risk:risks of disease
+ABT_risk:risks of disease
+ABT_risk:risks of disease
+ABT_risk:risks of disease
+ABT_risk:risks for disease
+ABT_risk:risks for disease
+ABT_risk:risks for disease
+ABT_risk:risks for disease
+ABT_risk:risk of disease
+ABT_risk:risk of disease
+ABT_risk:risk of disease
+ABT_risk:risk of disease
+ABT_treatment:how to treat disease
+ABT_treatment:how to treat disease
+ABT_treatment:how to treat disease
+ABT_treatment:how to treat disease
+ABT_treatment:how to treat disease
+ABT_treatment:how to treat disease
+ABT_treatment:can disease be treated
+ABT_treatment:can disease be treated
+ABT_treatment:can disease be treated
+ABT_treatment:can disease be treated
+ABT_treatment:can disease be treated
+ABT_treatment:can disease be treated
+ABT_treatment:what are the medicine for disease
+ABT_treatment:what are the medicine for disease
+ABT_treatment:what are the medicine for disease
+ABT_treatment:what are the medicine for disease
+ABT_treatment:what are the medicine for disease
+ABT_treatment:what are the medicine for disease
+ABT_treatment:does disease has medicine
+ABT_treatment:does disease has medicine
+ABT_treatment:does disease has medicine
+ABT_treatment:does disease has medicine
+ABT_treatment:does disease has medicine
+ABT_treatment:can i get medicine for disease
+ABT_treatment:can i get medicine for disease
+ABT_treatment:can i get medicine for disease
+ABT_treatment:can i get medicine for disease
+ABT_treatment:can i get medicine for disease
+ABT_treatment:how to get treatment for diease
+ABT_treatment:how to get treatment for diease
+ABT_treatment:how to get treatment for diease
+ABT_treatment:how to get treatment for diease
+ABT_treatment:how disease is treated
+ABT_treatment:how disease is treated
+ABT_treatment:how disease is treated
+ABT_treatment:how disease is treated
+ABT_treatment:how disease is treated
+ABT_treatment:is there medicine for disease
+ABT_treatment:is there medicine for disease
+ABT_treatment:is there medicine for disease
+ABT_treatment:is there medicine for disease
+ABT_treatment:is there medicine for disease
+ABT_treatment:are there medicien for diease
+ABT_treatment:are there medicien for diease
+ABT_treatment:are there medicien for diease
+ABT_treatment:are there medicien for diease
+ABT_treatment:are there medicien for diease
+ABT_treatment:how to find cure for disease
+ABT_treatment:how to find cure for disease
+ABT_treatment:how to find cure for disease
+ABT_treatment:how to find cure for disease
+ABT_treatment:how to find cure for disease
+ABT_treatment:what is the cure for disease
+ABT_treatment:what is the cure for disease
+ABT_treatment:what is the cure for disease
+ABT_treatment:what is the cure for disease
+ABT_treatment:what is the cure for disease
+ABT_treatment:how to cure disease
+ABT_treatment:how to cure disease
+ABT_treatment:how to cure disease
+ABT_treatment:how to cure disease
+ABT_treatment:how to cure disease
+ABT_treatment:how to get rid of diease
+ABT_treatment:how to get rid of diease
+ABT_treatment:how to get rid of diease
+ABT_treatment:how to get rid of diease

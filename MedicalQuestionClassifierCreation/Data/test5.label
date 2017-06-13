@@ -1,0 +1,961 @@
+ABT_disease:what is  this diseases
+ABT_disease:what is  this illness
+ABT_disease:what is  this sickness
+ABT_disease:what is  this syndrome
+ABT_disease:what is
+ABT_disease:this diseases
+ABT_disease:this illness
+ABT_disease:this sickness
+ABT_disease:is this this illness dangerous
+ABT_disease:is this this diseases a problem
+ABT_disease:is this this sickness a problem
+ABT_disease:is this  a problem
+ABT_disease:more detail on this illness
+ABT_disease:more detail on this diseases
+ABT_disease:more detail on this sickness
+ABT_disease:more detail on
+ABT_disease:what are this sickness
+ABT_disease:what is this this disorder
+ABT_disease:what is this this illness
+ABT_disease:what is this this contamination
+ABT_disease:what is this
+ABT_disease:what is this disorder
+ABT_disease:what is this illness
+ABT_disease:what is this contamination
+ABT_disease:what is
+ABT_disease:what is this disorder
+ABT_disease:what is this illness
+ABT_disease:what is this contamination
+ABT_disease:what is
+ABT_disease:what is this disorder
+ABT_disease:what is this illness
+ABT_disease:what is this contamination
+ABT_disease:what is
+ABT_disease:what is this disorder
+ABT_disease:what is this illness
+ABT_disease:what is this contamination
+ABT_disease:what is
+ABT_disease:this disorder
+ABT_disease:this defect
+ABT_disease:this contamination
+ABT_disease:this syndrome
+ABT_disease:is this this disorder dangerous
+ABT_disease:is this  dangerous
+ABT_disease:is this this defect a problem
+ABT_disease:is this this contamination a problem
+ABT_disease:more detail on this disorder
+ABT_disease:more detail on this defect
+ABT_disease:more detail on this contamination
+ABT_disease:more detail on this syndrome
+ABT_disease:more detail on this illness
+ABT_disease:more detail on
+ABT_disease:what are this contamination
+ABT_disease:what are this defect
+ABT_disease:what are this disorder
+ABT_disease:what are this syndrome
+ABT_disease:what are this illness
+ABT_disease:what are this sickness
+ABT_disease:what are
+ABT_disease:is this this syndrome dangerous
+ABT_disease:is this this disorder dangerous
+ABT_disease:is this this defect dangerous
+ABT_disease:is this this contamination dangerous
+ABT_disease:is this this illness dangerous
+ABT_disease:is this this sickness dangerous
+ABT_disease:is this dangerous
+ABT_disease:i want to know more about
+ABT_disease:i want to know more about this syndrome
+ABT_disease:i want to know more about this disorder
+ABT_disease:i want to know more about this illness
+ABT_disease:i want to know more about this sickness
+ABT_disease:i want to know more about this contamination
+ABT_disease:explain this syndrome
+ABT_disease:explain this disorder
+ABT_disease:explain this illness
+ABT_disease:explain this sickness
+ABT_disease:explain this diseases
+ABT_disease:explain this contamination
+ABT_disease:explain
+ABT_disease:whats this syndrome
+ABT_disease:whats this disorder
+ABT_disease:whats this illness
+ABT_disease:whats this sickness
+ABT_disease:whats this diseases
+ABT_disease:whats this contamination
+ABT_symptom:what are the symptoms of this sickness
+ABT_symptom:what are the symptoms of this diseases
+ABT_symptom:what are the symptoms of this illness
+ABT_symptom:what are the symptoms of this syndrome
+ABT_symptom:what are the symptoms of this contamination
+ABT_symptom:what are the symptoms of this defect
+ABT_symptom:what are the signs of this sickness
+ABT_symptom:what are the signs of this diseases
+ABT_symptom:what are the signs of this illness
+ABT_symptom:what are the signs of this syndrome
+ABT_symptom:what are the signs of this contamination
+ABT_symptom:what are the signs of this defect
+ABT_symptom:what issues comes from this defect
+ABT_symptom:what issues comes from this illness
+ABT_symptom:what issues comes from this syndrome
+ABT_symptom:what issues comes from this contamination
+ABT_symptom:what issues comes from this sickness
+ABT_symptom:what are the complications arise from this defect
+ABT_symptom:what are the complications arise from this illness
+ABT_symptom:what are the complications arise from this syndrome
+ABT_symptom:what are the complications arise fromthis contamination
+ABT_symptom:what are the complications arise from this sickness
+ABT_symptom:what are the complications arise from
+ABT_symptom:what are the complications of this defect
+ABT_symptom:what are the complications of this illness
+ABT_symptom:what are the complications of this syndrome
+ABT_symptom:what are the complications of this contamination
+ABT_symptom:what are the complications of this sickness
+ABT_symptom:what are the complications of
+ABT_symptom:what are the evidence of this sickness
+ABT_symptom:what are the evidence of this diseases
+ABT_symptom:what are the evidence of this illness
+ABT_symptom:what are the evidence of this syndrome
+ABT_symptom:what are the evidence of this contamination
+ABT_symptom:what are the evidence of this defect
+ABT_symptom:what are the warning of this sickness
+ABT_symptom:what are the warning of this diseases
+ABT_symptom:what are the warning of this illness
+ABT_symptom:what are the warning of this syndrome
+ABT_symptom:what are the warning of this contamination
+ABT_symptom:what are the warning of this defect
+ABT_symptom:what are the indications of this sickness
+ABT_symptom:what are the indications of this diseases
+ABT_symptom:what are the indications of this illness
+ABT_symptom:what are the indications of this syndrome
+ABT_symptom:what are the indications of this contamination
+ABT_symptom:what are the indications of this defect
+ABT_symptom:how do i know if i have this sickness
+ABT_symptom:how do i know if i have this diseases
+ABT_symptom:how do i know if i have this illness
+ABT_symptom:how do i know if i have this syndrome
+ABT_symptom:how do i know if i have this contamination
+ABT_symptom:how do i know if i have this defect
+ABT_symptom:how do i know i have this sickness
+ABT_symptom:how do i know i have this diseases
+ABT_symptom:how do i know i have this illness
+ABT_symptom:how do i know i have this syndrome
+ABT_symptom:how do i know i have this contamination
+ABT_symptom:how do i know i have this defect
+ABT_symptom:symptoms for this sickness
+ABT_symptom:symptoms for this diseases
+ABT_symptom:symptoms for this illness
+ABT_symptom:symptoms for this syndrome
+ABT_symptom:symptoms for this contamination
+ABT_symptom:symptoms for this defect
+ABT_symptom:how to check for this defect
+ABT_symptom:how to check for this syndrome
+ABT_symptom:how to check for this illness
+ABT_symptom:how to check for this diseases
+ABT_symptom:how to check for this sickness
+ABT_symptom:how to check for
+ABT_symptom:are * a sign that I have this defect
+ABT_symptom:are * a sign that I have this sickness
+ABT_symptom:are * a sign that I have this diseases
+ABT_symptom:are * a sign that I have this syndrome
+ABT_symptom:are * a sign that I have this contamination
+ABT_symptom:are * a sign that I have this illness
+ABT_symptom:How is this defect diagnosed
+ABT_symptom:How is this sickness diagnosed
+ABT_symptom:How is this diseases diagnosed
+ABT_symptom:How is this syndrome diagnosed
+ABT_symptom:How is this contamination diagnosed
+ABT_symptom:How is this defect diagnosed
+ABT_symptom:How is this defect recognized
+ABT_symptom:How is this sickness recognized
+ABT_symptom:How is this diseases recognized
+ABT_symptom:How is this syndrome recognized
+ABT_symptom:How is this contamination recognized
+ABT_symptom:How is this defect found
+ABT_symptom:How is this sickness found
+ABT_symptom:How is this diseases found
+ABT_symptom:How is this syndrome found
+ABT_symptom:How is this contamination found
+ABT_symptom:How to recognize this defect
+ABT_symptom:How to recognize this sickness
+ABT_symptom:How to recognize this diseases
+ABT_symptom:How to recognize this syndrome
+ABT_symptom:How to recognize this contamination
+ABT_symptom:How to find this defect
+ABT_symptom:How to find this sickness
+ABT_symptom:How to find this diseases
+ABT_symptom:How to find this syndrome
+ABT_symptom:How to find this contamination
+ABT_symptom:How to identify this defect
+ABT_symptom:How to identify this sickness
+ABT_symptom:How to identify this diseases
+ABT_symptom:How to identify this syndrome
+ABT_symptom:How to identify this contamination
+ABT_symptom:How to diagnose this defect
+ABT_symptom:How to diagnose this sickness
+ABT_symptom:How to diagnose this diseases
+ABT_symptom:How to diagnose this syndrome
+ABT_symptom:How to diagnose this contamination
+ABT_symptom:How to diagnose
+ABT_symptom:Test for this defect
+ABT_symptom:Test for this syndrome
+ABT_symptom:Test for this sickness
+ABT_symptom:Test for this diseases
+ABT_symptom:Test for this contamination
+ABT_symptom:How to check for this contamination
+ABT_symptom:How to check for this defect
+ABT_symptom:How to check for this sickness
+ABT_symptom:How to check for this diseases
+ABT_symptom:How to check for this syndrome
+ABT_symptom:How this defect can be checked
+ABT_symptom:How this contamination can be checked
+ABT_symptom:How this sickness can be checked
+ABT_symptom:How this diseases can be checked
+ABT_symptom:How this syndrome can be checked
+ABT_causes:what are the causes of this contamination
+ABT_causes:what are the causes of this defect
+ABT_causes:what are the causes of this sickness
+ABT_causes:what are the causes of this diseases
+ABT_causes:what are the causes of this syndrome
+ABT_causes:what is the cause of this contamination
+ABT_causes:what is the cause of this defect
+ABT_causes:what is the cause of this sickness
+ABT_causes:what is the cause of this diseases
+ABT_causes:what is the cause of this syndrome
+ABT_causes:what is the cause of
+ABT_causes:what causes this contamination
+ABT_causes:what causes this defect
+ABT_causes:what causes this sickness
+ABT_causes:what causes this diseases
+ABT_causes:what causes this syndrome
+ABT_causes:what causes this illness
+ABT_causes:what causes
+ABT_causes:how does this syndrome develop
+ABT_causes:how does this contamination develop
+ABT_causes:how does this sickness develop
+ABT_causes:how does this diseases develop
+ABT_causes:how does this defect develop
+ABT_causes:how does  develop
+ABT_causes:what causes this syndrome
+ABT_causes:what causes this contamination
+ABT_causes:what causes this sickness
+ABT_causes:what causes this diseases
+ABT_causes:what causes this defect
+ABT_causes:what causes
+ABT_causes:What leads to this sickness
+ABT_causes:What leads to this contamination
+ABT_causes:What leads to this diseases
+ABT_causes:What leads to this defect
+ABT_causes:What leads to this syndrome
+ABT_causes:What leads to
+ABT_causes:What is the source of this sickness
+ABT_causes:What is the source of this contamination
+ABT_causes:What is the source of this diseases
+ABT_causes:What is the source of this defect
+ABT_causes:What is the source of this syndrome
+ABT_causes:What is the source of
+ABT_causes:What is the root of this sickness
+ABT_causes:What is the root of this contamination
+ABT_causes:What is the root of this diseases
+ABT_causes:What is the root of this defect
+ABT_causes:What is the root of this syndrome
+ABT_causes:What is the root of
+ABT_causes:How to get this syndrome
+ABT_causes:How to get this defect
+ABT_causes:How to get this diseases
+ABT_causes:How to get this contamination
+ABT_causes:How to get this sickness
+ABT_causes:How to get
+ABT_causes:How this this syndrome spread
+ABT_causes:How this this disease spread
+ABT_causes:How this this defect spread
+ABT_causes:How this this contamination spread
+ABT_causes:How this this sickness spread
+ABT_causes:How this  spread
+ABT_causes:How to get infected with this syndrome
+ABT_causes:How to get infected with this disease
+ABT_causes:How to get infected with this defect
+ABT_causes:How to get infected with this contamination
+ABT_causes:How to get infected with this sickness
+ABT_causes:How to get infected with
+ABT_causes:How to get infected by this syndrome
+ABT_causes:How to get infected by this disease
+ABT_causes:How to get infected by this defect
+ABT_causes:How to get infected by this contamination
+ABT_causes:How to get infected by this sickness
+ABT_causes:How to get infected by
+ABT_causes:How someone get this sickness
+ABT_causes:How someone get this syndrome
+ABT_causes:How someone get this defect
+ABT_causes:How someone get this contamination
+ABT_causes:How someone get this disease
+ABT_causes:What infectes this syndrome
+ABT_causes:What infectes this disease
+ABT_causes:What infectes this defect
+ABT_causes:What infectes this contamination
+ABT_causes:What infectes this sickness
+ABT_causes:Vectors of this syndrome
+ABT_causes:Vectors of this disease
+ABT_causes:Vectors of this defect
+ABT_causes:Vectors of this contamination
+ABT_causes:Vectors of this sickness
+ABT_causes:Vectors of this syndrome
+ABT_causes:Vectors of this disease
+ABT_causes:Vectors of this defect
+ABT_causes:Vectors of this contamination
+ABT_causes:Vectors of this sickness
+ABT_causes:Who spreads
+ABT_causes:Who spreads this defect
+ABT_causes:Who spreads this contamination
+ABT_causes:Who spreads this sickness
+ABT_causes:Who spreads this disease
+ABT_causes:Who spreads this syndrome
+ABT_causes:what spreads
+ABT_causes:what spreads this defect
+ABT_causes:what spreads this contamination
+ABT_causes:what spreads this sickness
+ABT_causes:what spreads this disease
+ABT_causes:what spreads this syndrome
+ABT_causes:what affects
+ABT_causes:what affects this defect
+ABT_causes:what affects this contamination
+ABT_causes:what affects this sickness
+ABT_causes:what affects this disease
+ABT_causes:what affects this syndrome
+ABT_causes:why i get
+ABT_causes:why i get this defect
+ABT_causes:why i get this contamination
+ABT_causes:why i get this sickness
+ABT_causes:why i get this disease
+ABT_causes:why i get this syndrome
+ABT_causes:why i got
+ABT_causes:why i got this syndrome
+ABT_causes:why i got this disease
+ABT_causes:why i got this sickness
+ABT_causes:why i got this contamination
+ABT_causes:why i got this defect
+ABT_causes:what are the ways to get
+ABT_causes:what are the ways to get this syndrome
+ABT_causes:what are the ways to get this disease
+ABT_causes:what are the ways to get this sickness
+ABT_causes:what are the ways to get this contamination
+ABT_causes:what are the ways to get this defect
+ABT_causes:what is the reason for
+ABT_causes:what is the reason for this syndrome
+ABT_causes:what is the reason for this sickness
+ABT_causes:what is the reason for this contamination
+ABT_causes:what is the reason for this defect
+ABT_causes:what is the reason for this disease
+ABT_causes:how do i know if i have
+ABT_causes:how do i know if i have this syndrome
+ABT_causes:how do i know if i have this sickness
+ABT_causes:how do i know if i have this contamination
+ABT_causes:how do i know if i have this defect
+ABT_causes:how do i know if i have this disease
+ABT_prev:how do i prevent from
+ABT_prev:how do i prevent from this syndrome
+ABT_prev:how do i prevent from this sickness
+ABT_prev:how do i prevent from this contamination
+ABT_prev:how do i prevent from this defect
+ABT_prev:how do i prevent from this disease
+ABT_prev:how do i stop from infection
+ABT_prev:how do i stop this syndrome infection
+ABT_prev:how do i stop this sickness infection
+ABT_prev:how do i stop this contamination infection
+ABT_prev:how do i stop this defect infection
+ABT_prev:how do i stop this disease infection
+ABT_prev:how to stop
+ABT_prev:how to stop infecting this syndrome
+ABT_prev:how to stop infecting this sickness
+ABT_prev:how to stop infecting this contamination
+ABT_prev:how to stop infecting this defect
+ABT_prev:how to stop infecting this disease
+ABT_prev:how to stop
+ABT_prev:how to stop getting this syndrome
+ABT_prev:how to stop getting this sickness
+ABT_prev:how to stop getting this contamination
+ABT_prev:how to stop getting this defect
+ABT_prev:how to stop getting this disease
+ABT_prev:how to prevent from
+ABT_prev:how to prevent from this syndrome
+ABT_prev:how to prevent from this sickness
+ABT_prev:how to prevent from this contamination
+ABT_prev:how to prevent from this defect
+ABT_prev:how to prevent from this disease
+ABT_prev:how to prevent from
+ABT_prev:how to prevent from this syndrome
+ABT_prev:how to prevent from this sickness
+ABT_prev:how to prevent from this contamination
+ABT_prev:how to prevent from this defect
+ABT_prev:how to prevent from this disease
+ABT_prev:how to be immune from
+ABT_prev:how to immune from this syndrome
+ABT_prev:how to immune from this sickness
+ABT_prev:how to immune from this contamination
+ABT_prev:how to immune from this defect
+ABT_prev:how to immune from this disease
+ABT_prev:how to avoid from
+ABT_prev:how to avoid from this syndrome
+ABT_prev:how to avoid from this sickness
+ABT_prev:how to avoid from this contamination
+ABT_prev:how to avoid from this defect
+ABT_prev:how to avoid from this disease
+ABT_prev:how to avoid
+ABT_prev:how to avoid  this syndrome
+ABT_prev:how to avoid  this sickness
+ABT_prev:how to avoid  this contamination
+ABT_prev:how to avoid  this defect
+ABT_prev:how to avoid  this disease
+ABT_prev:how to counter this syndrome
+ABT_prev:how to counter this sickness
+ABT_prev:how to counter this contamination
+ABT_prev:how to counter this defect
+ABT_prev:how to counter this disease
+ABT_prev:how to counter
+ABT_prev:how to stop this syndrome
+ABT_prev:how to stop this sickness
+ABT_prev:how to stop this contamination
+ABT_prev:how to stop this defect
+ABT_prev:how to stop this disease
+ABT_prev:how to stop
+ABT_prev:how not to get this syndrome
+ABT_prev:how not to get this sickness
+ABT_prev:how not to get this contamination
+ABT_prev:how not to get this defect
+ABT_prev:how not to get this disease
+ABT_prev:how not to get
+ABT_prev:can this disease be prevented
+ABT_prev:can this sickness be prevented
+ABT_prev:can this defect be prevented
+ABT_prev:can this contamination be prevented
+ABT_prev:can this syndrome be prevented
+ABT_prev:what are the ways not to get this syndrome
+ABT_prev:what are the ways not to get this sickness
+ABT_prev:what are the ways not to get this contamination
+ABT_prev:what are the ways not to get this defect
+ABT_prev:what are the ways not to get this disease
+ABT_prev:what are the ways not to get
+ABT_prev:what are the ways to prevent this syndrome
+ABT_prev:what are the ways to prevent this sickness
+ABT_prev:what are the ways to prevent this contamination
+ABT_prev:what are the ways to prevent this defect
+ABT_prev:what are the ways to prevent this disease
+ABT_prev:what are the ways to prevent
+ABT_prev:what are the preventions of
+ABT_prev:what are the preventions of this sickness
+ABT_prev:what are the preventions of this contamination
+ABT_prev:what are the preventions of this defect
+ABT_prev:what are the preventions of this disease
+ABT_prev:what are the preventions of this syndrome
+ABT_prev:how can one prevent from
+ABT_prev:how can one prevent from this syndrome
+ABT_prev:how can one prevent from this disease
+ABT_prev:how can one prevent from this defect
+ABT_prev:how can one prevent from this contamination
+ABT_prev:how can one prevent from this sickness
+IS_sym_dis:is  this a symptom of
+IS_sym_dis:is  this a symptom of this syndrome
+IS_sym_dis:is  this a symptom of this disease
+IS_sym_dis:is  this a symptom of this defect
+IS_sym_dis:is  this a symptom of this contamination
+IS_sym_dis:is  this a symptom of this sickness
+IS_sym_dis:is  this a complications of
+IS_sym_dis:is  this a complications of this syndrome
+IS_sym_dis:is  this a complications of this disease
+IS_sym_dis:is  this a complications of this defect
+IS_sym_dis:is  this a complications of this contamination
+IS_sym_dis:is  this a complications of this sickness
+IS_sym_dis:is  this a result of
+IS_sym_dis:is  this a result of this syndrome
+IS_sym_dis:is  this a result of this disease
+IS_sym_dis:is  this a result of this defect
+IS_sym_dis:is  this a result of this contamination
+IS_sym_dis:is  this a result of this sickness
+IS_sym_dis:is  this a indications of
+IS_sym_dis:is  this a indications of this syndrome
+IS_sym_dis:is  this a indications of this disease
+IS_sym_dis:is  this a indications of this defect
+IS_sym_dis:is  this a indications of this contamination
+IS_sym_dis:is  this a indications of this sickness
+IS_sym_dis:is  this a warning of this syndrome
+IS_sym_dis:is  this a warning of this disease
+IS_sym_dis:is  this a warning of this defect
+IS_sym_dis:is  this a warning of this contamination
+IS_sym_dis:is  this a warning of this sickness
+IS_sym_dis:is this a warning of
+IS_sym_dis:this warning of this disease
+IS_sym_dis:this warning of this defect
+IS_sym_dis:this warning of this contamination
+IS_sym_dis:this warning of this sickness
+IS_sym_dis:this warning of this syndrome
+IS_sym_dis:this warning of
+IS_sym_dis:this indications of this disease
+IS_sym_dis:this indications of this syndrome
+IS_sym_dis:this indications of this sickness
+IS_sym_dis:this indications of this contamination
+IS_sym_dis:this indications of this defect
+IS_sym_dis:this indications of
+IS_sym_dis:this result of this disease
+IS_sym_dis:this result of this contamination
+IS_sym_dis:this result of this syndrome
+IS_sym_dis:this result of this sickness
+IS_sym_dis:this result of this defect
+IS_sym_dis:this result of
+IS_sym_dis:this complications of this disease
+IS_sym_dis:this complications of this contamination
+IS_sym_dis:this complications of this syndrome
+IS_sym_dis:this complications of this sickness
+IS_sym_dis:this complications of this defect
+IS_sym_dis:this complications of
+IS_sym_dis:can  this be a symptom of
+IS_sym_dis:can  this be a indications of
+IS_sym_dis:can  this be a result of
+IS_sym_dis:can  this be a symptom of this disease
+IS_sym_dis:can  this be a indications of this disease
+IS_sym_dis:can  this be a result of this disease
+IS_sym_dis:can  this be a indications of this disease
+IS_sym_dis:is  this mean i have
+IS_sym_dis:is  this mean i have this syndrome
+IS_sym_dis:is  this mean i have this disease
+IS_sym_dis:is  this mean i have this defect
+IS_sym_dis:is  this mean i have this contamination
+IS_sym_dis:is  this mean i have this sickness
+IS_sym_dis:does  this mean i have
+IS_sym_dis:does  this mean i have this syndrome
+IS_sym_dis:does  this mean i have this disease
+IS_sym_dis:does  this mean i have this defect
+IS_sym_dis:does  this mean i have this contamination
+IS_sym_dis:does  this mean i have this sickness
+IS_cau_dis:is  this a cause of
+IS_cau_dis:is  this a cause of this disease
+IS_cau_dis:is  this a cause of this defect
+IS_cau_dis:is  this a cause of this syndrome
+IS_cau_dis:is  this a cause of this contamination
+IS_cau_dis:is  this a cause of this sickness
+IS_cau_dis:can this cause this sickness
+IS_cau_dis:can this cause this defect
+IS_cau_dis:can this cause this syndrome
+IS_cau_dis:can this cause this contamination
+IS_cau_dis:can this cause this disease
+IS_cau_dis:can this cause
+IS_cau_dis:can this be a cause of this sickness
+IS_cau_dis:can this be a cause of this defect
+IS_cau_dis:can this be a cause of this syndrome
+IS_cau_dis:can this be a cause of this contamination
+IS_cau_dis:can this be a cause of this disease
+IS_cau_dis:can this be a cause of
+IS_cau_dis:can this be a way of getting of this sickness
+IS_cau_dis:can this be a way of getting of this defect
+IS_cau_dis:can this be a way of getting of this syndrome
+IS_cau_dis:can this be a way of getting of this contamination
+IS_cau_dis:can this be a way of getting of this disease
+IS_cau_dis:can this be a way of getting of
+IS_cau_dis:can this infect this sickness
+IS_cau_dis:can this infect this defect
+IS_cau_dis:can this infect this syndrome
+IS_cau_dis:can this infect this contamination
+IS_cau_dis:can this infect this disease
+IS_cau_dis:can this infect
+IS_cau_dis:can this infect me with this defect
+IS_cau_dis:can this infect me with this disease
+IS_cau_dis:can this infect me with this contamination
+IS_cau_dis:can this infect me with this syndrome
+IS_cau_dis:can this infect me with this defect
+IS_cau_dis:can this infect me with this sickness
+IS_cau_dis:can this make me with this defect
+IS_cau_dis:can this make me with this disease
+IS_cau_dis:can this make me with this contamination
+IS_cau_dis:can this make me with this syndrome
+IS_cau_dis:can this make me with this sickness
+IS_cau_dis:can this make me with this defect
+IS_cau_dis:can this lead to this defect
+IS_cau_dis:can this lead to this disease
+IS_cau_dis:can this lead to this contamination
+IS_cau_dis:can this lead to this syndrome
+IS_cau_dis:can this lead to this sickness
+IS_cau_dis:can this lead to this defect
+IS_cau_dis:will this infect this disease
+IS_cau_dis:will this infect this syndrome
+IS_cau_dis:will this infect this contamination
+IS_cau_dis:will this infect this defect
+IS_cau_dis:will this infect this sickness
+IS_cau_dis:will this infect
+IS_cau_dis:will this infect me with this sickness
+IS_cau_dis:will this infect me with this defect
+IS_cau_dis:will this infect me with this disease
+IS_cau_dis:will this infect me with this contamination
+IS_cau_dis:will this infect me with this syndrome
+IS_cau_dis:will this infect me with this disease
+IS_cau_dis:will this infect me with
+IS_cau_dis:will this make me with this sickness
+IS_cau_dis:will this make me with this contamination
+IS_cau_dis:will this make me with this syndrome
+IS_cau_dis:will this make me with this defect
+IS_cau_dis:will this make me with this sickness
+IS_cau_dis:will this make me with
+IS_cau_dis:will this lead to this sickness
+IS_cau_dis:will this lead to this contamination
+IS_cau_dis:will this lead to this syndrome
+IS_cau_dis:will this lead to this defect
+IS_cau_dis:will this lead to this sickness
+IS_cau_dis:will this lead to
+IS_cau_dis:will this lead to this disease
+IS_cau_dis:will this lead to this sickness
+IS_cau_dis:will this lead to this contamination
+IS_cau_dis:will this lead to this syndrome
+IS_cau_dis:will this lead to this sickness
+IS_cau_dis:will i get this contamination from this
+IS_cau_dis:will i get this sickness from this
+IS_cau_dis:will i get this disease from this
+IS_cau_dis:will i get this syndrome from this
+IS_cau_dis:will i get this disease from this
+IS_cau_dis:will i get  from this
+IS_cau_dis:can i be this contamination from this
+IS_cau_dis:can i be this sickness from this
+IS_cau_dis:can i be this syndrome from this
+IS_cau_dis:can i be this disease from this
+IS_cau_dis:can i be  from
+IS_cau_dis:can i be this contamination
+IS_cau_dis:can i be this sickness
+IS_cau_dis:can i be this syndrome
+IS_cau_dis:can i be this disease
+IS_cau_dis:can i be
+IS_cau_dis:does this infect this contamination
+IS_cau_dis:does this infect this sickness
+IS_cau_dis:does this infect this syndrome
+IS_cau_dis:does this infect this disease
+IS_cau_dis:does this infect
+IS_cau_dis:does this infect me with this defect
+IS_cau_dis:does this infect me with this contamination
+IS_cau_dis:does this infect me with this syndrome
+IS_cau_dis:does this infect me with this sickness
+IS_cau_dis:does this infect me with this defect
+IS_cau_dis:does this infect me with
+IS_cau_dis:does this make me with this contamination
+IS_cau_dis:does this make me with this syndrome
+IS_cau_dis:does this make me with this sickness
+IS_cau_dis:does this make me with this defect
+IS_cau_dis:does this make me with
+IS_cau_dis:does this lead to this contamination
+IS_cau_dis:does this lead to this syndrome
+IS_cau_dis:does this lead to this sickness
+IS_cau_dis:does this lead to this syndrome
+IS_cau_dis:does this lead to
+IS_cau_dis:does this lead to this contamination
+IS_cau_dis:does this lead to this syndrome
+IS_cau_dis:does this lead to this sickness
+IS_cau_dis:does this lead to this syndrome
+IS_cau_dis:does this lead to this defect
+IS_cau_dis:does this lead to
+IS_cau_dis:can this lead to this sickness
+IS_cau_dis:can this lead to this defect
+IS_cau_dis:can this lead to this syndrome
+IS_cau_dis:can this lead to this disease
+IS_cau_dis:can this lead to this contamination
+IS_cau_dis:can this lead to
+IS_prev_dis:can i prevent from this sickness by this
+IS_prev_dis:can i prevent from this defect by this
+IS_prev_dis:can i prevent from this syndrome by this
+IS_prev_dis:can i prevent from this disease by this
+IS_prev_dis:can i prevent from this contamination by this
+IS_prev_dis:can i prevent from  by this
+IS_prev_dis:can i reduce the risk of getting this contamination by this
+IS_prev_dis:can i reduce the risk of getting this disease by this
+IS_prev_dis:can i reduce the risk of getting this syndrome by this
+IS_prev_dis:can i reduce the risk of getting this defect by this
+IS_prev_dis:can i reduce the risk of getting this sickness by this
+IS_prev_dis:can i reduce the risk of getting  by this
+IS_prev_dis:can i reduce the risk of getting this contamination from by this
+IS_prev_dis:can i reduce the risk of getting this disease from by this
+IS_prev_dis:can i reduce the risk of getting this syndrome from by this
+IS_prev_dis:can i reduce the risk of getting this defect from by this
+IS_prev_dis:can i reduce the risk of getting this sickness from by this
+IS_prev_dis:can i reduce the risk of getting from by this
+IS_prev_dis:can i be safe from this defect by this
+IS_prev_dis:can i be safe from this syndrome by this
+IS_prev_dis:can i be safe from this disease by this
+IS_prev_dis:can i be safe from this contamination by this
+IS_prev_dis:can i be safe from this sickness by this
+IS_prev_dis:can i be safe from  by this
+IS_prev_dis:Is this a way to prevent from this defect
+IS_prev_dis:Is this a way to prevent from this sickness
+IS_prev_dis:Is this a way to prevent from this disease
+IS_prev_dis:Is this a way to prevent from this contamination
+IS_prev_dis:Is this a way to prevent from this syndrome
+IS_prev_dis:Is this a way to prevent from
+IS_prev_dis:can i prevent from this contamination by
+IS_prev_dis:can i prevent from this disease by
+IS_prev_dis:can i prevent from this sickness by
+IS_prev_dis:can i prevent from this defect by
+IS_prev_dis:can i prevent from this syndrome by
+IS_prev_dis:can i prevent from  by
+IS_prev_dis:can i prevent from this sickness
+IS_prev_dis:can i prevent from this contamination
+IS_prev_dis:can i prevent from this defect
+IS_prev_dis:can i prevent from this disease
+IS_prev_dis:can i prevent from this syndrome
+IS_prev_dis:can i prevent from
+IS_prev_dis:can i be safe from this contamination
+IS_prev_dis:can i be safe from this sickness
+IS_prev_dis:can i be safe from this defect
+IS_prev_dis:can i be safe from this disease
+IS_prev_dis:can i be safe from this syndrome
+IS_prev_dis:can i be safe from
+IS_prev_dis:can this save me from this syndrome
+IS_prev_dis:can this save me from this disease
+IS_prev_dis:can this save me from this sickness
+IS_prev_dis:can this save me from this defect
+IS_prev_dis:can this save me from this sickness
+IS_prev_dis:can this save me from this contamination
+IS_prev_dis:can this save me from
+IS_prev_dis:can this avoid me from this syndrome
+IS_prev_dis:can this avoid me from this disease
+IS_prev_dis:can this avoid me from this sickness
+IS_prev_dis:can this avoid me from this defect
+IS_prev_dis:can this avoid me from this sickness
+IS_prev_dis:can this avoid me from this contamination
+IS_prev_dis:can this avoid me from
+IS_prev_dis:does this reduce the risk of getting this contamination
+IS_prev_dis:does this reduce the risk of getting this sickness
+IS_prev_dis:does this reduce the risk of getting this defect
+IS_prev_dis:does this reduce the risk of getting this sickness
+IS_prev_dis:does this reduce the risk of getting this disease
+IS_prev_dis:does this reduce the risk of getting this syndrome
+IS_prev_dis:is this minimize this sickness
+IS_prev_dis:is this minimize this contamination
+IS_prev_dis:is this minimize this defect
+IS_prev_dis:is this minimize this sickness
+IS_prev_dis:is this minimize this disease
+IS_prev_dis:is this minimize this syndrome
+IS_prev_dis:is this minimize
+IS_prev_dis:can this minimize this disease
+IS_prev_dis:can this minimize this sickness
+IS_prev_dis:can this minimize this defect
+IS_prev_dis:can this minimize this sickness
+IS_prev_dis:can this minimize this contamination
+IS_prev_dis:can this minimize
+IS_prev_dis:does this minimize this syndrome
+IS_prev_dis:does this minimize this contamination
+IS_prev_dis:does this minimize this defect
+IS_prev_dis:does this minimize this disease
+IS_prev_dis:does this minimize this sickness
+IS_prev_dis:does this minimize
+IS_prev_dis:can this minimize this sickness
+IS_prev_dis:can this minimize this disease
+IS_prev_dis:can this minimize this defect
+IS_prev_dis:can this minimize this contamination
+IS_prev_dis:can this minimize this syndrome
+IS_prev_dis:can this minimize
+IS_prev_dis:can this be a preventions from this sickness
+IS_prev_dis:can this be a preventions from this disease
+IS_prev_dis:can this be a preventions from this defect
+IS_prev_dis:can this be a preventions from this contamination
+IS_prev_dis:can this be a preventions from this syndrome
+IS_prev_dis:can this be a preventions from
+IS_prev_dis:is this a prevention of this sickness
+IS_prev_dis:is this a prevention of this disease
+IS_prev_dis:is this a prevention of this defect
+IS_prev_dis:is this a prevention of this contamination
+IS_prev_dis:is this a prevention of this syndrome
+IS_prev_dis:is this a prevention of
+IS_prev_dis:are this preventions of this sickness
+IS_prev_dis:are this preventions of this disease
+IS_prev_dis:are this preventions of this defect
+IS_prev_dis:are this preventions of this contamination
+IS_prev_dis:are this preventions of this syndrome
+IS_prev_dis:are this preventions of
+IS_prev_dis:are this preventions for this sickness
+IS_prev_dis:are this preventions for this disease
+IS_prev_dis:are this preventions for this defect
+IS_prev_dis:are this preventions for this contamination
+IS_prev_dis:are this preventions for this syndrome
+IS_prev_dis:are this preventions for
+IS_prev_dis:can i reduce the risk of infecting from this sickness by this
+IS_prev_dis:can i reduce the risk of infecting from this disease by this
+IS_prev_dis:can i reduce the risk of infecting from this defect by this
+IS_prev_dis:can i reduce the risk of infecting from this contamination by this
+IS_prev_dis:can i reduce the risk of infecting from this syndrome by this
+IS_prev_dis:can i reduce the risk of infecting from  by
+IS_prev_dis:can i prevent from this sickness by this prevention
+IS_prev_dis:can i prevent from this disease by this prevention
+IS_prev_dis:can i prevent from this defect by this prevention
+IS_prev_dis:can i prevent from this contamination by this prevention
+IS_prev_dis:can i prevent from this syndrome by this prevention
+IS_prev_dis:can i prevent from  by
+ABT_risk:what are risk factors for this disease
+ABT_risk:what are risk factors for this sickness
+ABT_risk:what are risk factors for this defect
+ABT_risk:what are risk factors for this contamination
+ABT_risk:what are risk factors for this syndrome
+ABT_risk:what are risk factors for
+ABT_risk:What are some risk factors for this disease
+ABT_risk:What are some risk factors for this disease
+ABT_risk:What are some risk factors for this disease
+ABT_risk:What are some risk factors for this disease
+ABT_risk:What are some risk factors for this disease
+ABT_risk:What are genetic risk factors this disease
+ABT_risk:What are genetic risk factors this disease
+ABT_risk:What are genetic risk factors this disease
+ABT_risk:What are genetic risk factors this disease
+ABT_risk:What are genetic risk factors this disease
+ABT_risk:What is the  risk of this disease
+ABT_risk:What is the  risk of this disease
+ABT_risk:What is the  risk of this disease
+ABT_risk:What is the  risk of this disease
+ABT_risk:What is the  risk of this disease
+ABT_risk:Is is risky to has this disease
+ABT_risk:Is is risky to has this disease
+ABT_risk:Is is risky to has this disease
+ABT_risk:Is is risky to has this disease
+ABT_risk:risks of this disease
+ABT_risk:risks of this disease
+ABT_risk:risks of this disease
+ABT_risk:risks of this disease
+ABT_risk:risks of this disease
+ABT_risk:risks for this disease
+ABT_risk:risks for this disease
+ABT_risk:risks for this disease
+ABT_risk:risks for this disease
+ABT_risk:risk of this disease
+ABT_risk:risk of this disease
+ABT_risk:risk of this disease
+ABT_risk:risk of this disease
+ABT_treatment:how to treat this disease
+ABT_treatment:how to treat this disease
+ABT_treatment:how to treat this disease
+ABT_treatment:how to treat this disease
+ABT_treatment:how to treat this disease
+ABT_treatment:how to treat this disease
+ABT_treatment:can this disease be treated
+ABT_treatment:can this disease be treated
+ABT_treatment:can this disease be treated
+ABT_treatment:can this disease be treated
+ABT_treatment:can this disease be treated
+ABT_treatment:can this disease be treated
+ABT_treatment:what are the medicine for this disease
+ABT_treatment:what are the medicine for this disease
+ABT_treatment:what are the medicine for this disease
+ABT_treatment:what are the medicine for this disease
+ABT_treatment:what are the medicine for this disease
+ABT_treatment:what are the medicine for this disease
+ABT_treatment:does this disease has medicine
+ABT_treatment:does this disease has medicine
+ABT_treatment:does this disease has medicine
+ABT_treatment:does this disease has medicine
+ABT_treatment:does this disease has medicine
+ABT_treatment:can i get medicine for this disease
+ABT_treatment:can i get medicine for this disease
+ABT_treatment:can i get medicine for this disease
+ABT_treatment:can i get medicine for this disease
+ABT_treatment:can i get medicine for this disease
+ABT_treatment:how to get treatment for disease
+ABT_treatment:how to get treatment for disease
+ABT_treatment:how to get treatment for disease
+ABT_treatment:how to get treatment for disease
+ABT_treatment:how this disease is treated
+ABT_treatment:how this disease is treated
+ABT_treatment:how this disease is treated
+ABT_treatment:how this disease is treated
+ABT_treatment:how this disease is treated
+ABT_treatment:is there medicine for this disease
+ABT_treatment:is there medicine for this disease
+ABT_treatment:is there medicine for this disease
+ABT_treatment:is there medicine for this disease
+ABT_treatment:is there medicine for this disease
+ABT_treatment:are there medicine  for disease
+ABT_treatment:are there medicine  for disease
+ABT_treatment:are there medicine  for disease
+ABT_treatment:are there medicine  for disease
+ABT_treatment:are there medicine  for disease
+ABT_treatment:how to find cure for this disease
+ABT_treatment:how to find cure for this disease
+ABT_treatment:how to find cure for this disease
+ABT_treatment:how to find cure for this disease
+ABT_treatment:how to find cure for this disease
+ABT_treatment:what is the cure for this disease
+ABT_treatment:what is the cure for this disease
+ABT_treatment:what is the cure for this disease
+ABT_treatment:what is the cure for this disease
+ABT_treatment:what is the cure for this disease
+ABT_treatment:how to cure this disease
+ABT_treatment:how to cure this disease
+ABT_treatment:how to cure this disease
+ABT_treatment:how to cure this disease
+ABT_treatment:how to cure this disease
+ABT_treatment:how to get rid of this disease
+ABT_treatment:how to get rid of this disease
+ABT_treatment:how to get rid of this disease
+ABT_treatment:how to get rid of this disease
+Prediction:what do i have
+Prediction:what do i have
+Prediction:what do i have
+Prediction:what do i have
+Prediction:what kind of disease i have
+Prediction:what kind of disease i have
+Prediction:what kind of disease i have
+Prediction:what kind of disease i have
+Prediction:what disease do i have
+Prediction:what disease do i have
+Prediction:what disease do i have
+Prediction:what disease do i have
+Prediction:predict my disease
+Prediction:predict my disease
+Prediction:predict my disease
+Prediction:predict my disease
+Prediction:predict my disease
+Prediction:what is the possibility that i am ill
+Prediction:what is the possibility that i am ill
+Prediction:what is the possibility that i am ill
+Prediction:what is the possibility that i am ill
+Prediction:what is the possibility that i am ill
+Prediction:is this serious
+Prediction:is this serious
+Prediction:is this serious
+Prediction:is this serious
+Prediction:is this serious
+Prediction:is this dangerous
+Prediction:is this dangerous
+Prediction:is this dangerous
+Prediction:is this dangerous
+Prediction:is this dangerous
+Prediction:what is wrong with me
+Prediction:what is wrong with me
+Prediction:what is wrong with me
+Prediction:what is wrong with me
+Prediction:what is wrong with me
+Prediction:what is wrong with me
+Prediction:what can i have
+Prediction:what can i have
+Prediction:what can i have
+Prediction:what can i have
+Prediction:what disease i may have
+Prediction:what disease i may have
+Prediction:what disease i may have
+Prediction:what disease i may have
+Prediction:what is the possibility that i am ill
+Prediction:what is the possibility that i am ill
+Prediction:what is the possibility that i am ill
+Prediction:what is the possibility that i am ill
+Prediction:what do i have
+Prediction:what do i have
+Prediction:what do i have
+Prediction:what do i have
+Prediction:what disease i may have
+Prediction:what disease i may have
+Prediction:what disease i may have
+Prediction:what disease i may have
+Prediction:Are these symptoms of a disease
+Prediction:Are these symptoms of a disease
+Prediction:Are these symptoms of a disease
+Prediction:Are these symptoms of a disease
+Prediction:Does this mean i have a disease
+Prediction:Does this mean i have a disease
+Prediction:Does this mean i have a disease
+Prediction:Does this mean i have a disease
+Prediction:predict this disease
+Prediction:predict this disease
+Prediction:predict this disease
+Prediction:predict this disease
+Prediction:What are the possible disease for symptoms
+Prediction:What are the possible disease for symptoms
+Prediction:What are the possible disease for symptoms
+Prediction:What are the possible disease for symptoms
