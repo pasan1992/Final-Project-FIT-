@@ -1,0 +1,1748 @@
+ABT_treatment:how this disease is treated
+ABT_symptom:How do health-care professionals diagnose Marburg viral infections?
+ABT_symptom:What are possible complications of the flu?
+IS_sym_dis:this symptoms complications of this disease
+ABT_treatment:how to get rid of this disease
+ABT_disease:i want to know more about this sickness
+Prediction:Does this mean i have a disease
+ABT_causes:What causes swine flu?
+IS_cau_dis:does this cause make me with
+Prediction:predict this disease
+ABT_symptom:How is this contamination found
+ABT_symptom:How do physicians diagnose tuberculosis?
+ABT_symptom:what are the complications of this contamination
+IS_prev_dis:can i reduce the risk of infecting from this sickness by this prevention
+ABT_symptom:what are the signs of this illness
+ABT_causes:What is the prognosis of tuberculosis?
+ABT_symptom:How is the diagnosis of Legionnaires' disease made?
+IS_prev_dis:can i prevent from this defect by this prevention
+IS_sym_dis:this symptoms warning of this contamination
+ABT_prev:how do i prevent from this contamination
+ABT_disease:What are complications of stomach flu (gastroenteritis)?
+ABT_causes:how does this sickness develop
+Prediction:I have excessive thirst, hungry and increased urination. My vision is getting blurry. what kind of disease i have?ABT_treatment:does this disease has medicine
+ABT_treatment:what is the cure for this disease
+IS_prev_dis:is this a prevention of this contamination
+ABT_treatment:What other support is available for cancer patients?
+ABT_risk:what are risk factors for this disease
+ABT_disease:Where can people get more information on hantavirus pulmonary syndrome?
+ABT_symptom:what are the signs of this syndrome
+ABT_symptom:How is strep throat diagnosed?
+ABT_treatment:is there medicine for this disease
+ABT_causes:How to get infected with
+ABT_prev:how can one prevent from this sickness
+ABT_prev:how to avoid from this syndrome
+ABT_prev:how can one prevent from this disease
+ABT_symptom:How do people get a second opinion for Hodgkin's lymphoma?
+IS_cau_dis:will this cause lead to this defect
+ABT_symptom:what are the symptoms of this sickness
+IS_prev_dis:can i prevent from this defect by
+IS_cau_dis:will this cause infect me with this syndrome
+Prediction:what can i have
+ABT_causes:How someone get this sickness
+ABT_symptom:what are the complications arise from this sickness
+ABT_treatment:What specialties of doctors treat roseola?
+IS_sym_dis:does  this symptoms mean i have this disease
+ABT_disease:more detail on this diseases
+ABT_causes:how do i know if i have this defect
+ABT_causes:what causes this defect
+ABT_causes:How is roseola spread?
+ABT_symptom:What are the complications of mono?
+ABT_prev:how to stop this contamination
+ABT_symptom:How to identify this syndrome
+IS_cau_dis:can this cause make me with this disease
+ABT_symptom:How will I know if I am cured of swine flu?
+ABT_causes:how does this syndrome develop
+ABT_treatment:is there medicine for this disease
+ABT_risk:what are risk factors for
+ABT_disease:what is this contamination
+Prediction:what is wrong with me
+ABT_causes:what are the causes of this sickness
+ABT_risk:risks for this disease
+IS_sym_dis:is  this symptoms a indications of
+ABT_prev:what are the preventions of this defect
+IS_prev_dis:is this prevention minimize this syndrome
+ABT_causes:What is the prognosis of malaria?
+ABT_symptom:How is this sickness found
+ABT_prev:how to prevent from this disease
+ABT_prev:how to stop this defect
+ABT_risk:What areas are high risk for contracting yellow fever?
+IS_prev_dis:are this preventions of this syndrome
+ABT_risk:What are the risk factors for coxsackievirus infection?
+ABT_risk:Is is risky to has this disease
+ABT_treatment:What is the treatment for bone cancer?
+ABT_disease:What is infectious mononucleosis?
+ABT_prev:how to stop getting this syndrome
+ABT_symptom:What does chickenpox look like?
+ABT_causes:What causes connective tissue disease?
+IS_cau_dis:will this cause make me with this contamination
+ABT_disease:what is this disorder
+IS_cau_dis:can i be this contamination from this cause
+ABT_treatment:how to cure this disease
+ABT_prev:how not to get this syndrome
+ABT_prev:what are the ways not to get
+IS_prev_dis:can this prevention avoid me from this disease
+IS_cau_dis:will this cause lead to this disease
+ABT_symptom:When should I contact a health-care provider about sepsis?
+ABT_symptom:When should I see a doctor for a sore throat?
+ABT_disease:whats this disorder
+ABT_treatment:What are the remadies for this disease
+ABT_treatment:What specialists treat cancer?
+ABT_disease:what is this illness
+ABT_disease:more detail on this illness
+ABT_causes:what affects this defect
+IS_prev_dis:are this preventions of this contamination
+ABT_prev:What is the key to flu (influenza) prevention?
+ABT_disease:is this this illness dangerous
+ABT_symptom:How do physicians diagnose non-Hodgkin's lymphoma?
+IS_prev_dis:can i prevent from this disease
+ABT_symptom:How to find this diseases
+IS_cau_dis:will i get  from this
+ABT_disease:what is this disorder
+ABT_causes:What is the root of this diseases
+IS_sym_dis:can  this symptoms be a indications of this disease
+ABT_symptom:symptoms for this contamination
+ABT_disease:What is swine flu?
+ABT_symptom:What are the signs and symptoms of stomach flu (gastroenteritis) in children?
+ABT_treatment:Do antiviral agents protect people from the flu?
+IS_sym_dis:this symptoms complications of
+IS_contagious:Is necrotizing fasciitis contagious?
+Prediction:what kind of disease i have
+ABT_causes:What is the root of this defect
+ABT_symptom:How to check for this contamination
+ABT_symptom:How to find this defect
+IS_cau_dis:can this cause
+ABT_causes:What is the source of this syndrome
+ABT_causes:what is the reason for this disease
+ABT_disease:what are this defect
+IS_sym_dis:is  this symptoms a complications of this defect
+ABT_causes:Vectors of this syndrome
+ABT_disease:explain this illness
+ABT_causes:Vectors of this defect
+ABT_symptom:symptoms for this syndrome
+ABT_symptom:How is this syndrome recognized
+ABT_disease:What is rubella (German measles)?
+ABT_treatment:how to treat this disease
+ABT_causes:Vectors of this syndrome
+ABT_disease:Where can I find more information about swine flu (H1N1 and H3N2v)?
+IS_cau_dis:can this cause infect me with this defect
+ABT_causes:Vectors of this sickness
+ABT_symptom:What are bone cancer symptoms and signs?
+IS_sym_dis:is  this symptoms a complications of this sickness
+ABT_causes:How to get infected with this syndrome
+ABT_treatment:can i get medicine for this disease
+IS_cau_dis:can this cause this sickness
+IS_contagious:Is TB contagious, and how long is the incubation period and contagious period?
+IS_sym_dis:this symptoms complications of this sickness
+IS_prev_dis:can i prevent from this contamination by this prevention
+ABT_causes:what is the reason for this defect
+ABT_causes:What is the prognosis with sepsis?
+ABT_treatment:how to get rid of this disease
+ABT_symptom:What are the symptoms of typhoid fever?
+ABT_causes:How is fifth disease spread?
+Prediction:what disease do i have
+ABT_causes:what are the ways to get this contamination
+IS_prev_dis:can this prevention minimize this disease
+ABT_disease:Where can people find additional information about the flu?
+ABT_causes:what are the causes of this syndrome
+Prediction:what is the possibility that i am ill
+ABT_causes:What is the source of this defect
+ABT_causes:How is sepsis transmitted?
+ABT_causes:How is Legionnaires' disease spread?
+ABT_risk:What are risk factors for bone cancer?
+IS_prev_dis:Is it possible to prevent mono?
+Prediction:what kind of disease i have
+IS_cau_dis:does this cause infect me with
+ABT_symptom:what are the evidence of this syndrome
+ABT_causes:What causes plague?
+IS_sym_dis:is  this symptoms a symptom of this sickness
+ABT_risk:What are some risk factors for this disease
+IS_cau_dis:can this cause lead to this syndrome
+ABT_causes:what affects this contamination
+ABT_disease:what is  this sickness
+ABT_symptom:How to find this syndrome
+ABT_causes:How is malaria transmitted?
+Prediction:predict my disease
+ABT_symptom:How is this diseases diagnosed
+ABT_disease:What is a CCR5 antagonist?
+IS_sym_dis:does  this symptoms mean i have this sickness
+ABT_prev:How can I prevent a sore throat?
+ABT_risk:risks for this disease
+ABT_risk:risks of this disease
+ABT_risk:risks for this disease
+ABT_prev:Can bladder infections be prevented?
+ABT_prev:how to avoid from this disease
+ABT_prev:how to prevent from this disease
+ABT_risk:What are risk factors for leptospirosis?
+ABT_prev:how can one prevent from
+Prediction:is this serious
+IS_cau_dis:will this cause infect this defect
+ABT_causes:what are the ways to get this syndrome
+ABT_symptom:How is this defect diagnosed
+ABT_disease:explain
+ABT_prev:how to avoid  this syndrome
+ABT_causes:what are the ways to get this sickness
+ABT_causes:why i got this syndrome
+ABT_symptom:How to recognize this contamination
+ABT_symptom:what are the evidence of this illness
+ABT_symptom:How this defect can be checked
+Prediction:what disease i may have
+ABT_disease:more detail on this illness
+IS_prev_dis:does this prevention reduce the risk of getting this sickness
+ABT_disease:what is  this illness
+ABT_causes:What is the source of
+ABT_symptom:How to identify this diseases
+ABT_disease:what is this contamination
+ABT_disease:this diseases
+ABT_prev:How can I prevent a sore throat?
+IS_prev_dis:Is it possible to prevent plague?
+IS_cau_dis:will this cause infect this sickness
+ABT_disease:What is an integrase strand transfer inhibitor?
+ABT_risk:Is a seizure due to fever dangerous?
+ABT_treatment:What are the side effect of
+ABT_prev:how not to get this sickness
+Prediction:is this dangerous
+IS_prev_dis:Is it possible to prevent coxsackievirus infections?
+IS_prev_dis:does this prevention minimize this syndrome
+ABT_disease:explain this diseases
+ABT_prev:How can RSV infection be prevented?
+ABT_causes:How to get infected by this sickness
+IS_prev_dis:Can typhoid fever be prevented?
+IS_prev_dis:can i be safe from this contamination by this
+IS_prev_dis:Is it possible to prevent the spread of fifth disease?
+ABT_prev:what are the ways not to get this syndrome
+ABT_symptom:what are the warning of this contamination
+ABT_prev:how to counter this contamination
+ABT_symptom:What are protease inhibitors?
+IS_prev_dis:can i reduce the risk of getting this contamination by this prevention
+ABT_treatment:Are there home remedies or alternative treatments for cancer?
+ABT_prev:what are the preventions of
+ABT_causes:How is Legionnaires' disease spread?
+ABT_prev:how to prevent from this defect
+ABT_causes:why i got this defect
+ABT_symptom:How will I know if I have a cold or the flu?
+ABT_disease:What is leptospirosis?
+IS_prev_dis:are this preventions of this sickness
+ABT_disease:is this dangerous
+IS_contagious:Is sepsis contagious?
+IS_sym_dis:does  this symptoms mean i have
+ABT_symptom:how do i know i have this diseases
+ABT_causes:what causes this diseases
+ABT_disease:What is hypothermia?
+ABT_treatment:As an adult, do I need the rubella vaccine (MMR)?
+ABT_symptom:How this contamination can be checked
+ABT_disease:what is this this contamination
+IS_prev_dis:can i reduce the risk of getting this defect by this prevention
+ABT_disease:what are this illness
+ABT_disease:this defect
+ABT_symptom:How do physicians diagnose plague?
+ABT_treatment:can i get medicine for this disease
+ABT_treatment:What types of specialists treat chickenpox?
+ABT_prev:how to prevent from this defect
+ABT_prev:how to avoid from
+IS_cau_dis:does this cause infect
+IS_sym_dis:this symptoms warning of this defect
+ABT_causes:what is the cause of this diseases
+ABT_treatment:How will I know if I am cured of tuberculosis?
+IS_cau_dis:will i get this disease from this cause
+ABT_symptom:what are the indications of this diseases
+IS_prev_dis:can this prevention avoid me from this sickness
+ABT_disease:Where can people find more information about non-Hodgkin's lymphoma?
+ABT_symptom:What if I have multiple recurrent episodes of strep throat?
+ABT_risk:what are risk factors for this contamination
+IS_sym_dis:this symptoms indications of this syndrome
+ABT_symptom:what issues comes from this contamination
+IS_sym_dis:can  this symptoms be a symptom of this disease
+ABT_disease:What is fifth disease?
+ABT_symptom:What is the prognosis (outlook), and what are the complications for patients with encephalitis or meningitis?
+ABT_treatment:can this disease be treated
+ABT_disease:What is sepsis?
+ABT_disease:i want to know more about
+IS_prev_dis:does this prevention minimize this defect
+ABT_causes:What is the root of
+ABT_risk:risks of this disease
+ABT_symptom:What are the complications of pericarditis?
+ABT_causes:Vectors of this contamination
+ABT_disease:this syndrome
+ABT_causes:How to get infected by this syndrome
+ABT_symptom:what issues comes from this illness
+ABT_treatment:how to get treatment for disease
+ABT_disease:What is cancer?
+ABT_disease:Where can people get more information on yellow fever?
+ABT_risk:What are genetic risk factors this disease
+ABT_symptom:How is hypothermia diagnosed?
+IS_contagious:Is swine flu (H1N1) contagious?
+ABT_symptom:What are the complications of rubella?
+ABT_prev:how to counter this defect
+IS_sym_dis:is  this symptoms mean i have
+ABT_causes:What is the prognosis of an RSV infection?
+ABT_disease:what is
+IS_sym_dis:this symptoms result of this sickness
+IS_prev_dis:can this prevention avoid me from this defect
+ABT_disease:What is sepsis?
+ABT_disease:is this this contamination dangerous
+ABT_causes:what is the cause of this contamination
+Prediction:what can i have
+ABT_symptom:How is pericarditis diagnosed?
+ABT_treatment:can i get medicine for this disease
+ABT_disease:What is pneumonia?
+IS_contagious:Is swine flu contagious?
+IS_sym_dis:is  this symptoms mean i have this syndrome
+ABT_risk:What are some risk factors for this disease
+ABT_risk:What is the  risk of this disease
+IS_sym_dis:is  this symptoms a warning of this syndrome
+ABT_prev:how to counter this syndrome
+IS_sym_dis:this symptoms result of this contamination
+IS_prev_dis:is this a prevention of this disease
+ABT_symptom:How do physicians diagnose malaria?
+ABT_causes:what affects this disease
+ABT_symptom:how do i know if i have this contamination
+Prediction:what is the possibility that i am ill
+ABT_disease:What is pericarditis?
+ABT_disease:i want to know more about this illness
+ABT_treatment:What is the treatment for cancer?
+ABT_treatment:When should someone get the flu shot?
+ABT_treatment:is there medicine for this disease
+IS_sym_dis:is  this symptoms a warning of this defect
+ABT_symptom:what are the evidence of this sickness
+Prediction:what is wrong with me
+ABT_causes:what are the ways to get this defect
+Prediction:Are these symptoms of a disease
+IS_cau_dis:can this cause lead to this contamination
+IS_prev_dis:Can swine flu be prevented if the swine flu vaccine (or other flu strain vaccines) is not readily available?
+ABT_prev:how to prevent from this contamination
+ABT_prev:how to stop
+ABT_causes:Is plague contagious?
+ABT_symptom:symptoms for this sickness
+ABT_prev:how to stop this syndrome
+IS_prev_dis:can this be a preventions from this contamination
+ABT_causes:what spreads this contamination
+IS_prev_dis:can this prevention minimize this defect
+IS_cau_dis:can this cause lead to this disease
+ABT_disease:whats this sickness
+IS_prev_dis:can i prevent from this disease by this prevention
+ABT_causes:Vectors of this defect
+ABT_disease:is this this defect dangerous
+Prediction:is this dangerous
+Prediction:what disease i may have
+ABT_prev:what are the preventions of this disease
+IS_cau_dis:does this cause lead to this contamination
+IS_prev_dis:can i reduce the risk of getting this sickness from by this prevention
+ABT_symptom:How is this diseases recognized
+IS_cau_dis:will this cause lead to this sickness
+Prediction:predict my disease
+ABT_causes:why i got this disease
+ABT_prev:what are the ways not to get this defect
+ABT_treatment:What is the treatment for the stomach flu (gastroenteritis)?
+ABT_prev:how to stop infecting this syndrome
+ABT_causes:how do i know if i have this syndrome
+ABT_disease:what are this disorder
+IS_prev_dis:Is it possible to prevent hantavirus pulmonary syndrome?
+IS_cau_dis:does this cause infect me with this syndrome
+IS_prev_dis:Is it possible to prevent non-Hodgkin's lymphoma?
+ABT_causes:How does chickenpox spread?
+ABT_prev:how do i prevent from this syndrome
+ABT_symptom:what are the evidence of this diseases
+IS_cau_dis:does this cause make me with this sickness
+ABT_prev:how can one prevent from this contamination
+ABT_treatment:how to get treatment for disease
+IS_cau_dis:will this cause infect me with this sickness
+ABT_treatment:how to treat this disease
+IS_sym_dis:is  this symptoms mean i have this defect
+ABT_causes:What is the prognosis (outlook) and complications for patients who get swine flu?
+ABT_treatment:How is a bladder infection during pregnancy treated?
+ABT_symptom:how to check for this diseases
+ABT_causes:What infectes this disease
+ABT_causes:What is roseola?
+ABT_causes:How to get infected by this contamination
+ABT_treatment:can this disease be treated
+ABT_causes:what causes this illness
+ABT_causes:what is the cause of this syndrome
+ABT_causes:how do i know if i have this disease
+ABT_causes:How is plague transmitted?
+Prediction:what is wrong with me
+ABT_disease:what are
+ABT_symptom:symptoms for this illness
+ABT_risk:What are non-Hodgkin's lymphoma risk factors?
+ABT_symptom:How is group B strep infection diagnosed?
+ABT_causes:How to get this sickness
+ABT_causes:What is the prognosis of a group B strep infection?
+IS_cau_dis:will this cause infect
+ABT_causes:How is mono transmitted or spread?
+ABT_disease:i want to know more about this disorder
+ABT_causes:what are the ways to get
+IS_sym_dis:is  this symptoms a warning of this sickness
+IS_prev_dis:can this prevention avoid me from this sickness
+ABT_causes:how does this diseases develop
+IS_cau_dis:is  this a cause of this syndrome
+ABT_symptom:what are the warning of this diseases
+IS_cau_dis:will this cause infect me with
+Prediction:is this dangerous
+Prediction:what is wrong with me
+ABT_prev:how to immune from this sickness
+ABT_symptom:how do i know i have this illness
+Prediction:is this dangerous
+ABT_treatment:how to get rid of this disease
+ABT_treatment:are there medicine  for disease
+ABT_risk:what are risk factors for this defect
+IS_contagious:Is malaria contagious?
+IS_prev_dis:Is it possible to prevent yellow fever?
+ABT_causes:How to get this syndrome
+IS_sym_dis:is  this symptoms a warning of this contamination
+IS_prev_dis:is this a prevention of this defect
+ABT_disease:What is a connective tissue disease?
+IS_cau_dis:will this cause lead to this contamination
+ABT_prev:how to stop infecting this defect
+IS_prev_dis:can i reduce the risk of getting this contamination from by this prevention
+ABT_treatment:what are the medicine for this disease
+ABT_causes:What is the prognosis for hypothermia?
+ABT_causes:how do i know if i have this sickness
+ABT_risk:Who should receive the flu vaccine, and who has the highest risk factors?
+Prediction:what can i have
+ABT_risk:What are the risk factors for swine flu?
+IS_prev_dis:can this be a preventions from this disease
+ABT_symptom:How to check for this syndrome
+ABT_prev:how to avoid from this defect
+IS_prev_dis:does this prevention minimize this disease
+ABT_treatment:What is the treatment for yellow fever?
+ABT_causes:what causes this syndrome
+IS_cau_dis:does this cause lead to this contamination
+IS_sym_dis:is  this symptoms a indications of this syndrome
+IS_cau_dis:does this cause infect this syndrome
+ABT_symptom:are * a sign that I have this defect
+IS_cau_dis:can this cause this disease
+IS_cau_dis:can this cause be a cause of this contamination
+IS_contagious:Is meningitis contagious?
+ABT_disease:more detail on
+IS_cau_dis:does this cause infect this contamination
+ABT_prev:Is it possible to prevent cancer?
+Prediction:predict my disease
+ABT_treatment:does this disease has medicine
+ABT_causes:How do people get infected with coxsackievirus?
+ABT_prev:what are the preventions of this sickness
+ABT_disease:is this this syndrome dangerous
+IS_prev_dis:Is it possible to prevent Marburg virus infections?
+ABT_causes:how does  develop
+ABT_symptom:How to check for this diseases
+ABT_treatment:can this disease be treated
+IS_cau_dis:will this cause infect me with this disease
+IS_cau_dis:can this cause make me with this defect
+IS_cau_dis:can this cause infect me with this contamination
+ABT_symptom:what are the warning of this illness
+ABT_prev:how not to get this defect
+IS_prev_dis:does this prevention minimize this contamination
+ABT_causes:What causes endocarditis?
+ABT_prev:how do i stop this disease infection
+ABT_symptom:What if I have multiple recurrent episodes of strep throat?
+ABT_symptom:how to check for this sickness
+IS_cau_dis:will i get this contamination from this cause
+ABT_causes:why i get
+IS_prev_dis:is this a prevention of this sickness
+ABT_causes:How to get infected with this disease
+ABT_symptom:How is anthrax contracted?
+ABT_causes:What is the prognosis for a bladder infection?
+ABT_causes:what spreads
+IS_cau_dis:does this cause infect me with this sickness
+ABT_symptom:How do physicians diagnose leptospirosis?
+ABT_symptom:how do i know if i have this illness
+ABT_symptom:what are the indications of this illness
+IS_sym_dis:is  this symptoms a result of
+ABT_causes:What is the prognosis of mono?
+ABT_disease:is this this disorder dangerous
+ABT_disease:What autoimmune diseases are associated with connective tissue disease?
+ABT_causes:what spreads this disease
+IS_sym_dis:this symptoms warning of this syndrome
+ABT_causes:What is the prognosis for a child with roseola?
+Prediction:what kind of disease i have
+ABT_risk:What are some risk factors for this disease
+ABT_prev:how do i stop from infection
+ABT_disease:what is this contamination
+ABT_symptom:what are the signs of this defect
+ABT_symptom:what are the signs of this diseases
+ABT_causes:How to get infected by this disease
+IS_cau_dis:can this cause lead to this defect
+ABT_treatment:are there medicine  for disease
+ABT_causes:How is malaria transmitted?
+IS_prev_dis:can this be a preventions from this sickness
+ABT_causes:How someone get this disease
+ABT_causes:How this  spread
+IS_prev_dis:can i reduce the risk of getting this disease from by this prevention
+IS_prev_dis:Is this prevention a way to prevent from this defect
+ABT_disease:What is the history of HIV, and when was HIV discovered? HIV vs. AIDS
+IS_cau_dis:does this cause infect this disease
+ABT_risk:What are risk factors for plague?
+ABT_disease:What is tuberculosis (TB)?
+ABT_prev:What items should I have to be prepared to prevent hypothermia?
+ABT_treatment:how to treat this disease
+IS_prev_dis:Is it possible to prevent necrotizing fasciitis?
+IS_cau_dis:can this cause infect me with this sickness
+IS_sym_dis:this symptoms result of this defect
+ABT_prev:how not to get
+ABT_causes:why i got this sickness
+IS_cau_dis:does this cause lead to this sickness
+ABT_causes:How someone get this defect
+IS_sym_dis:is  this a symptom of
+ABT_causes:How do cold and flu viruses spread?
+IS_cau_dis:can this cause be a cause of this syndrome
+ABT_prev:can this disease be prevented
+ABT_causes:why i got
+ABT_treatment:What HIV drugs are in development?
+IS_cau_dis:can i be this contamination
+IS_cau_dis:will this cause infect this syndrome
+IS_prev_dis:can this prevention minimize this contamination
+ABT_prev:what are the ways to prevent this defect
+IS_prev_dis:is this prevention minimize this sickness
+ABT_symptom:How is this diseases found
+ABT_risk:What are some risk factors for this disease
+IS_cau_dis:can this cause be a way of getting of
+ABT_risk:What are the risk factors for encephalitis and meningitis?
+IS_prev_dis:can i prevent from this contamination
+ABT_causes:How this this syndrome spread
+IS_cau_dis:can this cause be a way of getting of this defect
+ABT_disease:explain this contamination
+ABT_symptom:How to diagnose this sickness
+ABT_causes:How this this defect spread
+ABT_prev:can this sickness be prevented
+ABT_symptom:how do i know if i have this defect
+ABT_symptom:How to diagnose this contamination
+ABT_risk:What is the  risk of this disease
+ABT_causes:How is HIV spread (transmitted)?
+Prediction:is this serious
+ABT_causes:What causes pericarditis?
+ABT_symptom:what are the complications of this defect
+ABT_causes:How is HIV spread (transmitted)?
+ABT_treatment:are there medicine  for disease
+ABT_disease:What is the history of HIV, and when was HIV discovered? HIV vs. AIDS
+IS_prev_dis:can this prevention minimize this sickness
+ABT_disease:this sickness
+ABT_causes:How is the stomach flu (gastroenteritis) spread?
+ABT_causes:What causes Marburg disease?
+ABT_disease:What is the bird (avian) flu?
+IS_prev_dis:can this be a preventions from
+ABT_treatment:how this disease is treated
+ABT_causes:Who spreads this sickness
+ABT_symptom:What are the types of non-Hodgkin's lymphoma, and how is non-Hodgkin's lymphoma staging determined?
+IS_sym_dis:is  this symptoms a symptom of this defect
+ABT_prev:how not to get this contamination
+ABT_causes:what is the cause of this defect
+ABT_symptom:What are the signs of mono?
+ABT_causes:what spreads this syndrome
+ABT_causes:What is the prognosis of chickenpox?
+ABT_causes:What is the prognosis for a person who gets the stomach flu (gastroenteritis)?
+IS_cau_dis:can this cause lead to this disease
+ABT_disease:more detail on
+IS_prev_dis:does this prevention reduce the risk of getting this disease
+Prediction:what is the possibility that i am ill
+ABT_treatment:how to treat this disease
+ABT_symptom:What are the signs and symptoms of a bladder infection in men?
+ABT_causes:what affects this sickness
+ABT_prev:how to immune from this disease
+ABT_treatment:Is there an encephalitis vaccine?
+ABT_prev:how to immune from this defect
+IS_prev_dis:can i prevent from this sickness by this prevention
+ABT_causes:Who spreads this disease
+ABT_causes:What leads to this diseases
+ABT_treatment:What is the treatment for plague?
+IS_sym_dis:is this symptoms a warning of
+Prediction:What are the possible disease for symptoms
+IS_contagious:Is tuberculosis (TB) contagious?
+IS_sym_dis:this symptoms warning of
+Prediction:what disease i may have
+ABT_disease:What is necrotizing fasciitis?
+IS_cau_dis:will this cause lead to
+IS_contagious:is roseola contagious?
+ABT_symptom:How is the staging determined for Hodgkin's lymphoma?
+IS_cau_dis:can this cause infect this defect
+ABT_disease:What is Hodgkin's lymphoma?
+ABT_symptom:How to identify this defect
+IS_cau_dis:can this cause infect me with this disease
+ABT_prev:How do physicians determine cancer staging?
+IS_sym_dis:is  this symptoms a result of this defect
+IS_prev_dis:can this prevention save me from this sickness
+IS_cau_dis:can this cause lead to this syndrome
+ABT_prev:what are the ways to prevent this sickness
+IS_prev_dis:are this preventions for this disease
+ABT_disease:What is the swine flu?
+ABT_disease:is this this sickness dangerous
+IS_prev_dis:Is this prevention a way to prevent from this syndrome
+ABT_causes:How to get this diseases
+ABT_disease:more detail on this disorder
+IS_cau_dis:will this cause lead to this sickness
+ABT_prev:how to prevent from
+ABT_treatment:What specialties of doctors treat hantavirus?
+IS_prev_dis:can i be safe from this defect
+Prediction:what disease i may have
+Prediction:what do i have
+Prediction:Are these symptoms of a disease
+IS_cau_dis:will i get this disease from this cause
+ABT_causes:How to get infected by
+IS_cau_dis:can this cause this defect
+ABT_prev:how to stop getting this defect
+IS_sym_dis:is  this symptoms a symptom of this contamination
+IS_cau_dis:can this cause be a cause of this disease
+ABT_prev:how to prevent from this syndrome
+ABT_risk:What are the risk factors for sepsis?
+ABT_treatment:how to get treatment for disease
+IS_prev_dis:Is this prevention a way to prevent from this disease
+ABT_symptom:How will I know if someone has sepsis?
+IS_cau_dis:will this cause infect me with this disease
+IS_sym_dis:this symptoms complications of this defect
+ABT_risk:Is a seizure due to fever dangerous?
+ABT_causes:what is the reason for this contamination
+ABT_disease:i want to know more about this contamination
+IS_contagious:Is swine flu contagious?
+IS_prev_dis:can this prevention save me from this defect
+ABT_disease:What is metastatic bone cancer?
+ABT_causes:what are the causes of this contamination
+IS_prev_dis:Is it possible to prevent roseola?
+ABT_causes:what are the ways to get this disease
+ABT_treatment:does this disease has medicine
+IS_cau_dis:will this cause infect this contamination
+ABT_disease:what is
+IS_cau_dis:does this cause lead to this syndrome
+ABT_causes:How to get this contamination
+ABT_causes:What causes bladder infections?
+ABT_symptom:how do i know i have this contamination
+IS_prev_dis:can i be safe from this syndrome
+IS_prev_dis:Is this prevention a way to prevent from
+ABT_risk:What are risk factors for getting Marburg infections?
+IS_sym_dis:is  this symptoms a complications of this syndrome
+ABT_risk:What is the  risk of this disease
+IS_prev_dis:can this prevention save me from this disease
+IS_prev_dis:Is it possible to prevent roseola?
+ABT_risk:What are genetic risk factors this disease
+ABT_treatment:how to cure this disease
+ABT_treatment:How effective is the flu vaccine?
+IS_prev_dis:can this prevention minimize
+ABT_prev:how can one prevent from this syndrome
+ABT_risk:What is the  risk of this disease
+Prediction:Does this mean i have a disease
+IS_prev_dis:are this preventions of
+ABT_causes:Who spreads
+Prediction:is this serious
+ABT_prev:how to immune from this syndrome
+IS_cau_dis:can this cause be a way of getting of this contamination
+IS_prev_dis:can i reduce the risk of getting this sickness by this prevention
+IS_prev_dis:Is it possible to prevent meningococcemia?
+ABT_symptom:How this diseases can be checked
+ABT_symptom:How to recognize this defect
+ABT_causes:how do i know if i have this contamination
+ABT_symptom:are * a sign that I have this illness
+IS_prev_dis:can i reduce the risk of infecting from  by
+ABT_symptom:what are the symptoms of this defect
+ABT_treatment:What specialists treat anthrax?
+ABT_risk:Is is risky to has this disease
+IS_cau_dis:does this cause lead to this syndrome
+ABT_symptom:How to identify this contamination
+ABT_symptom:what issues comes from this sickness
+ABT_disease:What is hantavirus?
+ABT_causes:What is the prognosis of hantavirus pulmonary syndrome?
+IS_cau_dis:will this cause make me with this syndrome
+IS_cau_dis:can i be this disease from this cause
+IS_cau_dis:can this cause lead to
+ABT_treatment:What specialties of doctors treat encephalitis and meningitis?
+Prediction:what is the possibility that i am ill
+Prediction:what disease do i have
+ABT_disease:what is this this illness
+ABT_symptom:how to check for this illness
+ABT_disease:What is typhoid fever?
+ABT_treatment:Are there other names for roseola?
+ABT_symptom:what are the complications arise fromthis contamination
+ABT_disease:more detail on this sickness
+ABT_symptom:What are potential complications of a bladder infection?
+Prediction:predict this disease
+ABT_risk:Can the flu be deadly?
+ABT_treatment:What is the initial therapy for HIV?
+IS_prev_dis:can i reduce the risk of getting from by this prevention
+IS_prev_dis:can i be safe from this sickness by this
+Prediction:what can i have
+ABT_causes:How to get infected with this contamination
+IS_cau_dis:does this cause infect me with this contamination
+ABT_symptom:what are the evidence of this defect
+ABT_symptom:what are the signs of this sickness
+ABT_treatment:are there medicine  for disease
+ABT_treatment:What specialists treat infectious mono?
+ABT_symptom:how do i know if i have this syndrome
+ABT_treatment:Are there home remedies for swine flu?
+IS_cau_dis:can this cause be a cause of
+ABT_symptom:What laboratory tests are used to monitor HIV-infected people?
+ABT_causes:How is swine flu transmitted?
+IS_prev_dis:can this prevention minimize this sickness
+ABT_symptom:How will I know if I have swine flu?
+IS_contagious:Is meningitis contagious?
+ABT_symptom:what issues comes from this syndrome
+ABT_risk:What is the  risk of this disease
+IS_cau_dis:can this cause make me with this defect
+IS_prev_dis:can i reduce the risk of infecting from this syndrome by this prevention
+ABT_disease:What is non-Hodgkin's lymphoma?
+ABT_symptom:What are protease inhibitors?
+ABT_causes:Who develops Legionnaires' disease?
+ABT_symptom:are * a sign that I have this diseases
+ABT_causes:How this this disease spread
+IS_contagious:Is the coxsackievirus contagious?
+ABT_symptom:How to find this sickness
+ABT_causes:What is the root of this sickness
+ABT_treatment:Is there a malaria vaccine?
+IS_cau_dis:can this cause lead to this contamination
+ABT_causes:What virus causes roseola?
+IS_contagious:Is necrotizing fasciitis contagious?
+IS_prev_dis:Is it possible to prevent encephalitis?
+ABT_risk:What are genetic risk factors this disease
+ABT_prev:how to avoid
+ABT_risk:what are risk factors for this sickness
+ABT_prev:how to stop getting this sickness
+IS_cau_dis:can i be this syndrome from this cause
+IS_sym_dis:does  this symptoms mean i have this defect
+IS_sym_dis:is  this symptoms mean i have this sickness
+ABT_causes:Who spreads this contamination
+ABT_symptom:What tests do health-care professionals use to diagnose swine flu?
+ABT_prev:how do i stop this sickness infection
+IS_prev_dis:is this prevention minimize this defect
+ABT_prev:what are the ways to prevent this disease
+IS_cau_dis:can this cause be a cause of this defect
+IS_sym_dis:this symptoms indications of this defect
+ABT_prev:what are the ways to prevent
+ABT_causes:What causes fifth disease?
+IS_sym_dis:this symptoms warning of this disease
+IS_prev_dis:can this prevention save me from
+Prediction:what is the possibility that i am ill
+IS_cau_dis:can this cause infect me with this defect
+ABT_risk:What are risk factors for tuberculosis?
+IS_contagious:Is hantavirus contagious?
+ABT_symptom:what are the indications of this sickness
+ABT_causes:How is group B strep transmitted?
+IS_contagious:Is TB contagious, and how long is the incubation period and contagious period?
+ABT_prev:what are the ways to prevent this contamination
+IS_sym_dis:is  this symptoms a indications of this sickness
+ABT_causes:What is the root of this contamination
+ABT_disease:is this this diseases a problem
+ABT_causes:What causes hantavirus pulmonary syndrome?
+IS_prev_dis:can i prevent from this syndrome by
+ABT_disease:what are this syndrome
+ABT_risk:what are risk factors for this syndrome
+ABT_disease:what are this sickness
+ABT_symptom:How to find this contamination
+ABT_prev:how to immune from this contamination
+ABT_causes:What is the prognosis of meningococcemia?
+ABT_symptom:How do health-care professionals diagnose yellow fever?
+ABT_risk:risk of this disease
+ABT_treatment:What specialists treat coxsackievirus infections?
+IS_sym_dis:this symptoms indications of this sickness
+ABT_causes:what causes this defect
+ABT_causes:What infectes this defect
+IS_contagious:Is yellow fever contagious?
+ABT_causes:What is the source of this diseases
+IS_cau_dis:does this cause lead to this syndrome
+ABT_treatment:what are the medicine for this disease
+IS_sym_dis:is  this symptoms mean i have this contamination
+ABT_disease:What is the prognosis (outcome) for patients with necrotizing fasciitis? What are complications of necrotizing fasciitis?
+ABT_risk:Who is at risk for endocarditis?
+ABT_disease:What is chickenpox?
+ABT_treatment:what are the medicine for this disease
+ABT_risk:What are risk factors for chickenpox?
+ABT_causes:why i get this syndrome
+ABT_causes:Vectors of this disease
+IS_sym_dis:does  this symptoms mean i have this contamination
+IS_cau_dis:can i be this disease
+ABT_risk:What are genetic risk factors this disease
+IS_prev_dis:can i prevent from this syndrome by this prevention
+ABT_symptom:What are tuberculosis symptoms and signs?
+ABT_causes:what is the cause of this sickness
+ABT_treatment:how this disease is treated
+IS_prev_dis:Is It Wise to Take a Steroid for a Sore Throat?
+ABT_treatment:how to find cure for this disease
+IS_contagious:Is malaria contagious?
+ABT_symptom:How to recognize this sickness
+IS_prev_dis:can this prevention avoid me from
+IS_prev_dis:is this minimize
+IS_prev_dis:can i prevent from this syndrome by this prevention
+Prediction:what is wrong with me
+ABT_disease:whats this diseases
+IS_prev_dis:can i reduce the risk of getting this defect from by this prevention
+ABT_disease:more detail on this contamination
+ABT_causes:How do people transmit tuberculosis?
+ABT_treatment:How is endocarditis treated?
+ABT_prev:how can one prevent from this defect
+IS_prev_dis:can this prevention minimize
+ABT_symptom:How is the diagnosis made of anthrax?
+ABT_symptom:What are sepsis (blood poisoning) symptoms and signs?
+ABT_prev:how do i prevent from this defect
+ABT_symptom:What are encephalitis symptoms and signs?
+ABT_symptom:How is this defect found
+ABT_treatment:What specialists treat Marburg infections?
+ABT_disease:What is a coxsackievirus?
+ABT_causes:What is the prognosis for cancer?
+IS_contagious:Is swine flu (H1N1) contagious?
+IS_prev_dis:can i prevent from this disease by
+ABT_treatment:What medications treat the flu?
+ABT_treatment:Are there any treatments or medications that relieve bone cancer pain?
+ABT_symptom:how to check for this syndrome
+ABT_causes:Vectors of this sickness
+IS_prev_dis:can this prevention minimize this defect
+IS_prev_dis:can i reduce the risk of infecting from this disease by this prevention
+ABT_treatment:What kind of doctors treat non-Hodgkin's lymphoma?
+ABT_disease:more detail on this defect
+ABT_prev:what are the preventions of this syndrome
+ABT_causes:How to get infected by this defect
+IS_prev_dis:does this prevention reduce the risk of getting this sickness
+IS_prev_dis:can i prevent from this defect by this prevention
+Prediction:What are the possible disease for symptoms
+IS_cau_dis:will this cause infect me with this contamination
+IS_sym_dis:can  this symptoms be a result of this disease
+Prediction:what do i have
+ABT_disease:explain this disorder
+ABT_symptom:What are the most common causes of the stomach flu (gastroenteritis)?
+ABT_risk:What are the risks of missing doses or stopping antiviral therapy?
+ABT_causes:what causes this sickness
+IS_cau_dis:does this cause infect this sickness
+ABT_prev:how to stop infecting this contamination
+ABT_causes:Vectors of this disease
+ABT_disease:What is the difference between non-Hodgkin's lymphoma and Hodgkin's disease (or Hodgkin's lymphoma)?
+Prediction:what do i have
+ABT_symptom:How is this contamination diagnosed
+IS_contagious:Is the coxsackievirus contagious?
+ABT_causes:How someone get this contamination
+IS_prev_dis:can this prevention minimize this disease
+ABT_disease:this illness
+IS_sym_dis:is  this symptoms a result of this contamination
+Prediction:predict this disease
+IS_cau_dis:will this cause infect me with this defect
+IS_prev_dis:does this prevention reduce the risk of getting this syndrome
+IS_prev_dis:Is it possible to prevent sepsis (blood poisoning)?
+Prediction:what is the possibility that i am ill
+ABT_disease:What are serious but rare complications of cat scratch disease?
+ABT_symptom:How do health-care professionals diagnose roseola?
+ABT_prev:how to prevent from this contamination
+ABT_disease:is this this sickness a problem
+ABT_prev:How can Legionnaires' disease be prevented?
+ABT_disease:i want to know more about this syndrome
+ABT_symptom:how do i know i have this sickness
+ABT_symptom:How do physicians diagnose coxsackievirus infections?
+ABT_symptom:What are the signs and symptoms of a bladder infection in children?
+ABT_treatment:What is the treatment for meningococcemia?
+ABT_symptom:When should a person go to the emergency department for the flu?
+ABT_causes:What causes hypothermia?
+ABT_prev:what are the ways not to get this sickness
+IS_prev_dis:are this preventions for
+IS_cau_dis:can this cause lead to this defect
+ABT_treatment:what is the cure for this disease
+ABT_causes:What causes encephalitis?
+ABT_symptom:what are the symptoms of this diseases
+IS_contagious:Is sepsis contagious?
+IS_cau_dis:does this cause lead to
+ABT_causes:what are the causes of this defect
+IS_cau_dis:will this cause make me with this sickness
+ABT_symptom:What are the types of Hodgkin's lymphoma?
+ABT_prev:how to avoid  this disease
+ABT_symptom:How this syndrome can be checked
+ABT_causes:How to get infected with this sickness
+ABT_symptom:What are the symptoms of hypothermia in infants and children?
+IS_prev_dis:can this prevention minimize this syndrome
+ABT_symptom:if I have fifth disease?
+IS_sym_dis:is  this symptoms a indications of this contamination
+IS_prev_dis:Is it possible to prevent group B strep infection?
+ABT_causes:How does flu spread?
+IS_sym_dis:is  this symptoms a indications of this defect
+IS_prev_dis:Is it possible to prevent Marburg virus infections?
+IS_cau_dis:does this cause lead to this defect
+ABT_prev:how to stop this disease
+IS_contagious:What is the contagious period for mono?
+ABT_disease:what are this sickness
+IS_prev_dis:can i be safe from this defect by this
+ABT_prev:how to counter this sickness
+ABT_disease:What is the history of typhoid fever?
+IS_prev_dis:Is it possible to prevent group B strep infection?
+ABT_treatment:Are there different types of necrotizing fasciitis?
+IS_contagious:Is leptospirosis contagious?
+IS_prev_dis:Is it possible to prevent coxsackievirus infections?
+IS_prev_dis:is this prevention minimize this disease
+ABT_causes:How is swine flu transmitted?
+IS_prev_dis:can i be safe from this disease by this
+ABT_treatment:how to cure this disease
+ABT_causes:what causes this sickness
+Prediction:Are these symptoms of a disease
+IS_cau_dis:does this cause lead to
+Prediction:what disease i may have
+Prediction:what disease i may have
+ABT_disease:What is blood poisoning?
+ABT_treatment:is there medicine for this disease
+ABT_causes:what causes this contamination
+ABT_causes:what is the cause of
+ABT_symptom:Are home remedies effective for a bladder infection?
+ABT_treatment:What specialists treat malaria?
+Prediction:what disease i may have
+ABT_treatment:How to help someone with this disease
+IS_cau_dis:does this cause infect me with this defect
+ABT_symptom:How to diagnose this diseases
+IS_prev_dis:can i be safe from this contamination
+ABT_symptom:How is this defect recognized
+ABT_risk:What are some risk factors for this disease
+ABT_symptom:what are the warning of this syndrome
+ABT_causes:How this this contamination spread
+ABT_treatment:how to cure this disease
+ABT_causes:what causes
+Prediction:what do i have
+ABT_treatment:are there medicine  for disease
+ABT_prev:how to stop
+IS_prev_dis:can this prevention save me from this sickness
+ABT_treatment:what are the medicine for this disease
+IS_contagious:When is pneumonia contagious?
+ABT_causes:How do people transmit tuberculosis?
+ABT_treatment:Why should the flu (influenza) vaccine be taken every year?
+ABT_causes:why i get this disease
+ABT_causes:how does this contamination develop
+IS_prev_dis:Is it possible to prevent sepsis (blood poisoning)?
+IS_cau_dis:can this cause lead to this sickness
+ABT_causes:What causes malaria?
+IS_cau_dis:can this cause be a way of getting of this syndrome
+IS_sym_dis:is  this symptoms a complications of this contamination
+IS_prev_dis:can i be safe from this sickness
+ABT_symptom:How do I know I have the stomach flu (gastroenteritis)?
+IS_prev_dis:Can swine flu be prevented if the swine flu vaccine (or other flu strain vaccines) is not readily available?
+ABT_causes:What causes necrotizing fasciitis?
+IS_prev_dis:can i reduce the risk of getting this syndrome by this prevention
+ABT_causes:What is the root of this syndrome
+ABT_prev:how to avoid from this sickness
+ABT_symptom:How will I know if I have tuberculosis?
+ABT_causes:Vectors of this contamination
+ABT_symptom:How to recognize this syndrome
+IS_cau_dis:will i get this sickness from this cause
+IS_prev_dis:can i reduce the risk of infecting from this contamination by this prevention
+ABT_disease:Where can people find more information about cancer?
+ABT_symptom:what issues comes from this defect
+IS_cau_dis:will i get this syndrome from this cause
+ABT_risk:What are risk factors for hantavirus pulmonary syndrome?
+IS_cau_dis:will this cause make me with
+ABT_symptom:What are coxsackievirus infection symptoms and signs?
+ABT_symptom:what are the complications of this syndrome
+Prediction:predict my disease
+ABT_risk:Is is risky to has this disease
+Prediction:Are these symptoms of a disease
+IS_cau_dis:can this cause be a way of getting of this sickness
+IS_cau_dis:can this cause infect me with this syndrome
+ABT_symptom:When should someone seek medical care for a cold or the flu?
+ABT_causes:How do patients get typhoid fever?
+ABT_symptom:what are the complications of this illness
+ABT_risk:risks of this disease
+ABT_symptom:what are the warning of this sickness
+ABT_treatment:how to treat this disease
+ABT_symptom:what are the complications arise from
+IS_sym_dis:does  this symptoms mean i have this syndrome
+ABT_symptom:symptoms for this defect
+Prediction:what do i have
+ABT_treatment:how to get rid of this disease
+ABT_symptom:what are the symptoms of this contamination
+ABT_symptom:How to diagnose this syndrome
+IS_sym_dis:is  this symptoms a complications of this disease
+IS_cau_dis:can this cause lead to this sickness
+ABT_causes:What leads to this contamination
+IS_cau_dis:is  this a cause of this contamination
+ABT_symptom:what are the evidence of this contamination
+ABT_prev:how do i prevent from
+IS_cau_dis:does this cause make me with this contamination
+IS_prev_dis:does this prevention minimize
+ABT_prev:what are the ways to prevent this syndrome
+ABT_symptom:How to recognize this diseases
+ABT_treatment:Should patients with the flu- or mono-like illness of primary HIV infection be treated?
+ABT_disease:What is yellow fever?
+IS_prev_dis:Is it possible to prevent hantavirus pulmonary syndrome?
+IS_cau_dis:will this cause make me with this sickness
+ABT_causes:What causes yellow fever?
+ABT_disease:Is encephalitis contagious?
+ABT_disease:What is anthrax?
+ABT_disease:what is
+ABT_treatment:how to find cure for this disease
+ABT_disease:Where can people find more information on meningococcemia?
+ABT_symptom:what are the indications of this defect
+ABT_disease:this disorder
+IS_sym_dis:is  this symptoms a warning of this disease
+ABT_symptom:How is a bladder infection diagnosed?
+ABT_prev:how to avoid  this contamination
+ABT_causes:what causes this diseases
+ABT_disease:What is the swine flu?
+IS_prev_dis:can i prevent from this syndrome
+IS_prev_dis:can this prevention avoid me from this contamination
+ABT_causes:How to get infected with this defect
+IS_contagious:Is Strep Throat Contagious?
+ABT_prev:how to stop infecting this disease
+IS_prev_dis:can this prevention minimize this sickness
+ABT_causes:How this this sickness spread
+ABT_symptom:what are the warning of this defect
+ABT_treatment:how to find cure for this disease
+ABT_symptom:How will I know if someone has sepsis?
+ABT_prev:how to prevent from this syndrome
+IS_prev_dis:can this be a preventions from this syndrome
+ABT_disease:what is
+ABT_symptom:What is the prognosis for patients who get the flu?
+ABT_symptom:When should I call my doctor for hypothermia?
+IS_contagious:Is malaria contagious?
+ABT_treatment:is there medicine for this disease
+ABT_treatment:how to get treatment for disease
+IS_prev_dis:can i prevent from this contamination by
+IS_prev_dis:can i prevent from
+IS_prev_dis:are this preventions for this sickness
+IS_sym_dis:is  this symptoms a symptom of this syndrome
+IS_sym_dis:this symptoms complications of this contamination
+IS_sym_dis:this symptoms warning of this sickness
+IS_prev_dis:can i prevent from this contamination by this prevention
+IS_cau_dis:can i be this sickness
+IS_cau_dis:will this cause make me with this defect
+ABT_causes:what spreads this defect
+IS_prev_dis:can i prevent from this sickness by this prevention
+ABT_symptom:what are the complications of this sickness
+IS_cau_dis:will this cause lead to this sickness
+ABT_prev:can this defect be prevented
+IS_prev_dis:can i be safe from
+ABT_causes:what causes this contamination
+IS_cau_dis:is  this a cause of this defect
+ABT_prev:how to stop
+ABT_disease:what is  this diseases
+ABT_risk:What are the risk factors for hypothermia?
+Prediction:what do i have
+ABT_treatment:how this disease is treated
+ABT_symptom:How to diagnose this defect
+IS_prev_dis:can i prevent from this defect
+IS_cau_dis:Can the fever cause a seizure?
+ABT_disease:What is meningitis?
+ABT_symptom:how do i know i have this defect
+IS_sym_dis:is  this symptoms a result of this syndrome
+ABT_symptom:how to check for
+ABT_disease:What is endocarditis?
+ABT_disease:what are this contamination
+ABT_prev:what are the preventions of this contamination
+Prediction:predict this disease
+ABT_symptom:what are the symptoms of this syndrome
+IS_cau_dis:can this cause infect this disease
+ABT_treatment:what are the medicine for this disease
+IS_prev_dis:can i be safe from this syndrome by this
+IS_cau_dis:will this cause lead to this syndrome
+IS_prev_dis:does this prevention reduce the risk of getting this contamination
+ABT_disease:What is encephalomyelitis?
+ABT_disease:what is this this disorder
+ABT_prev:Is it possible to prevent cat scratch disease?
+ABT_causes:What is the prognosis of coxsackievirus infections?
+ABT_symptom:What are the types of coxsackieviruses, and what can they cause?
+Prediction:is this serious
+ABT_disease:is this  a problem
+IS_cau_dis:can this cause this syndrome
+IS_prev_dis:can this be a preventions from this defect
+ABT_treatment:can this disease be treated
+IS_contagious:Is pneumonia contagious?
+ABT_symptom:What is the prognosis for patients who get the flu?
+IS_prev_dis:Is it possible to prevent the spread of fifth disease?
+ABT_symptom:Are there other symptoms that can occur with fifth disease?
+ABT_disease:what is this disorder
+ABT_symptom:What tests are used to diagnose bone cancer?
+ABT_risk:risk of this disease
+ABT_prev:can this contamination be prevented
+IS_contagious:Is malaria contagious?
+IS_cau_dis:does this cause make me with this syndrome
+ABT_symptom:How is this defect diagnosed
+IS_cau_dis:Should a child with roseola see a doctor?
+ABT_symptom:When should someone seek medical care for pneumonia?
+ABT_symptom:what are the complications arise from this defect
+ABT_symptom:How will I know if I am cured of swine flu?
+ABT_disease:what is this illness
+ABT_causes:Can pneumonia spread?
+ABT_treatment:can i get medicine for this disease
+ABT_causes:how do i know if i have
+ABT_symptom:How is this syndrome diagnosed
+IS_sym_dis:this symptoms indications of this disease
+IS_prev_dis:Is it possible to prevent meningococcemia?
+ABT_disease:What is a bladder infection?
+ABT_symptom:are * a sign that I have this syndrome
+ABT_disease:What is malaria?
+ABT_prev:how do i prevent from this sickness
+IS_prev_dis:Is it possible to prevent yellow fever?
+IS_cau_dis:will this cause lead to this sickness
+ABT_causes:what affects
+ABT_disease:is this this defect a problem
+IS_cau_dis:can this cause lead to this defect
+ABT_treatment:What is the follow-up care after treatment for Hodgkin's lymphoma?
+ABT_disease:is this  dangerous
+ABT_causes:When does RSV infection occur, and who gets it?
+IS_prev_dis:are this preventions of this defect
+ABT_prev:how to be immune from
+ABT_symptom:what are the symptoms of this illness
+Prediction:predict my disease
+ABT_treatment:how to cure this disease
+IS_prev_dis:Is it possible to prevent plague?
+ABT_disease:whats this syndrome
+ABT_symptom:When should I call my doctor for stomach flu (gastroenteritis)?
+ABT_causes:why i got this contamination
+ABT_symptom:How is this sickness diagnosed
+IS_cau_dis:will this cause infect this disease
+ABT_treatment:What specialists treat bone cancer?
+ABT_treatment:what is the cure for this disease
+IS_contagious:What is the contagious period for mono?
+ABT_prev:how to prevent from this sickness
+IS_prev_dis:Is this prevention a way to prevent from this sickness
+ABT_treatment:what is the cure for this disease
+ABT_symptom:What is the prognosis for people with yellow fever?
+ABT_causes:what affects this syndrome
+ABT_treatment:What about treatment for HIV during pregnancy?
+ABT_disease:What is encephalitis?
+ABT_causes:How is sepsis transmitted?
+IS_cau_dis:can this cause be a cause of this sickness
+ABT_causes:what causes
+IS_sym_dis:this symptoms complications of this syndrome
+ABT_disease:What is tuberculosis?
+ABT_disease:is this this contamination a problem
+IS_prev_dis:can i reduce the risk of infecting from this defect by this prevention
+ABT_disease:whats this illness
+IS_cau_dis:can this cause infect this sickness
+ABT_disease:Where can people find more information about cat scratch disease?
+ABT_disease:explain this syndrome
+ABT_causes:What is the source of this contamination
+IS_prev_dis:is this prevention minimize this contamination
+ABT_causes:Who develops Legionnaires' disease?
+ABT_symptom:Are there any complications of roseola?
+ABT_causes:what is the reason for
+IS_prev_dis:can i prevent from  by
+ABT_disease:what is this contamination
+ABT_disease:what is this illness
+ABT_prev:Is it possible to prevent bone cancer?
+ABT_causes:How do patients get typhoid fever?
+Prediction:what is the possibility that i am ill
+ABT_symptom:what are the signs of this contamination
+ABT_symptom:how do i know i have this syndrome
+ABT_causes:Is anthrax contagious?
+ABT_symptom:Test for this defect
+ABT_symptom:How to diagnose
+ABT_symptom:How do health-care professionals diagnose the flu (influenza)?
+ABT_treatment:what is the cure for this disease
+Prediction:what is the possibility that i am ill
+ABT_disease:what is this
+ABT_prev:how to prevent from this sickness
+ABT_symptom:how do i know if i have this diseases
+ABT_symptom:How this sickness can be checked
+ABT_symptom:How to check for this sickness
+Prediction:What are the possible disease for symptoms
+ABT_symptom:How do health care professionals diagnose sepsis?
+ABT_disease:explain this sickness
+IS_prev_dis:can this prevention minimize this contamination
+IS_prev_dis:are this preventions for this syndrome
+IS_prev_dis:can this prevention save me from this contamination
+ABT_risk:What are genetic risk factors this disease
+ABT_causes:How to get
+ABT_causes:What leads to this defect
+ABT_prev:How can people prevent tuberculosis?
+ABT_disease:What is bone cancer?
+IS_sym_dis:is  this symptoms a symptom of this disease
+ABT_prev:how do i stop this syndrome infection
+IS_prev_dis:does this prevention reduce the risk of getting this defect
+ABT_symptom:How is this syndrome found
+ABT_disease:What is Marburg virus disease?
+IS_sym_dis:can  this symptoms be a indications of this disease
+Prediction:Does this mean i have a disease
+IS_prev_dis:Is this prevention a way to prevent from this contamination
+IS_cau_dis:can this cause make me with this contamination
+ABT_causes:How someone get this syndrome
+IS_prev_dis:Is it possible to prevent non-Hodgkin's lymphoma?
+IS_sym_dis:this symptoms indications of
+ABT_symptom:Test for this diseases
+IS_sym_dis:is  this symptoms a complications of
+IS_sym_dis:is  this symptoms a result of this sickness
+Prediction:is this dangerous
+ABT_prev:how to avoid  this sickness
+ABT_prev:can this syndrome be prevented
+ABT_risk:Who is at risk for severe disease?
+IS_prev_dis:are this preventions of this disease
+ABT_symptom:what are the indications of this syndrome
+ABT_treatment:what are the medicine for this disease
+ABT_risk:risks for this disease
+ABT_prev:How can RSV infection be prevented?
+IS_cau_dis:is  this a cause of this disease
+IS_sym_dis:can  this symptoms be a result of
+ABT_risk:risks of this disease
+ABT_causes:How to get this defect
+ABT_symptom:How to identify this sickness
+IS_cau_dis:will this cause lead to this syndrome
+ABT_causes:What is the source of this sickness
+ABT_symptom:What are the complications of sepsis?
+ABT_prev:how to stop getting this disease
+ABT_symptom:How is meningococcemia diagnosed?
+IS_cau_dis:can i be this sickness from this cause
+ABT_disease:What is malaria?
+ABT_causes:What infectes this contamination
+Prediction:Does this mean i have a disease
+ABT_symptom:How is RSV infection diagnosed?
+ABT_prev:how do i stop this defect infection
+ABT_disease:this contamination
+IS_cau_dis:can this cause this contamination
+IS_sym_dis:is  this symptoms mean i have this disease
+IS_prev_dis:Is it possible to prevent encephalitis?
+Prediction:what do i have
+ABT_causes:why i get this contamination
+IS_cau_dis:Should a child with roseola see a doctor?
+ABT_disease:is this this illness dangerous
+IS_cau_dis:does this cause make me with this defect
+IS_prev_dis:can i be safe from this disease
+ABT_causes:How is swine flu transmitted?
+ABT_disease:what is this disorder
+ABT_causes:how does this defect develop
+ABT_causes:How is swine flu transmitted?
+ABT_causes:What causes leptospirosis?
+IS_prev_dis:can i prevent from  by
+IS_cau_dis:can this cause make me with this syndrome
+ABT_treatment:how to find cure for this disease
+Prediction:what disease do i have
+ABT_causes:What infectes this syndrome
+IS_prev_dis:can i reduce the risk of getting this syndrome from by this prevention
+Prediction:what kind of disease i have
+ABT_treatment:What specialists treat leptospirosis?
+IS_cau_dis:is  this a cause of
+ABT_symptom:How is hantavirus pulmonary syndrome diagnosed?
+IS_cau_dis:can i be this syndrome
+ABT_causes:What causes meningococcemia?
+ABT_causes:What is the cause of mono?
+IS_sym_dis:this symptoms indications of this contamination
+ABT_disease:What is meningococcemia?
+ABT_causes:what spreads this sickness
+IS_prev_dis:can i prevent from this disease by this prevention
+ABT_symptom:What are symptoms and signs of HIV infection and AIDS in men, women, and children?
+ABT_prev:how to stop getting this contamination
+ABT_prev:how to prevent from
+ABT_causes:What infectes this sickness
+IS_contagious:Is yellow fever contagious?
+IS_prev_dis:can i prevent from this sickness
+ABT_causes:What leads to
+ABT_symptom:what are the complications arise from this illness
+IS_prev_dis:can i be safe from  by this
+ABT_risk:What are the risk factors for mono?
+IS_cau_dis:can this cause make me with this sickness
+IS_cau_dis:can this cause infect this syndrome
+IS_cau_dis:can this cause infect this contamination
+Prediction:what disease do i have
+IS_sym_dis:this symptoms result of this syndrome
+ABT_treatment:how to treat this disease
+ABT_treatment:What types of specialists treat yellow fever?
+ABT_symptom:Test for this contamination
+ABT_prev:how not to get this disease
+ABT_causes:What causes yellow fever?
+ABT_symptom:What are symptoms and signs of meningococcemia?
+IS_prev_dis:can i reduce the risk of getting  by this prevention
+ABT_risk:What are some risk factors for bladder infection?
+ABT_risk:What are risk factors for meningococcemia?
+Prediction:what disease i may have
+ABT_causes:what is the reason for this syndrome
+IS_contagious:Is hantavirus contagious?
+IS_contagious:When is pneumonia contagious?
+ABT_symptom:How do health-care professionals diagnose cancer?
+IS_prev_dis:Is it possible to prevent mono?
+ABT_prev:how to stop infecting this sickness
+ABT_prev:how to avoid from this contamination
+ABT_treatment:does this disease has medicine
+ABT_prev:how to avoid  this defect
+ABT_disease:What is fifth disease?
+ABT_causes:what causes this syndrome
+ABT_treatment:Are there home remedies for chickenpox?
+ABT_disease:more detail on this syndrome
+ABT_causes:why i get this sickness
+ABT_disease:what is  this syndrome
+ABT_risk:What are genetic risk factors for developing connective tissue disease?
+IS_sym_dis:is  this symptoms a indications of this disease
+IS_cau_dis:does this cause lead to this sickness
+ABT_symptom:How is this sickness recognized
+ABT_risk:risks of this disease
+ABT_risk:Is is risky to has this disease
+IS_cau_dis:can this cause be a way of getting of this disease
+ABT_treatment:Does my child need the rubella vaccine (MMR)?
+ABT_causes:What causes anthrax?
+ABT_treatment:can this disease be treated
+Prediction:what do i have
+ABT_causes:Who spreads this syndrome
+IS_cau_dis:can i be  from
+IS_contagious:Is pneumonia contagious?
+IS_prev_dis:is this prevention minimize this sickness
+ABT_symptom:Test for this syndrome
+IS_sym_dis:can  this symptoms be a symptom of
+ABT_disease:What is group B strep?
+Prediction:is this serious
+IS_sym_dis:this symptoms result of this disease
+ABT_disease:whats this contamination
+ABT_prev:how to counter this disease
+IS_sym_dis:this symptoms result of
+ABT_treatment:can this disease be treated
+ABT_causes:Who spreads this defect
+ABT_treatment:how this disease is treated
+ABT_symptom:What are the possible complications of chickenpox?
+ABT_symptom:how do i know if i have this sickness
+ABT_prev:how do i stop this contamination infection
+ABT_symptom:How is endocarditis diagnosed?
+IS_cau_dis:does this cause lead to this syndrome
+IS_prev_dis:can i prevent from this sickness by
+ABT_causes:What leads to this sickness
+ABT_symptom:what are the complications of
+ABT_symptom:What is the prognosis of plague?
+ABT_causes:What causes leptospirosis?
+ABT_causes:What causes chickenpox?
+ABT_symptom:what are the indications of this contamination
+ABT_symptom:how to check for this defect
+IS_prev_dis:is this a prevention of this syndrome
+ABT_symptom:How is this contamination recognized
+IS_prev_dis:Is it possible to prevent necrotizing fasciitis?
+IS_prev_dis:are this preventions for this contamination
+IS_contagious:Is leptospirosis contagious?
+IS_prev_dis:can i reduce the risk of getting this disease by this prevention
+ABT_causes:what are the causes of this diseases
+IS_prev_dis:can this prevention save me from this syndrome
+ABT_treatment:Is there a plague vaccine?
+ABT_disease:what is this illness
+IS_contagious:Is Strep Throat Contagious?
+ABT_symptom:are * a sign that I have this contamination
+ABT_treatment:does this disease has medicine
+ABT_risk:risk of this disease
+IS_prev_dis:can i prevent from  by this prevention
+IS_prev_dis:are this preventions for this defect
+ABT_disease:what is
+ABT_risk:What are risk factors for anthrax infection?
+Prediction:what is the possibility that i am ill
+ABT_disease:What is flu (influenza)?
+IS_prev_dis:is this a prevention of
+ABT_symptom:What are the symptoms of endocarditis?
+IS_cau_dis:does this cause infect me with this defect
+IS_prev_dis:can this prevention avoid me from this syndrome
+ABT_symptom:How to check for this defect
+Prediction:what is wrong with me
+IS_prev_dis:Can typhoid fever be prevented?
+ABT_symptom:what are the complications arise from this syndrome
+ABT_causes:What causes meningitis?
+ABT_causes:How is yellow fever transmitted?
+ABT_prev:how do i prevent from this disease
+ABT_treatment:can i get medicine for this disease
+ABT_symptom:are * a sign that I have this sickness
+ABT_prev:how to stop this sickness
+ABT_causes:What leads to this syndrome
+IS_cau_dis:will this cause lead to this contamination
+ABT_prev:what are the ways not to get this disease
+IS_sym_dis:is  this symptoms a result of this disease
+IS_cau_dis:can this cause infect
+IS_sym_dis:can  this symptoms be a indications of
+ABT_symptom:What is the prognosis of plague?
+ABT_treatment:how to find cure for this disease
+ABT_causes:why i get this defect
+ABT_causes:what is the reason for this sickness
+ABT_symptom:Test for this sickness
+ABT_prev:what are the ways not to get this contamination
+ABT_symptom:How do health-care professionals diagnose encephalitis and meningitis?
+IS_contagious:Is tuberculosis (TB) contagious?
+ABT_prev:how to counter
+ABT_causes:Is RSV infection contagious, and how is RSV infection transmitted?
+ABT_causes:What is the prognosis for anthrax infections?
+ABT_symptom:symptoms for this diseases
+ABT_symptom:What are the complications of group B strep infection?
+ABT_risk:risk of this disease
+ABT_disease:is this this disorder dangerous
+IS_prev_dis:does this prevention minimize this sickness
+IS_cau_dis:can i be
+Prediction:What are the possible disease for symptoms
+IS_cau_dis:is  this a cause of this sickness
+ABT_treatment:What is the treatment for anthrax?
+ABT_symptom:What are protease inhibitors?
+Other:How long is the contagious period for yellow fever?
+ABT_treatment:How will I know if I am cured of tuberculosis?
+ABT_disease:Where can people get more information on yellow fever?
+Other:What is the lymph system?
+ABT_risk:What are risk factors for meningococcemia?
+IS_prev_dis:Is it possible to prevent group B strep infection?
+ABT_causes:What is the prognosis for a person who gets the stomach flu (gastroenteritis)?
+ABT_symptom:How is the staging determined for Hodgkin's lymphoma?
+ABT_disease:What is group B strep?
+ABT_disease:What is the bird (avian) flu?
+ABT_symptom:What are possible complications of the flu?
+ABT_risk:What are the risk factors for coxsackievirus infection?
+ABT_causes:How is yellow fever transmitted?
+ABT_causes:What causes malaria?
+ABT_causes:What is the prognosis of meningococcemia?
+ABT_risk:What are risk factors for chickenpox?
+ABT_disease:Where can people find more information about cat scratch disease?
+ABT_risk:What are the risk factors for encephalitis and meningitis?
+ABT_symptom:What are the complications of mono?
+IS_contagious:Is the coxsackievirus contagious?
+IS_contagious:Is meningitis contagious?
+ABT_causes:How is swine flu transmitted?
+IS_contagious:What is the contagious period for mono?
+ABT_treatment:What specialists treat bone cancer?
+IS_contagious:Is malaria contagious?
+ABT_disease:Where can people find additional information about the flu?
+ABT_treatment:Should patients with the flu- or mono-like illness of primary HIV infection be treated?
+ABT_disease:What is blood poisoning?
+ABT_treatment:What specialists treat Marburg infections?
+ABT_disease:What is sepsis?
+ABT_symptom:What are the types of coxsackieviruses, and what can they cause?
+ABT_disease:What is swine flu?
+ABT_symptom:When should a person go to the emergency department for the flu?
+ABT_symptom:How do health-care professionals diagnose roseola?
+ABT_symptom:How do I know I have the stomach flu (gastroenteritis)?
+ABT_disease:What is an integrase strand transfer inhibitor?
+ABT_disease:What is the history of typhoid fever?
+ABT_causes:How do patients get typhoid fever?
+ABT_symptom:What are the complications of sepsis?
+ABT_treatment:What is the treatment for anthrax?
+ABT_disease:What is malaria?
+ABT_causes:What causes meningococcemia?
+Other:When is the contagious stage, and should I be isolated
+ABT_symptom:How do health-care professionals diagnose Marburg viral infections?
+IS_cau_dis:Can the fever cause a seizure?
+ABT_causes:What causes hantavirus pulmonary syndrome?
+IS_contagious:When is pneumonia contagious?
+IS_contagious:Is sepsis contagious?
+ABT_treatment:What types of specialists treat yellow fever?
+ABT_symptom:How do physicians diagnose malaria?
+ABT_causes:How is the stomach flu (gastroenteritis) spread?
+ABT_treatment:What is the treatment for the stomach flu (gastroenteritis)?
+ABT_disease:What is metastatic bone cancer?
+ABT_symptom:How will I know if someone has sepsis?
+ABT_disease:Where can people find more information about cancer?
+ABT_causes:How is malaria transmitted?
+ABT_causes:How do people transmit tuberculosis?
+IS_contagious:Is TB contagious, and how long is the incubation period and contagious period?
+ABT_causes:Who develops Legionnaires' disease?
+ABT_risk:What are risk factors for plague?
+ABT_causes:Who develops Legionnaires' disease?
+IS_prev_dis:Is it possible to prevent meningococcemia?
+ABT_symptom:What are tuberculosis symptoms and signs?
+ABT_disease:What is infectious mononucleosis?
+ABT_symptom:What is the prognosis of plague?
+IS_contagious:Is Strep Throat Contagious?
+ABT_symptom:How will I know if I have a cold or the flu?
+ABT_causes:What is the prognosis of a group B strep infection?
+Other:What is the incubation period for pneumonia?
+ABT_symptom:What if I have multiple recurrent episodes of strep throat?
+ABT_disease:What is necrotizing fasciitis?
+ABT_symptom:What are sepsis (blood poisoning) symptoms and signs?
+ABT_treatment:Do antiviral agents protect people from the flu?
+ABT_disease:What are complications of stomach flu (gastroenteritis)?
+ABT_symptom:How is RSV infection diagnosed?
+IS_contagious:Is swine flu (H1N1) contagious?
+ABT_symptom:When should I call my doctor for hypothermia?
+Other:What is the contagious period for TB?
+ABT_symptom:What if I have multiple recurrent episodes of strep throat?
+ABT_disease:What is hypothermia?
+ABT_causes:What is the prognosis for cancer?
+ABT_disease:What is endocarditis?
+ABT_symptom:What does chickenpox look like?
+ABT_causes:What causes swine flu?
+ABT_risk:Is a seizure due to fever dangerous?
+ABT_disease:What is rubella (German measles)?
+ABT_causes:What is the prognosis of mono?
+ABT_prev:How can Legionnaires' disease be prevented?
+IS_contagious:Is the coxsackievirus contagious?
+ABT_symptom:When should I call my doctor for stomach flu (gastroenteritis)?
+ABT_treatment:Are there home remedies for swine flu?
+IS_contagious:Is tuberculosis (TB) contagious?
+ABT_symptom:How do health care professionals diagnose sepsis?
+ABT_risk:What are risk factors for leptospirosis?
+ABT_treatment:What specialties of doctors treat roseola?
+IS_contagious:is roseola contagious?
+ABT_treatment:What is the treatment for cancer?
+ABT_symptom:What are the types of non-Hodgkin's lymphoma, and how is non-Hodgkin's lymphoma staging determined?
+ABT_disease:What is malaria?
+ABT_causes:Can pneumonia spread?
+ABT_symptom:How do health-care professionals diagnose the flu (influenza)?
+ABT_symptom:How will I know if someone has sepsis?
+IS_prev_dis:Is It Wise to Take a Steroid for a Sore Throat?
+ABT_treatment:Does my child need the rubella vaccine (MMR)?
+ABT_causes:What causes encephalitis?
+IS_prev_dis:Is it possible to prevent roseola?
+ABT_symptom:What are the complications of pericarditis?
+ABT_causes:What is the prognosis of malaria?
+ABT_treatment:Why should the flu (influenza) vaccine be taken every year?
+ABT_treatment:How effective is the flu vaccine?
+IS_prev_dis:Is it possible to prevent Marburg virus infections?
+ABT_risk:What are some risk factors for bladder infection?
+ABT_disease:What is Marburg virus disease?
+ABT_disease:What is Hodgkin's lymphoma?
+ABT_treatment:What is the treatment for meningococcemia?
+IS_contagious:Is leptospirosis contagious?
+IS_prev_dis:Is it possible to prevent the spread of fifth disease?
+ABT_disease:What is the swine flu?
+ABT_symptom:What are the most common causes of the stomach flu (gastroenteritis)?
+ABT_causes:What causes bladder infections?
+ABT_risk:Who is at risk for endocarditis?
+ABT_disease:What is leptospirosis?
+IS_contagious:Is hantavirus contagious?
+ABT_prev:Is it possible to prevent bone cancer?
+Other:What is the contagious period for swine flu?
+ABT_symptom:When should someone seek medical care for a cold or the flu?
+ABT_causes:How is HIV spread (transmitted)?
+ABT_symptom:What laboratory tests are used to monitor HIV-infected people?
+Other:How common is anthrax?
+Other:What is the contagious period for swine flu (H1N1)?
+ABT_disease:What is sepsis?
+ABT_disease:What is the swine flu?
+ABT_prev:How can people prevent tuberculosis?
+ABT_risk:What are non-Hodgkin's lymphoma risk factors?
+ABT_risk:Who should receive the flu vaccine, and who has the highest risk factors?
+ABT_treatment:What HIV drugs are in development?
+IS_contagious:Is hantavirus contagious?
+ABT_symptom:Are home remedies effective for a bladder infection?
+ABT_causes:How is group B strep transmitted?
+Other:What are some additional sources of information on necrotizing fasciitis?
+ABT_disease:What is cancer?
+ABT_disease:What is pericarditis?
+ABT_causes:What causes leptospirosis?
+IS_contagious:Is yellow fever contagious?
+ABT_risk:Who is at risk for severe disease?
+ABT_treatment:How is endocarditis treated?
+ABT_causes:How is HIV spread (transmitted)?
+ABT_symptom:How will I know if I am cured of swine flu?
+ABT_disease:What is meningitis?
+ABT_disease:What is a bladder infection?
+ABT_disease:What is fifth disease?
+ABT_causes:How is sepsis transmitted?
+ABT_symptom:How do physicians diagnose tuberculosis?
+IS_contagious:Is malaria contagious?
+ABT_symptom:Are there any complications of roseola?
+ABT_treatment:What medications treat the flu?
+ABT_symptom:What are the signs and symptoms of stomach flu (gastroenteritis) in children?
+IS_contagious:is roseola contagious?
+ABT_risk:What are the risk factors for mono?
+ABT_symptom:What are bone cancer symptoms and signs?
+ABT_causes:How do people get infected with coxsackievirus?
+ABT_prev:How can I prevent a sore throat?
+Other:How long is pneumonia contagious?
+ABT_causes:How is swine flu transmitted?
+ABT_causes:How do patients get typhoid fever?
+ABT_prev:What is the key to flu (influenza) prevention?
+ABT_symptom:When should someone seek medical care for pneumonia?
+ABT_causes:How do people transmit tuberculosis?
+IS_contagious:Is malaria contagious?
+ABT_symptom:What are symptoms and signs of HIV infection and AIDS in men, women, and children?
+ABT_treatment:Are there home remedies for chickenpox?
+IS_prev_dis:Is it possible to prevent sepsis (blood poisoning)?
+ABT_causes:How is sepsis transmitted?
+IS_contagious:Is tuberculosis (TB) contagious?
+ABT_symptom:How do health-care professionals diagnose cancer?
+ABT_causes:What causes yellow fever?
+ABT_disease:What is bone cancer?
+ABT_treatment:What is the treatment for yellow fever?
+IS_contagious:Is swine flu (H1N1) contagious?
+ABT_prev:What items should I have to be prepared to prevent hypothermia?
+ABT_risk:What are risk factors for getting Marburg infections?
+ABT_causes:What causes necrotizing fasciitis?
+ABT_causes:What causes yellow fever?
+IS_contagious:Is leptospirosis contagious?
+ABT_treatment:What specialists treat coxsackievirus infections?
+ABT_causes:What is roseola?
+IS_prev_dis:Is it possible to prevent coxsackievirus infections?
+IS_contagious:Is Strep Throat Contagious?
+IS_contagious:Is TB contagious, and how long is the incubation period and contagious period?
+ABT_causes:How does flu spread?
+IS_prev_dis:Is it possible to prevent Marburg virus infections?
+ABT_symptom:When should I see a doctor for a sore throat?
+ABT_disease:What is tuberculosis (TB)?
+ABT_disease:What are serious but rare complications of cat scratch disease?
+IS_prev_dis:Is it possible to prevent the spread of fifth disease?
+ABT_symptom:How do health-care professionals diagnose encephalitis and meningitis?
+IS_prev_dis:Is it possible to prevent meningococcemia?
+ABT_risk:Is a seizure due to fever dangerous?
+ABT_symptom:How is the diagnosis made of anthrax?
+ABT_disease:What is anthrax?
+ABT_treatment:What specialties of doctors treat encephalitis and meningitis?
+IS_prev_dis:Is it possible to prevent hantavirus pulmonary syndrome?
+ABT_risk:Can the flu be deadly?
+ABT_disease:What is tuberculosis?
+IS_prev_dis:Is it possible to prevent necrotizing fasciitis?
+ABT_treatment:What specialists treat malaria?
+IS_prev_dis:Is it possible to prevent hantavirus pulmonary syndrome?
+ABT_symptom:What are the complications of rubella?
+Other:What is the contagious period for chickenpox?
+ABT_causes:What causes Marburg disease?
+IS_contagious:Is pneumonia contagious?
+ABT_symptom:How is hypothermia diagnosed?
+ABT_causes:What is the prognosis for anthrax infections?
+Other:How long is hantavirus contagious?
+IS_contagious:Is sepsis contagious?
+IS_prev_dis:Is it possible to prevent mono?
+ABT_disease:What is a connective tissue disease?
+ABT_symptom:How is endocarditis diagnosed?
+IS_contagious:Is necrotizing fasciitis contagious?
+IS_contagious:Is necrotizing fasciitis contagious?
+ABT_prev:Is it possible to prevent cancer?
+ABT_risk:What are risk factors for tuberculosis?
+IS_prev_dis:Is it possible to prevent plague?
+ABT_symptom:How will I know if I have tuberculosis?
+IS_contagious:Is pneumonia contagious?
+ABT_symptom:How is anthrax contracted?
+IS_contagious:Is swine flu contagious?
+IS_prev_dis:Is it possible to prevent encephalitis?
+ABT_causes:What is the prognosis of coxsackievirus infections?
+ABT_symptom:When should I contact a health-care provider about sepsis?
+ABT_disease:Where can I find more information about swine flu (H1N1 and H3N2v)?
+Other:What is the incubation period for tuberculosis?
+ABT_symptom:What is the prognosis of plague?
+ABT_causes:How is fifth disease spread?
+IS_prev_dis:Is it possible to prevent sepsis (blood poisoning)?
+ABT_symptom:How is hantavirus pulmonary syndrome diagnosed?
+ABT_causes:What causes leptospirosis?
+ABT_treatment:What is the initial therapy for HIV?
+ABT_symptom:What are the types of Hodgkin's lymphoma?
+IS_prev_dis:Can typhoid fever be prevented?
+ABT_causes:What is the prognosis of an RSV infection?
+ABT_disease:Where can people find more information on meningococcemia?
+ABT_causes:How is Legionnaires' disease spread?
+IS_prev_dis:Can typhoid fever be prevented?
+ABT_causes:What causes pericarditis?
+ABT_symptom:What tests are used to diagnose bone cancer?
+ABT_symptom:What are the possible complications of chickenpox?
+ABT_symptom:How is pericarditis diagnosed?
+IS_contagious:Is yellow fever contagious?
+ABT_treatment:What specialists treat infectious mono?
+ABT_causes:How do cold and flu viruses spread?
+ABT_causes:What causes anthrax?
+ABT_causes:What is the cause of mono?
+ABT_treatment:Are there different types of necrotizing fasciitis?
+Other:How long are coxsackieviruses contagious?
+ABT_disease:Where can people find more information about non-Hodgkin's lymphoma?
+ABT_disease:What is meningococcemia?
+ABT_disease:What is the history of HIV, and when was HIV discovered? HIV vs. AIDS
+ABT_disease:What is the difference between non-Hodgkin's lymphoma and Hodgkin's disease (or Hodgkin's lymphoma)?
+Other:How long is a cold or flu contagious?
+ABT_prev:How can RSV infection be prevented?
+IS_prev_dis:Is it possible to prevent yellow fever?
+ABT_risk:What are the risks of missing doses or stopping antiviral therapy?
+ABT_risk:What areas are high risk for contracting yellow fever?
+IS_prev_dis:Is it possible to prevent encephalitis?
+IS_cau_dis:Should a child with roseola see a doctor?
+ABT_causes:How is roseola spread?
+ABT_causes:How is Legionnaires' disease spread?
+ABT_symptom:What is the prognosis for patients who get the flu?
+Other:What is the future for HIV-infected individuals with regards to treatment simplification and cure research?
+IS_contagious:Is meningitis contagious?
+ABT_prev:How can RSV infection be prevented?
+ABT_disease:What is a coxsackievirus?
+ABT_treatment:What other support is available for cancer patients?
+ABT_symptom:How is strep throat diagnosed?
+ABT_symptom:How will I know if I have swine flu?
+Other:What is the contagious period for leptospirosis?
+ABT_causes:How is malaria transmitted?
+ABT_prev:How do physicians determine cancer staging?
+ABT_treatment:What specialists treat leptospirosis?
+ABT_causes:How is plague transmitted?
+ABT_disease:What is non-Hodgkin's lymphoma?
+ABT_symptom:How is meningococcemia diagnosed?
+IS_prev_dis:Is it possible to prevent necrotizing fasciitis?
+ABT_symptom:What are the symptoms of endocarditis?
+ABT_symptom:What is the prognosis (outlook), and what are the complications for patients with encephalitis or meningitis?
+IS_contagious:When is pneumonia contagious?
+ABT_symptom:How will I know if I am cured of swine flu?
+ABT_treatment:How is a bladder infection during pregnancy treated?
+ABT_treatment:Are there other names for roseola?
+ABT_treatment:What is the treatment for bone cancer?
+ABT_symptom:What are potential complications of a bladder infection?
+ABT_risk:What are risk factors for bone cancer?
+ABT_symptom:What are encephalitis symptoms and signs?
+ABT_risk:What are the risk factors for hypothermia?
+Other:Why is Africa now seeing so many cases of what were relatively rare viral
+Other:Who is at risk to get necrotizing fasciitis?
+ABT_causes:Is RSV infection contagious, and how is RSV infection transmitted?
+IS_contagious:What is the contagious period for mono?
+Other:How long is the flu contagious, and how long does the flu last?
+ABT_causes:What is the prognosis of chickenpox?
+Other:What is the incubation period for malaria?
+ABT_treatment:Is there an encephalitis vaccine?
+ABT_disease:What is the history of HIV, and when was HIV discovered? HIV vs. AIDS
+ABT_symptom:How is the diagnosis of Legionnaires' disease made?
+ABT_disease:What is typhoid fever?
+IS_prev_dis:Is it possible to prevent plague?
+ABT_treatment:What kind of doctors treat non-Hodgkin's lymphoma?
+Other:What is the incubation period for leptospirosis?
+ABT_symptom:What are the symptoms of hypothermia in infants and children?
+Other:What happens if the patient's viral load increases while on HIV therapy?
+ABT_disease:What is encephalomyelitis?
+ABT_causes:What causes plague?
+ABT_symptom:if I have fifth disease?
+IS_prev_dis:Is it possible to prevent group B strep infection?
+ABT_symptom:What tests do health-care professionals use to diagnose swine flu?
+ABT_symptom:What is the prognosis for people with yellow fever?
+ABT_treatment:Is there a malaria vaccine?
+ABT_symptom:What is the prognosis for patients who get the flu?
+ABT_causes:What virus causes roseola?
+ABT_causes:What is the prognosis for a child with roseola?
+ABT_risk:What are the risk factors for swine flu?
+ABT_prev:Is it possible to prevent cat scratch disease?
+ABT_symptom:What are coxsackievirus infection symptoms and signs?
+IS_contagious:Is malaria contagious?
+ABT_treatment:Are there any treatments or medications that relieve bone cancer pain?
+ABT_causes:What is the prognosis (outlook) and complications for patients who get swine flu?
+ABT_disease:What is flu (influenza)?
+ABT_causes:Is anthrax contagious?
+ABT_symptom:How is a bladder infection diagnosed?
+ABT_causes:How is swine flu transmitted?
+ABT_symptom:How do physicians diagnose coxsackievirus infections?
+ABT_disease:What is yellow fever?
+IS_prev_dis:Is it possible to prevent mono?
+ABT_causes:What causes fifth disease?
+ABT_causes:What is the prognosis for hypothermia?
+ABT_causes:Is plague contagious?
+ABT_disease:What is encephalitis?
+Other:Who are the doctor's who treat Hodgkin's lymphoma?
+IS_prev_dis:Is it possible to prevent coxsackievirus infections?
+ABT_symptom:How do physicians diagnose leptospirosis?
+ABT_treatment:What is the follow-up care after treatment for Hodgkin's lymphoma?
+ABT_treatment:Are there home remedies or alternative treatments for cancer?
+ABT_causes:What is the prognosis for a bladder infection?
+ABT_causes:What causes endocarditis?
+ABT_disease:What is the prognosis (outcome) for patients with necrotizing fasciitis? What are complications of necrotizing fasciitis?
+IS_prev_dis:Can swine flu be prevented if the swine flu vaccine (or other flu strain vaccines) is not readily available?
+ABT_causes:What causes hypothermia?
+ABT_treatment:What is the treatment for plague?
+ABT_symptom:How do people get a second opinion for Hodgkin's lymphoma?
+ABT_symptom:What are the signs and symptoms of a bladder infection in men?
+ABT_symptom:What are the signs and symptoms of a bladder infection in children?
+ABT_causes:When does RSV infection occur, and who gets it?
+ABT_causes:How is mono transmitted or spread?
+ABT_disease:Is encephalitis contagious?
+ABT_causes:What is the prognosis of hantavirus pulmonary syndrome?
+ABT_symptom:How do physicians diagnose non-Hodgkin's lymphoma?
+ABT_treatment:What specialists treat anthrax?
+ABT_treatment:What types of specialists treat chickenpox?
+ABT_disease:What is pneumonia?
+ABT_symptom:What are the complications of group B strep infection?
+IS_prev_dis:Can swine flu be prevented if the swine flu vaccine (or other flu strain vaccines) is not readily available?
+ABT_disease:What is a CCR5 antagonist?
+Other:What happens after an exposure to the blood or genital secretions of an HIV-infected person
+ABT_prev:How can I prevent a sore throat?
+ABT_causes:What causes connective tissue disease?
+ABT_disease:Where can people get more information on hantavirus pulmonary syndrome?
+ABT_causes:What causes meningitis?
+ABT_treatment:When should someone get the flu shot?
+IS_prev_dis:Is it possible to prevent non-Hodgkin's lymphoma?
+ABT_symptom:What are protease inhibitors?
+ABT_causes:How is swine flu transmitted?
+ABT_symptom:Are there other symptoms that can occur with fifth disease?
+ABT_treatment:What specialties of doctors treat hantavirus?
+ABT_risk:What are risk factors for hantavirus pulmonary syndrome?
+ABT_disease:What is fifth disease?
+ABT_symptom:What are the symptoms of typhoid fever?
+ABT_causes:How does chickenpox spread?
+ABT_treatment:What about treatment for HIV during pregnancy?
+ABT_risk:What are the risk factors for sepsis?
+ABT_symptom:How is group B strep infection diagnosed?
+Other:What is the incubation period for malaria?
+IS_prev_dis:Is it possible to prevent roseola?
+ABT_treatment:Is there a plague vaccine?
+IS_prev_dis:Is it possible to prevent yellow fever?
+Other:What is the contagious period for pneumonic plague?
+ABT_causes:What causes chickenpox?
+ABT_prev:Can bladder infections be prevented?
+Other:When can the child return to child care?
+IS_contagious:Is swine flu contagious?
+ABT_causes:What is the prognosis of tuberculosis?
+ABT_treatment:As an adult, do I need the rubella vaccine (MMR)?
+ABT_disease:What autoimmune diseases are associated with connective tissue disease?
+ABT_treatment:What specialists treat cancer?
+ABT_symptom:How do physicians diagnose plague?
+ABT_risk:What are genetic risk factors for developing connective tissue disease?
+ABT_symptom:What are the signs of mono?
+ABT_causes:What is the prognosis with sepsis?
+ABT_symptom:What are symptoms and signs of meningococcemia?
+IS_cau_dis:Should a child with roseola see a doctor?
+ABT_risk:What are risk factors for anthrax infection?
+Other:What is the incubation period for pneumonia?
+ABT_symptom:How do health-care professionals diagnose yellow fever?
+ABT_disease:What is chickenpox?
+IS_prev_dis:Is it possible to prevent non-Hodgkin's lymphoma?
+ABT_disease:What is hantavirus?
